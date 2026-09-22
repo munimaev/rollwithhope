@@ -50,20 +50,30 @@ export class ImageExporter {
     fs.mkdirSync(path.join(outDir, 'images', 'media'), { recursive: true })
   }
 
-  /** Карточка: 660px по ширине (2× для 330 CSS-px), WebP q85, пережатая из оригинала. */
-  async exportCard(entry: ImageEntry): Promise<{ url: string; width: number; height: number }> {
+  /** Карточка: два файла — 330px (быстрая загрузка списков/страниц с множеством карт,
+   * используется как <img src>) и 660px (полноразмерный превью в лайтбоксе при клике,
+   * используется как data-full). Оба — WebP q85, пережаты из оригинала независимо
+   * (не апскейл друг из друга), чтобы 330px не терял резкость из-за двойного ресемплинга. */
+  async exportCard(entry: ImageEntry): Promise<{ url330: string; url660: string; width: number; height: number }> {
     const hash = fileTag(entry.absPath)
-    const outName = `${hash}.webp`
-    const outRel = `images/cards/${outName}`
-    const outAbs = path.join(this.outDir, outRel)
-    if (!fs.existsSync(outAbs)) {
-      const img = sharp(entry.absPath)
-      const meta = await img.metadata()
+    const out330Rel = `images/cards/${hash}-330.webp`
+    const out660Rel = `images/cards/${hash}-660.webp`
+    const out330Abs = path.join(this.outDir, out330Rel)
+    const out660Abs = path.join(this.outDir, out660Rel)
+
+    if (!fs.existsSync(out660Abs)) {
+      const meta = await sharp(entry.absPath).metadata()
       const targetW = Math.min(660, meta.width ?? 660)
-      await img.resize({ width: targetW }).webp({ quality: 85 }).toFile(outAbs)
+      await sharp(entry.absPath).resize({ width: targetW }).webp({ quality: 85 }).toFile(out660Abs)
     }
-    const meta = await sharp(outAbs).metadata()
-    return { url: outRel, width: meta.width ?? 660, height: meta.height ?? 922 }
+    if (!fs.existsSync(out330Abs)) {
+      const meta = await sharp(entry.absPath).metadata()
+      const targetW = Math.min(330, meta.width ?? 330)
+      await sharp(entry.absPath).resize({ width: targetW }).webp({ quality: 85 }).toFile(out330Abs)
+    }
+
+    const meta660 = await sharp(out660Abs).metadata()
+    return { url330: out330Rel, url660: out660Rel, width: meta660.width ?? 660, height: meta660.height ?? 922 }
   }
 
   /** Баннер/иллюстрация: копия с пережатием в WebP q85, ограничение по ширине 1600px

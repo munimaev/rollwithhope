@@ -105,10 +105,10 @@ async function resolveEmbed(m: WikiMatch, ctx: WikiResolveContext): Promise<stri
   }
 
   if (entry.isCard) {
-    const { url, width, height } = await ctx.imageExporter.exportCard(entry)
+    const { url330, url660, width, height } = await ctx.imageExporter.exportCard(entry)
     return (
-      `<button type="button" class="dh-card" data-full="${url}" data-w="${width}" data-h="${height}">` +
-      `<img src="${url}" width="330" height="${Math.round((330 * height) / width)}" loading="lazy" alt="${escapeHtml(basename)}" /></button>`
+      `<button type="button" class="dh-card" data-full="${url660}" data-w="${width}" data-h="${height}">` +
+      `<img src="${url330}" width="330" height="${Math.round((330 * height) / width)}" loading="lazy" alt="${escapeHtml(basename)}" /></button>`
     )
   }
 
