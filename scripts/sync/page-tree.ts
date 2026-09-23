@@ -51,11 +51,17 @@ export function buildSectionPages(
     // Своя страница этой папки (если есть Index.md и она публична)
     let ownId = idPrefix
     let ownUrl = urlPrefix
+    // Важно: reparent-им детей на ownId ТОЛЬКО если у этой папки реально есть
+    // опубликованная (public) страница-Index — иначе дети получат parentId,
+    // указывающий на несуществующую в pages[] страницу, станут "сиротами" и
+    // выпадут из дерева навигации (SectionTree/TreeNode их не найдут).
+    let ownIndexIsPublic = false
     if (indexFile) {
       const abs = path.join(absDir, indexFile.name)
       const raw = fs.readFileSync(abs, 'utf8')
       const parsed = matter(raw)
       if (parsed.data.visibility === 'public') {
+        ownIndexIsPublic = true
         pages.push(makePage({
           absPath: abs, urlPrefix, idPrefix, parentId, sortKeyPrefix, order: 0,
           section, slugs, warnings, raw: parsed, isIndex: true,
@@ -80,7 +86,7 @@ export function buildSectionPages(
         absPath: abs,
         urlPrefix: `${ownUrl}/${slug}`,
         idPrefix: `${ownId}/${slug}`,
-        parentId: indexFile ? ownId : parentId,
+        parentId: ownIndexIsPublic ? ownId : parentId,
         sortKeyPrefix: `${sortKeyPrefix}.${String(i).padStart(3, '0')}`,
         order: i,
         section, slugs, warnings, raw: parsed, isIndex: false,
@@ -95,7 +101,7 @@ export function buildSectionPages(
         abs,
         `${ownUrl}/${slug}`,
         `${ownId}/${slug}`,
-        indexFile ? ownId : parentId,
+        ownIndexIsPublic ? ownId : parentId,
         `${sortKeyPrefix}.d${String(i).padStart(3, '0')}`,
       )
     })

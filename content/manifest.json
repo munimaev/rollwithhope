@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T13:50:15.948Z",
+  "generatedAt": "2026-09-22T16:20:20.623Z",
   "sections": [
     {
       "id": "rules",
@@ -22,7 +22,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/00︱Introduction/The Basics.md",
       "isIndex": false,
-      "parentId": "rules/introduction",
+      "parentId": null,
       "sortKey": ".d000.000",
       "banner": null,
       "backlinks": [
@@ -42,7 +42,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/00︱Introduction/What Is This.md",
       "isIndex": false,
-      "parentId": "rules/introduction",
+      "parentId": null,
       "sortKey": ".d000.001",
       "banner": null,
       "backlinks": []
@@ -60,7 +60,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/01︱📗︱Подготовка к приключениям/02︱📗︱Создание персонажа/00︱Создание персонажа.md",
       "isIndex": false,
-      "parentId": "rules/preparing-for-adventure",
+      "parentId": null,
       "sortKey": ".d001.d001.000",
       "banner": null,
       "backlinks": [
@@ -77,7 +77,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/01︱📗︱Подготовка к приключениям/02︱📗︱Создание персонажа/01︱Шаг 1. Класс и подкласс.md",
       "isIndex": false,
-      "parentId": "rules/preparing-for-adventure",
+      "parentId": null,
       "sortKey": ".d001.d001.001",
       "banner": null,
       "backlinks": [
@@ -95,7 +95,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/01︱📗︱Подготовка к приключениям/02︱📗︱Создание персонажа/01︱Шаг 2. Выберите наследие.md",
       "isIndex": false,
-      "parentId": "rules/preparing-for-adventure",
+      "parentId": null,
       "sortKey": ".d001.d001.002",
       "banner": null,
       "backlinks": [
@@ -113,7 +113,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/01︱📗︱Подготовка к приключениям/02︱📗︱Создание персонажа/01︱Шаг 3. Распределите атрибуты.md",
       "isIndex": false,
-      "parentId": "rules/preparing-for-adventure",
+      "parentId": null,
       "sortKey": ".d001.d001.003",
       "banner": null,
       "backlinks": [
@@ -131,7 +131,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/01︱📗︱Подготовка к приключениям/02︱📗︱Создание персонажа/01︱Шаг 4. Укажите дополнительную информацию о персонаже.md",
       "isIndex": false,
-      "parentId": "rules/preparing-for-adventure",
+      "parentId": null,
       "sortKey": ".d001.d001.004",
       "banner": null,
       "backlinks": [
@@ -149,7 +149,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/01︱📗︱Подготовка к приключениям/02︱📗︱Создание персонажа/01︱Шаг 5. Выберите стартовое снаряжение.md",
       "isIndex": false,
-      "parentId": "rules/preparing-for-adventure",
+      "parentId": null,
       "sortKey": ".d001.d001.005",
       "banner": null,
       "backlinks": [
@@ -167,7 +167,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/01︱📗︱Подготовка к приключениям/02︱📗︱Создание персонажа/01︱Шаг 6. Создайте свою предысторию.md",
       "isIndex": false,
-      "parentId": "rules/preparing-for-adventure",
+      "parentId": null,
       "sortKey": ".d001.d001.006",
       "banner": null,
       "backlinks": [
@@ -185,7 +185,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/01︱📗︱Подготовка к приключениям/02︱📗︱Создание персонажа/01︱Шаг 7. Определите свой опыт.md",
       "isIndex": false,
-      "parentId": "rules/preparing-for-adventure",
+      "parentId": null,
       "sortKey": ".d001.d001.007",
       "banner": null,
       "backlinks": [
@@ -203,7 +203,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/01︱📗︱Подготовка к приключениям/02︱📗︱Создание персонажа/01︱Шаг 8. Выберите карточки доменов.md",
       "isIndex": false,
-      "parentId": "rules/preparing-for-adventure",
+      "parentId": null,
       "sortKey": ".d001.d001.008",
       "banner": null,
       "backlinks": [
@@ -221,7 +221,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/01︱📗︱Подготовка к приключениям/02︱📗︱Создание персонажа/01︱Шаг 9. Создайте взаимосвязи.md",
       "isIndex": false,
-      "parentId": "rules/preparing-for-adventure",
+      "parentId": null,
       "sortKey": ".d001.d001.009",
       "banner": null,
       "backlinks": [
@@ -239,7 +239,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/01︱📗︱Подготовка к приключениям/03︱📗︱Классы/01︱Классы.md",
       "isIndex": false,
-      "parentId": "rules/preparing-for-adventure",
+      "parentId": null,
       "sortKey": ".d001.d002.000",
       "banner": null,
       "backlinks": [
@@ -259,7 +259,7 @@
       "original": "Wordsmith",
       "vaultRelPath": "01︱📚︱Правила/01︱📗︱Подготовка к приключениям/03︱📗︱Классы/02︱Бард/Бард — Мастер слова.md",
       "isIndex": false,
-      "parentId": "rules/preparing-for-adventure",
+      "parentId": null,
       "sortKey": ".d001.d002.d000.000",
       "banner": null,
       "backlinks": [
@@ -281,7 +281,7 @@
       "original": "Troubadour",
       "vaultRelPath": "01︱📚︱Правила/01︱📗︱Подготовка к приключениям/03︱📗︱Классы/02︱Бард/Бард — Трубадур.md",
       "isIndex": false,
-      "parentId": "rules/preparing-for-adventure",
+      "parentId": null,
       "sortKey": ".d001.d002.d000.001",
       "banner": null,
       "backlinks": [
@@ -302,7 +302,7 @@
       "original": "Bard",
       "vaultRelPath": "01︱📚︱Правила/01︱📗︱Подготовка к приключениям/03︱📗︱Классы/02︱Бард/Бард.md",
       "isIndex": false,
-      "parentId": "rules/preparing-for-adventure",
+      "parentId": null,
       "sortKey": ".d001.d002.d000.002",
       "banner": null,
       "backlinks": [
@@ -322,7 +322,7 @@
       "original": "Call of the Brave",
       "vaultRelPath": "01︱📚︱Правила/01︱📗︱Подготовка к приключениям/03︱📗︱Классы/02︱Воин/Воин — Зов Отваги.md",
       "isIndex": false,
-      "parentId": "rules/preparing-for-adventure",
+      "parentId": null,
       "sortKey": ".d001.d002.d001.000",
       "banner": null,
       "backlinks": [
@@ -344,7 +344,7 @@
       "original": "Call of the Slayer",
       "vaultRelPath": "01︱📚︱Правила/01︱📗︱Подготовка к приключениям/03︱📗︱Классы/02︱Воин/Воин — Зов Резни.md",
       "isIndex": false,
-      "parentId": "rules/preparing-for-adventure",
+      "parentId": null,
       "sortKey": ".d001.d002.d001.001",
       "banner": null,
       "backlinks": [
@@ -365,7 +365,7 @@
       "original": "Warrior",
       "vaultRelPath": "01︱📚︱Правила/01︱📗︱Подготовка к приключениям/03︱📗︱Классы/02︱Воин/Воин.md",
       "isIndex": false,
-      "parentId": "rules/preparing-for-adventure",
+      "parentId": null,
       "sortKey": ".d001.d002.d001.002",
       "banner": null,
       "backlinks": [
@@ -385,7 +385,7 @@
       "original": "School of War",
       "vaultRelPath": "01︱📚︱Правила/01︱📗︱Подготовка к приключениям/03︱📗︱Классы/02︱Волшебник/Волшебник — Школа Войны.md",
       "isIndex": false,
-      "parentId": "rules/preparing-for-adventure",
+      "parentId": null,
       "sortKey": ".d001.d002.d002.000",
       "banner": null,
       "backlinks": [
@@ -407,7 +407,7 @@
       "original": "School of Knowledge",
       "vaultRelPath": "01︱📚︱Правила/01︱📗︱Подготовка к приключениям/03︱📗︱Классы/02︱Волшебник/Волшебник — Школа Знания.md",
       "isIndex": false,
-      "parentId": "rules/preparing-for-adventure",
+      "parentId": null,
       "sortKey": ".d001.d002.d002.001",
       "banner": null,
       "backlinks": [
@@ -428,7 +428,7 @@
       "original": "Wizard",
       "vaultRelPath": "01︱📚︱Правила/01︱📗︱Подготовка к приключениям/03︱📗︱Классы/02︱Волшебник/Волшебник.md",
       "isIndex": false,
-      "parentId": "rules/preparing-for-adventure",
+      "parentId": null,
       "sortKey": ".d001.d002.d002.002",
       "banner": null,
       "backlinks": [
@@ -448,7 +448,7 @@
       "original": "Warden of Renewal",
       "vaultRelPath": "01︱📚︱Правила/01︱📗︱Подготовка к приключениям/03︱📗︱Классы/02︱Друид/Друид — Хранитель жизни.md",
       "isIndex": false,
-      "parentId": "rules/preparing-for-adventure",
+      "parentId": null,
       "sortKey": ".d001.d002.d003.000",
       "banner": null,
       "backlinks": [
@@ -470,7 +470,7 @@
       "original": "Warden of the Elements",
       "vaultRelPath": "01︱📚︱Правила/01︱📗︱Подготовка к приключениям/03︱📗︱Классы/02︱Друид/Друид — Хранитель стихий.md",
       "isIndex": false,
-      "parentId": "rules/preparing-for-adventure",
+      "parentId": null,
       "sortKey": ".d001.d002.d003.001",
       "banner": null,
       "backlinks": [
@@ -491,7 +491,7 @@
       "original": "Druid",
       "vaultRelPath": "01︱📚︱Правила/01︱📗︱Подготовка к приключениям/03︱📗︱Классы/02︱Друид/Друид.md",
       "isIndex": false,
-      "parentId": "rules/preparing-for-adventure",
+      "parentId": null,
       "sortKey": ".d001.d002.d003.002",
       "banner": null,
       "backlinks": [
@@ -509,7 +509,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/01︱📗︱Подготовка к приключениям/03︱📗︱Классы/02︱Друид/Звериные формы — Тир 1.md",
       "isIndex": false,
-      "parentId": "rules/preparing-for-adventure",
+      "parentId": null,
       "sortKey": ".d001.d002.d003.003",
       "banner": null,
       "backlinks": [
@@ -530,7 +530,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/01︱📗︱Подготовка к приключениям/03︱📗︱Классы/02︱Друид/Звериные формы — Тир 2.md",
       "isIndex": false,
-      "parentId": "rules/preparing-for-adventure",
+      "parentId": null,
       "sortKey": ".d001.d002.d003.004",
       "banner": null,
       "backlinks": [
@@ -550,7 +550,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/01︱📗︱Подготовка к приключениям/03︱📗︱Классы/02︱Друид/Звериные формы — Тир 3.md",
       "isIndex": false,
-      "parentId": "rules/preparing-for-adventure",
+      "parentId": null,
       "sortKey": ".d001.d002.d003.005",
       "banner": null,
       "backlinks": [
@@ -570,7 +570,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/01︱📗︱Подготовка к приключениям/03︱📗︱Классы/02︱Друид/Звериные формы — Тир 4.md",
       "isIndex": false,
-      "parentId": "rules/preparing-for-adventure",
+      "parentId": null,
       "sortKey": ".d001.d002.d003.006",
       "banner": null,
       "backlinks": [
@@ -590,7 +590,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/01︱📗︱Подготовка к приключениям/03︱📗︱Классы/02︱Друид/Звериные формы.md",
       "isIndex": false,
-      "parentId": "rules/preparing-for-adventure",
+      "parentId": null,
       "sortKey": ".d001.d002.d003.007",
       "banner": null,
       "backlinks": [
@@ -610,7 +610,7 @@
       "original": "Nightwalker",
       "vaultRelPath": "01︱📚︱Правила/01︱📗︱Подготовка к приключениям/03︱📗︱Классы/02︱Плут/Плут — Ночной странник.md",
       "isIndex": false,
-      "parentId": "rules/preparing-for-adventure",
+      "parentId": null,
       "sortKey": ".d001.d002.d004.000",
       "banner": null,
       "backlinks": [
@@ -632,7 +632,7 @@
       "original": "Syndicate",
       "vaultRelPath": "01︱📚︱Правила/01︱📗︱Подготовка к приключениям/03︱📗︱Классы/02︱Плут/Плут — Синдикат.md",
       "isIndex": false,
-      "parentId": "rules/preparing-for-adventure",
+      "parentId": null,
       "sortKey": ".d001.d002.d004.001",
       "banner": null,
       "backlinks": [
@@ -653,7 +653,7 @@
       "original": "Rogue",
       "vaultRelPath": "01︱📚︱Правила/01︱📗︱Подготовка к приключениям/03︱📗︱Классы/02︱Плут/Плут.md",
       "isIndex": false,
-      "parentId": "rules/preparing-for-adventure",
+      "parentId": null,
       "sortKey": ".d001.d002.d004.002",
       "banner": null,
       "backlinks": [
@@ -673,7 +673,7 @@
       "original": "Divine Wielder",
       "vaultRelPath": "01︱📚︱Правила/01︱📗︱Подготовка к приключениям/03︱📗︱Классы/02︱Серафим/Серафим — Божественный воитель.md",
       "isIndex": false,
-      "parentId": "rules/preparing-for-adventure",
+      "parentId": null,
       "sortKey": ".d001.d002.d005.000",
       "banner": null,
       "backlinks": [
@@ -695,7 +695,7 @@
       "original": "Winged Sentinel",
       "vaultRelPath": "01︱📚︱Правила/01︱📗︱Подготовка к приключениям/03︱📗︱Классы/02︱Серафим/Серафим — Крылатый страж.md",
       "isIndex": false,
-      "parentId": "rules/preparing-for-adventure",
+      "parentId": null,
       "sortKey": ".d001.d002.d005.001",
       "banner": null,
       "backlinks": [
@@ -716,7 +716,7 @@
       "original": "Seraph",
       "vaultRelPath": "01︱📚︱Правила/01︱📗︱Подготовка к приключениям/03︱📗︱Классы/02︱Серафим/Серафим.md",
       "isIndex": false,
-      "parentId": "rules/preparing-for-adventure",
+      "parentId": null,
       "sortKey": ".d001.d002.d005.002",
       "banner": null,
       "backlinks": [
@@ -734,7 +734,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/01︱📗︱Подготовка к приключениям/03︱📗︱Классы/02︱Следопыт/Взаимодействие с питомцем.md",
       "isIndex": false,
-      "parentId": "rules/preparing-for-adventure",
+      "parentId": null,
       "sortKey": ".d001.d002.d006.000",
       "banner": null,
       "backlinks": [
@@ -753,7 +753,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/01︱📗︱Подготовка к приключениям/03︱📗︱Классы/02︱Следопыт/Питомец следопыта.md",
       "isIndex": false,
-      "parentId": "rules/preparing-for-adventure",
+      "parentId": null,
       "sortKey": ".d001.d002.d006.001",
       "banner": null,
       "backlinks": [
@@ -773,7 +773,7 @@
       "original": "Beastbound",
       "vaultRelPath": "01︱📚︱Правила/01︱📗︱Подготовка к приключениям/03︱📗︱Классы/02︱Следопыт/Следопыт — Звериные узы.md",
       "isIndex": false,
-      "parentId": "rules/preparing-for-adventure",
+      "parentId": null,
       "sortKey": ".d001.d002.d006.002",
       "banner": null,
       "backlinks": [
@@ -795,7 +795,7 @@
       "original": "Wayfinder",
       "vaultRelPath": "01︱📚︱Правила/01︱📗︱Подготовка к приключениям/03︱📗︱Классы/02︱Следопыт/Следопыт — Охотник.md",
       "isIndex": false,
-      "parentId": "rules/preparing-for-adventure",
+      "parentId": null,
       "sortKey": ".d001.d002.d006.003",
       "banner": null,
       "backlinks": [
@@ -816,7 +816,7 @@
       "original": "Ranger",
       "vaultRelPath": "01︱📚︱Правила/01︱📗︱Подготовка к приключениям/03︱📗︱Классы/02︱Следопыт/Следопыт.md",
       "isIndex": false,
-      "parentId": "rules/preparing-for-adventure",
+      "parentId": null,
       "sortKey": ".d001.d002.d006.004",
       "banner": null,
       "backlinks": [
@@ -836,7 +836,7 @@
       "original": "Vengeance",
       "vaultRelPath": "01︱📚︱Правила/01︱📗︱Подготовка к приключениям/03︱📗︱Классы/02︱Страж/Страж — Мститель.md",
       "isIndex": false,
-      "parentId": "rules/preparing-for-adventure",
+      "parentId": null,
       "sortKey": ".d001.d002.d007.000",
       "banner": null,
       "backlinks": [
@@ -858,7 +858,7 @@
       "original": "Stalwart",
       "vaultRelPath": "01︱📚︱Правила/01︱📗︱Подготовка к приключениям/03︱📗︱Классы/02︱Страж/Страж — Непоколебимый.md",
       "isIndex": false,
-      "parentId": "rules/preparing-for-adventure",
+      "parentId": null,
       "sortKey": ".d001.d002.d007.001",
       "banner": null,
       "backlinks": [
@@ -879,7 +879,7 @@
       "original": "Guardian",
       "vaultRelPath": "01︱📚︱Правила/01︱📗︱Подготовка к приключениям/03︱📗︱Классы/02︱Страж/Страж.md",
       "isIndex": false,
-      "parentId": "rules/preparing-for-adventure",
+      "parentId": null,
       "sortKey": ".d001.d002.d007.002",
       "banner": null,
       "backlinks": [
@@ -899,7 +899,7 @@
       "original": "Primal Origin",
       "vaultRelPath": "01︱📚︱Правила/01︱📗︱Подготовка к приключениям/03︱📗︱Классы/02︱Чародей/Чародей — Первородный исток.md",
       "isIndex": false,
-      "parentId": "rules/preparing-for-adventure",
+      "parentId": null,
       "sortKey": ".d001.d002.d008.000",
       "banner": null,
       "backlinks": [
@@ -921,7 +921,7 @@
       "original": "Elemental Origin",
       "vaultRelPath": "01︱📚︱Правила/01︱📗︱Подготовка к приключениям/03︱📗︱Классы/02︱Чародей/Чародей — Стихийный исток.md",
       "isIndex": false,
-      "parentId": "rules/preparing-for-adventure",
+      "parentId": null,
       "sortKey": ".d001.d002.d008.001",
       "banner": null,
       "backlinks": [
@@ -942,7 +942,7 @@
       "original": "Sorcerer",
       "vaultRelPath": "01︱📚︱Правила/01︱📗︱Подготовка к приключениям/03︱📗︱Классы/02︱Чародей/Чародей.md",
       "isIndex": false,
-      "parentId": "rules/preparing-for-adventure",
+      "parentId": null,
       "sortKey": ".d001.d002.d008.002",
       "banner": null,
       "backlinks": [
@@ -960,7 +960,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/01︱📗︱Подготовка к приключениям/04︱📗︱Домены/01︱Домены.md",
       "isIndex": false,
-      "parentId": "rules/preparing-for-adventure/domains",
+      "parentId": null,
       "sortKey": ".d001.d003.000",
       "banner": null,
       "backlinks": [
@@ -978,7 +978,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/01︱📗︱Подготовка к приключениям/04︱📗︱Домены/02︱Чтение карточки домена.md",
       "isIndex": false,
-      "parentId": "rules/preparing-for-adventure/domains",
+      "parentId": null,
       "sortKey": ".d001.d003.001",
       "banner": null,
       "backlinks": [
@@ -998,7 +998,7 @@
       "original": "Arcana",
       "vaultRelPath": "01︱📚︱Правила/01︱📗︱Подготовка к приключениям/04︱📗︱Домены/03︱Аркана.md",
       "isIndex": false,
-      "parentId": "rules/preparing-for-adventure/domains",
+      "parentId": null,
       "sortKey": ".d001.d003.002",
       "banner": null,
       "backlinks": [
@@ -1021,7 +1021,7 @@
       "original": "Splendor",
       "vaultRelPath": "01︱📚︱Правила/01︱📗︱Подготовка к приключениям/04︱📗︱Домены/03︱Величие.md",
       "isIndex": false,
-      "parentId": "rules/preparing-for-adventure/domains",
+      "parentId": null,
       "sortKey": ".d001.d003.003",
       "banner": null,
       "backlinks": [
@@ -1044,7 +1044,7 @@
       "original": "Valor",
       "vaultRelPath": "01︱📚︱Правила/01︱📗︱Подготовка к приключениям/04︱📗︱Домены/03︱Доблесть.md",
       "isIndex": false,
-      "parentId": "rules/preparing-for-adventure/domains",
+      "parentId": null,
       "sortKey": ".d001.d003.004",
       "banner": null,
       "backlinks": [
@@ -1067,7 +1067,7 @@
       "original": "Grace",
       "vaultRelPath": "01︱📚︱Правила/01︱📗︱Подготовка к приключениям/04︱📗︱Домены/03︱Изящество.md",
       "isIndex": false,
-      "parentId": "rules/preparing-for-adventure/domains",
+      "parentId": null,
       "sortKey": ".d001.d003.005",
       "banner": null,
       "backlinks": [
@@ -1090,7 +1090,7 @@
       "original": "Blade",
       "vaultRelPath": "01︱📚︱Правила/01︱📗︱Подготовка к приключениям/04︱📗︱Домены/03︱Клинок.md",
       "isIndex": false,
-      "parentId": "rules/preparing-for-adventure/domains",
+      "parentId": null,
       "sortKey": ".d001.d003.006",
       "banner": null,
       "backlinks": [
@@ -1113,7 +1113,7 @@
       "original": "Codex",
       "vaultRelPath": "01︱📚︱Правила/01︱📗︱Подготовка к приключениям/04︱📗︱Домены/03︱Кодекс.md",
       "isIndex": false,
-      "parentId": "rules/preparing-for-adventure/domains",
+      "parentId": null,
       "sortKey": ".d001.d003.007",
       "banner": null,
       "backlinks": [
@@ -1136,7 +1136,7 @@
       "original": "Bone",
       "vaultRelPath": "01︱📚︱Правила/01︱📗︱Подготовка к приключениям/04︱📗︱Домены/03︱Кость.md",
       "isIndex": false,
-      "parentId": "rules/preparing-for-adventure/domains",
+      "parentId": null,
       "sortKey": ".d001.d003.008",
       "banner": null,
       "backlinks": [
@@ -1159,7 +1159,7 @@
       "original": "Sage",
       "vaultRelPath": "01︱📚︱Правила/01︱📗︱Подготовка к приключениям/04︱📗︱Домены/03︱Мудрость.md",
       "isIndex": false,
-      "parentId": "rules/preparing-for-adventure/domains",
+      "parentId": null,
       "sortKey": ".d001.d003.009",
       "banner": null,
       "backlinks": [
@@ -1182,7 +1182,7 @@
       "original": "Midnight",
       "vaultRelPath": "01︱📚︱Правила/01︱📗︱Подготовка к приключениям/04︱📗︱Домены/03︱Полночь.md",
       "isIndex": false,
-      "parentId": "rules/preparing-for-adventure/domains",
+      "parentId": null,
       "sortKey": ".d001.d003.010",
       "banner": null,
       "backlinks": [
@@ -1204,7 +1204,7 @@
       "original": "Ancestry",
       "vaultRelPath": "01︱📚︱Правила/01︱📗︱Подготовка к приключениям/05︱📗︱Происхождения/01︱Происхождения.md",
       "isIndex": false,
-      "parentId": "rules/preparing-for-adventure",
+      "parentId": null,
       "sortKey": ".d001.d004.000",
       "banner": null,
       "backlinks": [
@@ -1223,7 +1223,7 @@
       "original": "Giant",
       "vaultRelPath": "01︱📚︱Правила/01︱📗︱Подготовка к приключениям/05︱📗︱Происхождения/02︱Великан.md",
       "isIndex": false,
-      "parentId": "rules/preparing-for-adventure",
+      "parentId": null,
       "sortKey": ".d001.d004.001",
       "banner": null,
       "backlinks": [
@@ -1243,7 +1243,7 @@
       "original": "Galapa",
       "vaultRelPath": "01︱📚︱Правила/01︱📗︱Подготовка к приключениям/05︱📗︱Происхождения/02︱Галапа.md",
       "isIndex": false,
-      "parentId": "rules/preparing-for-adventure",
+      "parentId": null,
       "sortKey": ".d001.d004.002",
       "banner": null,
       "backlinks": [
@@ -1264,7 +1264,7 @@
       "original": "Goblin",
       "vaultRelPath": "01︱📚︱Правила/01︱📗︱Подготовка к приключениям/05︱📗︱Происхождения/02︱Гоблин.md",
       "isIndex": false,
-      "parentId": "rules/preparing-for-adventure",
+      "parentId": null,
       "sortKey": ".d001.d004.003",
       "banner": null,
       "backlinks": [
@@ -1286,7 +1286,7 @@
       "original": "Dwarf",
       "vaultRelPath": "01︱📚︱Правила/01︱📗︱Подготовка к приключениям/05︱📗︱Происхождения/02︱Дварф.md",
       "isIndex": false,
-      "parentId": "rules/preparing-for-adventure",
+      "parentId": null,
       "sortKey": ".d001.d004.004",
       "banner": null,
       "backlinks": [
@@ -1307,7 +1307,7 @@
       "original": "Drakona",
       "vaultRelPath": "01︱📚︱Правила/01︱📗︱Подготовка к приключениям/05︱📗︱Происхождения/02︱Драконид.md",
       "isIndex": false,
-      "parentId": "rules/preparing-for-adventure",
+      "parentId": null,
       "sortKey": ".d001.d004.005",
       "banner": null,
       "backlinks": [
@@ -1328,7 +1328,7 @@
       "original": "Infernis",
       "vaultRelPath": "01︱📚︱Правила/01︱📗︱Подготовка к приключениям/05︱📗︱Происхождения/02︱Инфернис.md",
       "isIndex": false,
-      "parentId": "rules/preparing-for-adventure",
+      "parentId": null,
       "sortKey": ".d001.d004.006",
       "banner": null,
       "backlinks": [
@@ -1349,7 +1349,7 @@
       "original": "Katari",
       "vaultRelPath": "01︱📚︱Правила/01︱📗︱Подготовка к приключениям/05︱📗︱Происхождения/02︱Катари.md",
       "isIndex": false,
-      "parentId": "rules/preparing-for-adventure",
+      "parentId": null,
       "sortKey": ".d001.d004.007",
       "banner": null,
       "backlinks": [
@@ -1370,7 +1370,7 @@
       "original": "Ribbet",
       "vaultRelPath": "01︱📚︱Правила/01︱📗︱Подготовка к приключениям/05︱📗︱Происхождения/02︱Кваква.md",
       "isIndex": false,
-      "parentId": "rules/preparing-for-adventure",
+      "parentId": null,
       "sortKey": ".d001.d004.008",
       "banner": null,
       "backlinks": [
@@ -1391,7 +1391,7 @@
       "original": "Clank",
       "vaultRelPath": "01︱📚︱Правила/01︱📗︱Подготовка к приключениям/05︱📗︱Происхождения/02︱Кланк.md",
       "isIndex": false,
-      "parentId": "rules/preparing-for-adventure",
+      "parentId": null,
       "sortKey": ".d001.d004.009",
       "banner": null,
       "backlinks": [
@@ -1412,7 +1412,7 @@
       "original": "Orc",
       "vaultRelPath": "01︱📚︱Правила/01︱📗︱Подготовка к приключениям/05︱📗︱Происхождения/02︱Орк.md",
       "isIndex": false,
-      "parentId": "rules/preparing-for-adventure",
+      "parentId": null,
       "sortKey": ".d001.d004.010",
       "banner": null,
       "backlinks": [
@@ -1434,7 +1434,7 @@
       "original": "Halfling",
       "vaultRelPath": "01︱📚︱Правила/01︱📗︱Подготовка к приключениям/05︱📗︱Происхождения/02︱Полурослик.md",
       "isIndex": false,
-      "parentId": "rules/preparing-for-adventure",
+      "parentId": null,
       "sortKey": ".d001.d004.011",
       "banner": null,
       "backlinks": [
@@ -1455,7 +1455,7 @@
       "original": "Simiah",
       "vaultRelPath": "01︱📚︱Правила/01︱📗︱Подготовка к приключениям/05︱📗︱Происхождения/02︱Симиан.md",
       "isIndex": false,
-      "parentId": "rules/preparing-for-adventure",
+      "parentId": null,
       "sortKey": ".d001.d004.012",
       "banner": null,
       "backlinks": [
@@ -1476,7 +1476,7 @@
       "original": "Faun",
       "vaultRelPath": "01︱📚︱Правила/01︱📗︱Подготовка к приключениям/05︱📗︱Происхождения/02︱Фавн.md",
       "isIndex": false,
-      "parentId": "rules/preparing-for-adventure",
+      "parentId": null,
       "sortKey": ".d001.d004.013",
       "banner": null,
       "backlinks": [
@@ -1497,7 +1497,7 @@
       "original": "Faerie",
       "vaultRelPath": "01︱📚︱Правила/01︱📗︱Подготовка к приключениям/05︱📗︱Происхождения/02︱Фейри.md",
       "isIndex": false,
-      "parentId": "rules/preparing-for-adventure",
+      "parentId": null,
       "sortKey": ".d001.d004.014",
       "banner": null,
       "backlinks": [
@@ -1518,7 +1518,7 @@
       "original": "Firbolg",
       "vaultRelPath": "01︱📚︱Правила/01︱📗︱Подготовка к приключениям/05︱📗︱Происхождения/02︱Филборг.md",
       "isIndex": false,
-      "parentId": "rules/preparing-for-adventure",
+      "parentId": null,
       "sortKey": ".d001.d004.015",
       "banner": null,
       "backlinks": [
@@ -1539,7 +1539,7 @@
       "original": "Fungril",
       "vaultRelPath": "01︱📚︱Правила/01︱📗︱Подготовка к приключениям/05︱📗︱Происхождения/02︱Фунгрил.md",
       "isIndex": false,
-      "parentId": "rules/preparing-for-adventure",
+      "parentId": null,
       "sortKey": ".d001.d004.016",
       "banner": null,
       "backlinks": [
@@ -1560,7 +1560,7 @@
       "original": "Human",
       "vaultRelPath": "01︱📚︱Правила/01︱📗︱Подготовка к приключениям/05︱📗︱Происхождения/02︱Человек.md",
       "isIndex": false,
-      "parentId": "rules/preparing-for-adventure",
+      "parentId": null,
       "sortKey": ".d001.d004.017",
       "banner": null,
       "backlinks": [
@@ -1581,7 +1581,7 @@
       "original": "Elf",
       "vaultRelPath": "01︱📚︱Правила/01︱📗︱Подготовка к приключениям/05︱📗︱Происхождения/02︱Эльф.md",
       "isIndex": false,
-      "parentId": "rules/preparing-for-adventure",
+      "parentId": null,
       "sortKey": ".d001.d004.018",
       "banner": null,
       "backlinks": [
@@ -1602,7 +1602,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/01︱📗︱Подготовка к приключениям/05︱📗︱Происхождения/03︱Смешанное происхождение.md",
       "isIndex": false,
-      "parentId": "rules/preparing-for-adventure",
+      "parentId": null,
       "sortKey": ".d001.d004.019",
       "banner": null,
       "backlinks": [
@@ -1621,7 +1621,7 @@
       "original": "Community",
       "vaultRelPath": "01︱📚︱Правила/01︱📗︱Подготовка к приключениям/06︱📗︱Сообщества/00︱Сообщества.md",
       "isIndex": false,
-      "parentId": "rules/preparing-for-adventure/community",
+      "parentId": null,
       "sortKey": ".d001.d005.000",
       "banner": null,
       "backlinks": [
@@ -1641,7 +1641,7 @@
       "original": "Highborne",
       "vaultRelPath": "01︱📚︱Правила/01︱📗︱Подготовка к приключениям/06︱📗︱Сообщества/01︱Высшее.md",
       "isIndex": false,
-      "parentId": "rules/preparing-for-adventure/community",
+      "parentId": null,
       "sortKey": ".d001.d005.001",
       "banner": null,
       "backlinks": [
@@ -1661,7 +1661,7 @@
       "original": "Ridgeborne",
       "vaultRelPath": "01︱📚︱Правила/01︱📗︱Подготовка к приключениям/06︱📗︱Сообщества/01︱Горное.md",
       "isIndex": false,
-      "parentId": "rules/preparing-for-adventure/community",
+      "parentId": null,
       "sortKey": ".d001.d005.002",
       "banner": null,
       "backlinks": [
@@ -1681,7 +1681,7 @@
       "original": "Orderborne",
       "vaultRelPath": "01︱📚︱Правила/01︱📗︱Подготовка к приключениям/06︱📗︱Сообщества/01︱Догматичное.md",
       "isIndex": false,
-      "parentId": "rules/preparing-for-adventure/community",
+      "parentId": null,
       "sortKey": ".d001.d005.003",
       "banner": null,
       "backlinks": [
@@ -1701,7 +1701,7 @@
       "original": "Wanderborne",
       "vaultRelPath": "01︱📚︱Правила/01︱📗︱Подготовка к приключениям/06︱📗︱Сообщества/01︱Кочевое.md",
       "isIndex": false,
-      "parentId": "rules/preparing-for-adventure/community",
+      "parentId": null,
       "sortKey": ".d001.d005.004",
       "banner": null,
       "backlinks": [
@@ -1721,7 +1721,7 @@
       "original": "Slyborne",
       "vaultRelPath": "01︱📚︱Правила/01︱📗︱Подготовка к приключениям/06︱📗︱Сообщества/01︱Криминальное.md",
       "isIndex": false,
-      "parentId": "rules/preparing-for-adventure/community",
+      "parentId": null,
       "sortKey": ".d001.d005.005",
       "banner": null,
       "backlinks": [
@@ -1741,7 +1741,7 @@
       "original": "Wildborne",
       "vaultRelPath": "01︱📚︱Правила/01︱📗︱Подготовка к приключениям/06︱📗︱Сообщества/01︱Лесное.md",
       "isIndex": false,
-      "parentId": "rules/preparing-for-adventure/community",
+      "parentId": null,
       "sortKey": ".d001.d005.006",
       "banner": null,
       "backlinks": [
@@ -1761,7 +1761,7 @@
       "original": "Seaborne",
       "vaultRelPath": "01︱📚︱Правила/01︱📗︱Подготовка к приключениям/06︱📗︱Сообщества/01︱Морское.md",
       "isIndex": false,
-      "parentId": "rules/preparing-for-adventure/community",
+      "parentId": null,
       "sortKey": ".d001.d005.007",
       "banner": null,
       "backlinks": [
@@ -1781,7 +1781,7 @@
       "original": "Loreborne",
       "vaultRelPath": "01︱📚︱Правила/01︱📗︱Подготовка к приключениям/06︱📗︱Сообщества/01︱Научное.md",
       "isIndex": false,
-      "parentId": "rules/preparing-for-adventure/community",
+      "parentId": null,
       "sortKey": ".d001.d005.008",
       "banner": null,
       "backlinks": [
@@ -1801,7 +1801,7 @@
       "original": "Underborne",
       "vaultRelPath": "01︱📚︱Правила/01︱📗︱Подготовка к приключениям/06︱📗︱Сообщества/01︱Подземное.md",
       "isIndex": false,
-      "parentId": "rules/preparing-for-adventure/community",
+      "parentId": null,
       "sortKey": ".d001.d005.009",
       "banner": null,
       "backlinks": [
@@ -1818,7 +1818,7 @@
       "original": "spotlight",
       "vaultRelPath": "01︱📚︱Правила/02︱📙︱Играя приключение/01︱📙︱Активация.md",
       "isIndex": false,
-      "parentId": "rules",
+      "parentId": null,
       "sortKey": ".d002.000",
       "banner": null,
       "backlinks": [
@@ -1836,7 +1836,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/02︱📙︱Играя приключение/10︱📙︱Броски реакции.md",
       "isIndex": false,
-      "parentId": "rules",
+      "parentId": null,
       "sortKey": ".d002.001",
       "banner": null,
       "backlinks": [
@@ -1854,7 +1854,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/02︱📙︱Играя приключение/04︱📙︱Броски с Надеждой и Страхом.md",
       "isIndex": false,
-      "parentId": "rules",
+      "parentId": null,
       "sortKey": ".d002.002",
       "banner": null,
       "backlinks": [
@@ -1872,7 +1872,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/02︱📙︱Играя приключение/09︱📙︱Броски урона.md",
       "isIndex": false,
-      "parentId": "rules",
+      "parentId": null,
       "sortKey": ".d002.003",
       "banner": null,
       "backlinks": [
@@ -1890,7 +1890,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/02︱📙︱Играя приключение/02︱📙︱В свой ход.md",
       "isIndex": false,
-      "parentId": "rules",
+      "parentId": null,
       "sortKey": ".d002.004",
       "banner": null,
       "backlinks": [
@@ -1908,7 +1908,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/02︱📙︱Играя приключение/17︱📙︱Дистанции.md",
       "isIndex": false,
-      "parentId": "rules",
+      "parentId": null,
       "sortKey": ".d002.005",
       "banner": null,
       "backlinks": [
@@ -1926,7 +1926,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/02︱📙︱Играя приключение/24︱📙︱Дополнительные правила.md",
       "isIndex": false,
-      "parentId": "rules",
+      "parentId": null,
       "sortKey": ".d002.006",
       "banner": null,
       "backlinks": [
@@ -1944,7 +1944,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/02︱📙︱Играя приключение/21︱📙︱Золото.md",
       "isIndex": false,
-      "parentId": "rules",
+      "parentId": null,
       "sortKey": ".d002.007",
       "banner": null,
       "backlinks": [
@@ -1962,7 +1962,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/02︱📙︱Играя приключение/13︱📙︱Карточки доменов.md",
       "isIndex": false,
-      "parentId": "rules",
+      "parentId": null,
       "sortKey": ".d002.008",
       "banner": null,
       "backlinks": [
@@ -1980,7 +1980,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/02︱📙︱Играя приключение/16︱📙︱Карты.md",
       "isIndex": false,
-      "parentId": "rules",
+      "parentId": null,
       "sortKey": ".d002.009",
       "banner": null,
       "backlinks": [
@@ -1998,7 +1998,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/02︱📙︱Играя приключение/03︱📙︱Кости дуализма.md",
       "isIndex": false,
-      "parentId": "rules",
+      "parentId": null,
       "sortKey": ".d002.010",
       "banner": null,
       "backlinks": [
@@ -2016,7 +2016,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/02︱📙︱Играя приключение/18︱📙︱Перемещение.md",
       "isIndex": false,
-      "parentId": "rules",
+      "parentId": null,
       "sortKey": ".d002.011",
       "banner": null,
       "backlinks": [
@@ -2034,7 +2034,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/02︱📙︱Играя приключение/32︱📙︱Предметы.md",
       "isIndex": false,
-      "parentId": "rules",
+      "parentId": null,
       "sortKey": ".d002.012",
       "banner": null,
       "backlinks": [
@@ -2052,7 +2052,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/02︱📙︱Играя приключение/11︱📙︱Преимущество и помеха.md",
       "isIndex": false,
-      "parentId": "rules",
+      "parentId": null,
       "sortKey": ".d002.013",
       "banner": null,
       "backlinks": [
@@ -2070,7 +2070,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/02︱📙︱Играя приключение/06︱📙︱Раны и пороги урона.md",
       "isIndex": false,
-      "parentId": "rules",
+      "parentId": null,
       "sortKey": ".d002.014",
       "banner": null,
       "backlinks": [
@@ -2088,7 +2088,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/02︱📙︱Играя приключение/33︱📙︱Расходники.md",
       "isIndex": false,
-      "parentId": "rules",
+      "parentId": null,
       "sortKey": ".d002.015",
       "banner": null,
       "backlinks": [
@@ -2105,7 +2105,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/02︱📙︱Играя приключение/25︱📙︱Рекомендации игрокам.md",
       "isIndex": false,
-      "parentId": "rules",
+      "parentId": null,
       "sortKey": ".d002.016",
       "banner": null,
       "backlinks": [
@@ -2123,7 +2123,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/02︱📙︱Играя приключение/14︱📙︱Состояния.md",
       "isIndex": false,
-      "parentId": "rules",
+      "parentId": null,
       "sortKey": ".d002.017",
       "banner": null,
       "backlinks": [
@@ -2141,7 +2141,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/02︱📙︱Играя приключение/12︱📙︱Сражение с противниками.md",
       "isIndex": false,
-      "parentId": "rules",
+      "parentId": null,
       "sortKey": ".d002.018",
       "banner": null,
       "backlinks": [
@@ -2159,7 +2159,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/02︱📙︱Играя приключение/07︱📙︱Стресс.md",
       "isIndex": false,
-      "parentId": "rules",
+      "parentId": null,
       "sortKey": ".d002.019",
       "banner": null,
       "backlinks": [
@@ -2177,7 +2177,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/02︱📙︱Играя приключение/15︱📙︱Счётчики.md",
       "isIndex": false,
-      "parentId": "rules",
+      "parentId": null,
       "sortKey": ".d002.020",
       "banner": null,
       "backlinks": [
@@ -2195,7 +2195,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/02︱📙︱Играя приключение/00︱📙︱Течение игры.md",
       "isIndex": false,
-      "parentId": "rules",
+      "parentId": null,
       "sortKey": ".d002.021",
       "banner": null,
       "backlinks": [
@@ -2212,7 +2212,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/02︱📙︱Играя приключение/05︱📙︱Уклонение.md",
       "isIndex": false,
-      "parentId": "rules",
+      "parentId": null,
       "sortKey": ".d002.022",
       "banner": null,
       "backlinks": [
@@ -2230,7 +2230,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/02︱📙︱Играя приключение/20︱📙︱Укрытия, линия видимости и темнота.md",
       "isIndex": false,
-      "parentId": "rules",
+      "parentId": null,
       "sortKey": ".d002.023",
       "banner": null,
       "backlinks": [
@@ -2248,7 +2248,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/02︱📙︱Играя приключение/19︱📙︱Цели и группы.md",
       "isIndex": false,
-      "parentId": "rules",
+      "parentId": null,
       "sortKey": ".d002.024",
       "banner": null,
       "backlinks": [
@@ -2266,7 +2266,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/02︱📙︱Играя приключение/31︱📙︱Броня/Тир 1 (уровень 1).md",
       "isIndex": false,
-      "parentId": "rules",
+      "parentId": null,
       "sortKey": ".d002.d000.000",
       "banner": null,
       "backlinks": [
@@ -2284,7 +2284,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/02︱📙︱Играя приключение/31︱📙︱Броня/Тир 2 (уровни 2-4).md",
       "isIndex": false,
-      "parentId": "rules",
+      "parentId": null,
       "sortKey": ".d002.d000.001",
       "banner": null,
       "backlinks": [
@@ -2302,7 +2302,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/02︱📙︱Играя приключение/31︱📙︱Броня/Тир 3 (уровни 5-7).md",
       "isIndex": false,
-      "parentId": "rules",
+      "parentId": null,
       "sortKey": ".d002.d000.002",
       "banner": null,
       "backlinks": [
@@ -2320,7 +2320,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/02︱📙︱Играя приключение/31︱📙︱Броня/Тир 4 (уровни 8-10).md",
       "isIndex": false,
-      "parentId": "rules",
+      "parentId": null,
       "sortKey": ".d002.d000.003",
       "banner": null,
       "backlinks": [
@@ -2338,7 +2338,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/02︱📙︱Играя приключение/08︱📙︱Броски действий/01︱Броски действий.md",
       "isIndex": false,
-      "parentId": "rules",
+      "parentId": null,
       "sortKey": ".d002.d001.000",
       "banner": null,
       "backlinks": [
@@ -2356,7 +2356,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/02︱📙︱Играя приключение/08︱📙︱Броски действий/02︱Шаг 1. Выберите атрибут.md",
       "isIndex": false,
-      "parentId": "rules",
+      "parentId": null,
       "sortKey": ".d002.d001.001",
       "banner": null,
       "backlinks": [
@@ -2374,7 +2374,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/02︱📙︱Играя приключение/08︱📙︱Броски действий/02︱Шаг 2. Добавьте кости и модификаторы.md",
       "isIndex": false,
-      "parentId": "rules",
+      "parentId": null,
       "sortKey": ".d002.d001.002",
       "banner": null,
       "backlinks": [
@@ -2392,7 +2392,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/02︱📙︱Играя приключение/08︱📙︱Броски действий/02︱Шаг 3. Бросьте кости.md",
       "isIndex": false,
-      "parentId": "rules",
+      "parentId": null,
       "sortKey": ".d002.d001.003",
       "banner": null,
       "backlinks": [
@@ -2410,7 +2410,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/02︱📙︱Играя приключение/08︱📙︱Броски действий/02︱Шаг 4. Разыграйте результат.md",
       "isIndex": false,
-      "parentId": "rules",
+      "parentId": null,
       "sortKey": ".d002.d001.004",
       "banner": null,
       "backlinks": [
@@ -2428,7 +2428,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/02︱📙︱Играя приключение/08︱📙︱Броски действий/03︱История — это последствия.md",
       "isIndex": false,
-      "parentId": "rules",
+      "parentId": null,
       "sortKey": ".d002.d001.005",
       "banner": null,
       "backlinks": [
@@ -2446,7 +2446,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/02︱📙︱Играя приключение/08︱📙︱Броски действий/04︱Особые броски действий.md",
       "isIndex": false,
-      "parentId": "rules",
+      "parentId": null,
       "sortKey": ".d002.d001.006",
       "banner": null,
       "backlinks": [
@@ -2464,7 +2464,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/02︱📙︱Играя приключение/30︱📙︱Дополнительное оружие/Тир 1 (уровень 1).md",
       "isIndex": false,
-      "parentId": "rules",
+      "parentId": null,
       "sortKey": ".d002.d002.000",
       "banner": null,
       "backlinks": [
@@ -2482,7 +2482,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/02︱📙︱Играя приключение/30︱📙︱Дополнительное оружие/Тир 2 (уровни 2-4).md",
       "isIndex": false,
-      "parentId": "rules",
+      "parentId": null,
       "sortKey": ".d002.d002.001",
       "banner": null,
       "backlinks": [
@@ -2500,7 +2500,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/02︱📙︱Играя приключение/30︱📙︱Дополнительное оружие/Тир 3 (уровни 5-7).md",
       "isIndex": false,
-      "parentId": "rules",
+      "parentId": null,
       "sortKey": ".d002.d002.002",
       "banner": null,
       "backlinks": [
@@ -2518,7 +2518,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/02︱📙︱Играя приключение/30︱📙︱Дополнительное оружие/Тир 4 (уровни 8-10).md",
       "isIndex": false,
-      "parentId": "rules",
+      "parentId": null,
       "sortKey": ".d002.d002.003",
       "banner": null,
       "backlinks": [
@@ -2536,7 +2536,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/02︱📙︱Играя приключение/29︱📙︱Основное оружие/Боевые инвалидные коляски.md",
       "isIndex": false,
-      "parentId": "rules",
+      "parentId": null,
       "sortKey": ".d002.d003.000",
       "banner": null,
       "backlinks": [
@@ -2554,7 +2554,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/02︱📙︱Играя приключение/29︱📙︱Основное оружие/Магическое оружие — Тир 1 (уровень 1).md",
       "isIndex": false,
-      "parentId": "rules",
+      "parentId": null,
       "sortKey": ".d002.d003.001",
       "banner": null,
       "backlinks": [
@@ -2572,7 +2572,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/02︱📙︱Играя приключение/29︱📙︱Основное оружие/Магическое оружие — Тир 2 (уровни 2-4).md",
       "isIndex": false,
-      "parentId": "rules",
+      "parentId": null,
       "sortKey": ".d002.d003.002",
       "banner": null,
       "backlinks": [
@@ -2589,7 +2589,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/02︱📙︱Играя приключение/29︱📙︱Основное оружие/Магическое оружие — Тир 4 (уровни 8-10).md",
       "isIndex": false,
-      "parentId": "rules",
+      "parentId": null,
       "sortKey": ".d002.d003.004",
       "banner": null,
       "backlinks": [
@@ -2606,7 +2606,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/02︱📙︱Играя приключение/29︱📙︱Основное оружие/Физическое оружие — Тир 1 (уровень 1).md",
       "isIndex": false,
-      "parentId": "rules",
+      "parentId": null,
       "sortKey": ".d002.d003.005",
       "banner": null,
       "backlinks": [
@@ -2624,7 +2624,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/02︱📙︱Играя приключение/29︱📙︱Основное оружие/Физическое оружие — Тир 2 (уровни 2-4).md",
       "isIndex": false,
-      "parentId": "rules",
+      "parentId": null,
       "sortKey": ".d002.d003.006",
       "banner": null,
       "backlinks": [
@@ -2642,7 +2642,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/02︱📙︱Играя приключение/29︱📙︱Основное оружие/Физическое оружие — Тир 3 (уровни 5-7).md",
       "isIndex": false,
-      "parentId": "rules",
+      "parentId": null,
       "sortKey": ".d002.d003.007",
       "banner": null,
       "backlinks": [
@@ -2660,7 +2660,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/02︱📙︱Играя приключение/29︱📙︱Основное оружие/Физическое оружие — Тир 4 (уровни 8-10).md",
       "isIndex": false,
-      "parentId": "rules",
+      "parentId": null,
       "sortKey": ".d002.d003.008",
       "banner": null,
       "backlinks": [
@@ -2678,7 +2678,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/02︱📙︱Играя приключение/22︱📙︱Привал/01︱Привал.md",
       "isIndex": false,
-      "parentId": "rules",
+      "parentId": null,
       "sortKey": ".d002.d004.000",
       "banner": null,
       "backlinks": [
@@ -2696,7 +2696,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/02︱📙︱Играя приключение/22︱📙︱Привал/02︱Короткий отдых.md",
       "isIndex": false,
-      "parentId": "rules",
+      "parentId": null,
       "sortKey": ".d002.d004.001",
       "banner": null,
       "backlinks": [
@@ -2714,7 +2714,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/02︱📙︱Играя приключение/22︱📙︱Привал/03︱Долгий отдых.md",
       "isIndex": false,
-      "parentId": "rules",
+      "parentId": null,
       "sortKey": ".d002.d004.002",
       "banner": null,
       "backlinks": [
@@ -2732,7 +2732,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/02︱📙︱Играя приключение/22︱📙︱Привал/04︱Работа над проектом на привале.md",
       "isIndex": false,
-      "parentId": "rules",
+      "parentId": null,
       "sortKey": ".d002.d004.003",
       "banner": null,
       "backlinks": [
@@ -2750,7 +2750,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/02︱📙︱Играя приключение/22︱📙︱Привал/05︱Последствия привала.md",
       "isIndex": false,
-      "parentId": "rules",
+      "parentId": null,
       "sortKey": ".d002.d004.004",
       "banner": null,
       "backlinks": [
@@ -2768,7 +2768,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/02︱📙︱Играя приключение/22︱📙︱Привал/06︱Восстановление свойств во время привала.md",
       "isIndex": false,
-      "parentId": "rules",
+      "parentId": null,
       "sortKey": ".d002.d004.005",
       "banner": null,
       "backlinks": [
@@ -2785,7 +2785,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/02︱📙︱Играя приключение/27︱📙︱Продвижение персонажа/01︱Повышение уровня.md",
       "isIndex": false,
-      "parentId": "rules",
+      "parentId": null,
       "sortKey": ".d002.d005.000",
       "banner": null,
       "backlinks": [
@@ -2803,7 +2803,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/02︱📙︱Играя приключение/27︱📙︱Продвижение персонажа/02︱Выбор достижений.md",
       "isIndex": false,
-      "parentId": "rules",
+      "parentId": null,
       "sortKey": ".d002.d005.001",
       "banner": null,
       "backlinks": [
@@ -2821,7 +2821,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/02︱📙︱Играя приключение/27︱📙︱Продвижение персонажа/03︱Повышение порогов урона.md",
       "isIndex": false,
-      "parentId": "rules",
+      "parentId": null,
       "sortKey": ".d002.d005.002",
       "banner": null,
       "backlinks": [
@@ -2839,7 +2839,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/02︱📙︱Играя приключение/27︱📙︱Продвижение персонажа/04︱Получение карточек доменов.md",
       "isIndex": false,
-      "parentId": "rules",
+      "parentId": null,
       "sortKey": ".d002.d005.003",
       "banner": null,
       "backlinks": [
@@ -2857,7 +2857,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/02︱📙︱Играя приключение/27︱📙︱Продвижение персонажа/05︱Мультиклассирование.md",
       "isIndex": false,
-      "parentId": "rules",
+      "parentId": null,
       "sortKey": ".d002.d005.004",
       "banner": null,
       "backlinks": [
@@ -2875,7 +2875,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/02︱📙︱Играя приключение/23︱📙︱Смерть/01︱Смерть.md",
       "isIndex": false,
-      "parentId": "rules",
+      "parentId": null,
       "sortKey": ".d002.d006.000",
       "banner": null,
       "backlinks": [
@@ -2892,7 +2892,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/02︱📙︱Играя приключение/23︱📙︱Смерть/02︱Предсмертный ход.md",
       "isIndex": false,
-      "parentId": "rules",
+      "parentId": null,
       "sortKey": ".d002.d006.001",
       "banner": null,
       "backlinks": [
@@ -2910,7 +2910,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/02︱📙︱Играя приключение/23︱📙︱Смерть/03︱Шрамы.md",
       "isIndex": false,
-      "parentId": "rules",
+      "parentId": null,
       "sortKey": ".d002.d006.002",
       "banner": null,
       "backlinks": [
@@ -2928,7 +2928,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/02︱📙︱Играя приключение/23︱📙︱Смерть/04︱Воскрешение.md",
       "isIndex": false,
-      "parentId": "rules",
+      "parentId": null,
       "sortKey": ".d002.d006.003",
       "banner": null,
       "backlinks": [
@@ -2946,7 +2946,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/02︱📙︱Играя приключение/28︱📙︱Снаряжение/01︱Экипировка, хранение и смена снаряжения.md",
       "isIndex": false,
-      "parentId": "rules",
+      "parentId": null,
       "sortKey": ".d002.d007.000",
       "banner": null,
       "backlinks": [
@@ -2964,7 +2964,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/02︱📙︱Играя приключение/28︱📙︱Снаряжение/02︱Использование оружия.md",
       "isIndex": false,
-      "parentId": "rules",
+      "parentId": null,
       "sortKey": ".d002.d007.001",
       "banner": null,
       "backlinks": [
@@ -2982,7 +2982,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/02︱📙︱Играя приключение/28︱📙︱Снаряжение/03︱Параметры оружия.md",
       "isIndex": false,
-      "parentId": "rules",
+      "parentId": null,
       "sortKey": ".d002.d007.002",
       "banner": null,
       "backlinks": [
@@ -3000,7 +3000,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/02︱📙︱Играя приключение/28︱📙︱Снаряжение/04︱Использование брони.md",
       "isIndex": false,
-      "parentId": "rules",
+      "parentId": null,
       "sortKey": ".d002.d007.003",
       "banner": null,
       "backlinks": [
@@ -3018,7 +3018,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/03︱📓︱Создавая приключение/01︱📓︱Введение.md",
       "isIndex": false,
-      "parentId": "rules",
+      "parentId": null,
       "sortKey": ".d003.000",
       "banner": null,
       "backlinks": [
@@ -3035,7 +3035,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/03︱📓︱Создавая приключение/03︱📓︱Основные механики мастера/02︱Броски мастера.md",
       "isIndex": false,
-      "parentId": "rules",
+      "parentId": null,
       "sortKey": ".d003.d002.000",
       "banner": null,
       "backlinks": [
@@ -3052,7 +3052,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/03︱📓︱Создавая приключение/03︱📓︱Основные механики мастера/17︱Броски противников.md",
       "isIndex": false,
-      "parentId": "rules",
+      "parentId": null,
       "sortKey": ".d003.d002.001",
       "banner": null,
       "backlinks": [
@@ -3069,7 +3069,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/03︱📓︱Создавая приключение/03︱📓︱Основные механики мастера/03︱Запрос бросков действия.md",
       "isIndex": false,
-      "parentId": "rules",
+      "parentId": null,
       "sortKey": ".d003.d002.002",
       "banner": null,
       "backlinks": [
@@ -3087,7 +3087,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/03︱📓︱Создавая приключение/03︱📓︱Основные механики мастера/14︱Определение сложности броска.md",
       "isIndex": false,
-      "parentId": "rules",
+      "parentId": null,
       "sortKey": ".d003.d002.004",
       "banner": null,
       "backlinks": [
@@ -3105,7 +3105,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/03︱📓︱Создавая приключение/03︱📓︱Основные механики мастера/16︱Преимущества и помехи.md",
       "isIndex": false,
-      "parentId": "rules",
+      "parentId": null,
       "sortKey": ".d003.d002.005",
       "banner": null,
       "backlinks": [
@@ -3123,7 +3123,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/03︱📓︱Создавая приключение/03︱📓︱Основные механики мастера/15︱Примеры сложности.md",
       "isIndex": false,
-      "parentId": "rules",
+      "parentId": null,
       "sortKey": ".d003.d002.006",
       "banner": null,
       "backlinks": [
@@ -3141,7 +3141,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/03︱📓︱Создавая приключение/03︱📓︱Основные механики мастера/20︱Золото, снаряжение и добыча/01︱Золото, снаряжение и добыча.md",
       "isIndex": false,
-      "parentId": "rules",
+      "parentId": null,
       "sortKey": ".d003.d002.d000.000",
       "banner": null,
       "backlinks": [
@@ -3159,7 +3159,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/03︱📓︱Создавая приключение/03︱📓︱Основные механики мастера/20︱Золото, снаряжение и добыча/02︱Экономика вашего мира.md",
       "isIndex": false,
-      "parentId": "rules",
+      "parentId": null,
       "sortKey": ".d003.d002.d000.001",
       "banner": null,
       "backlinks": [
@@ -3177,7 +3177,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/03︱📓︱Создавая приключение/03︱📓︱Основные механики мастера/22︱Опциональные механики для мастера/01︱Опциональные механики для мастера.md",
       "isIndex": false,
-      "parentId": "rules",
+      "parentId": null,
       "sortKey": ".d003.d002.d001.000",
       "banner": null,
       "backlinks": [
@@ -3195,7 +3195,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/03︱📓︱Создавая приключение/03︱📓︱Основные механики мастера/22︱Опциональные механики для мастера/02︱Броски судьбы.md",
       "isIndex": false,
-      "parentId": "rules",
+      "parentId": null,
       "sortKey": ".d003.d002.d001.001",
       "banner": null,
       "backlinks": [
@@ -3213,7 +3213,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/03︱📓︱Создавая приключение/03︱📓︱Основные механики мастера/22︱Опциональные механики для мастера/03︱Урон от падений и столкновений.md",
       "isIndex": false,
-      "parentId": "rules",
+      "parentId": null,
       "sortKey": ".d003.d002.d001.002",
       "banner": null,
       "backlinks": [
@@ -3231,7 +3231,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/03︱📓︱Создавая приключение/03︱📓︱Основные механики мастера/22︱Опциональные механики для мастера/04︱Передвижение и бой под водой.md",
       "isIndex": false,
-      "parentId": "rules",
+      "parentId": null,
       "sortKey": ".d003.d002.d001.003",
       "banner": null,
       "backlinks": [
@@ -3249,7 +3249,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/03︱📓︱Создавая приключение/03︱📓︱Основные механики мастера/22︱Опциональные механики для мастера/05︱Конфликт между персонажами игроков.md",
       "isIndex": false,
-      "parentId": "rules",
+      "parentId": null,
       "sortKey": ".d003.d002.d001.004",
       "banner": null,
       "backlinks": [
@@ -3266,7 +3266,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/03︱📓︱Создавая приключение/03︱📓︱Основные механики мастера/10︱Страх/01︱Страх.md",
       "isIndex": false,
-      "parentId": "rules",
+      "parentId": null,
       "sortKey": ".d003.d002.d002.000",
       "banner": null,
       "backlinks": [
@@ -3284,7 +3284,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/03︱📓︱Создавая приключение/03︱📓︱Основные механики мастера/10︱Страх/02︱Сколько Страха тратить в сцене?.md",
       "isIndex": false,
-      "parentId": "rules",
+      "parentId": null,
       "sortKey": ".d003.d002.d002.001",
       "banner": null,
       "backlinks": [
@@ -3302,7 +3302,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/03︱📓︱Создавая приключение/03︱📓︱Основные механики мастера/10︱Страх/03︱Импровизация ходов Страха.md",
       "isIndex": false,
-      "parentId": "rules",
+      "parentId": null,
       "sortKey": ".d003.d002.d002.002",
       "banner": null,
       "backlinks": [
@@ -3320,7 +3320,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/03︱📓︱Создавая приключение/03︱📓︱Основные механики мастера/19︱Счётчики/01︱Счётчики.md",
       "isIndex": false,
-      "parentId": "rules",
+      "parentId": null,
       "sortKey": ".d003.d002.d003.000",
       "banner": null,
       "backlinks": [
@@ -3340,7 +3340,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/03︱📓︱Создавая приключение/03︱📓︱Основные механики мастера/19︱Счётчики/02︱Кость-счётчик.md",
       "isIndex": false,
-      "parentId": "rules",
+      "parentId": null,
       "sortKey": ".d003.d002.d003.001",
       "banner": null,
       "backlinks": [
@@ -3357,7 +3357,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/03︱📓︱Создавая приключение/03︱📓︱Основные механики мастера/19︱Счётчики/04︱Стандартный счётчик.md",
       "isIndex": false,
-      "parentId": "rules",
+      "parentId": null,
       "sortKey": ".d003.d002.d003.003",
       "banner": null,
       "backlinks": [
@@ -3375,7 +3375,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/03︱📓︱Создавая приключение/03︱📓︱Основные механики мастера/19︱Счётчики/05︱Динамический счётчик.md",
       "isIndex": false,
-      "parentId": "rules",
+      "parentId": null,
       "sortKey": ".d003.d002.d003.004",
       "banner": null,
       "backlinks": [
@@ -3394,7 +3394,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/03︱📓︱Создавая приключение/03︱📓︱Основные механики мастера/19︱Счётчики/06︱Расширенные возможности счётчиков.md",
       "isIndex": false,
-      "parentId": "rules",
+      "parentId": null,
       "sortKey": ".d003.d002.d003.005",
       "banner": null,
       "backlinks": [
@@ -3411,7 +3411,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/03︱📓︱Создавая приключение/03︱📓︱Основные механики мастера/19︱Счётчики/08︱Долгосрочные счётчики.md",
       "isIndex": false,
-      "parentId": "rules",
+      "parentId": null,
       "sortKey": ".d003.d002.d003.007",
       "banner": null,
       "backlinks": [
@@ -3428,7 +3428,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/03︱📓︱Создавая приключение/03︱📓︱Основные механики мастера/21︱Управление персонажами мастера/01︱Управление персонажами мастера.md",
       "isIndex": false,
-      "parentId": "rules",
+      "parentId": null,
       "sortKey": ".d003.d002.d004.000",
       "banner": null,
       "backlinks": [
@@ -3446,7 +3446,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/03︱📓︱Создавая приключение/03︱📓︱Основные механики мастера/21︱Управление персонажами мастера/02︱Свойства персонажей мастера.md",
       "isIndex": false,
-      "parentId": "rules",
+      "parentId": null,
       "sortKey": ".d003.d002.d004.001",
       "banner": null,
       "backlinks": [
@@ -3464,7 +3464,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/03︱📓︱Создавая приключение/03︱📓︱Основные механики мастера/21︱Управление персонажами мастера/03︱Дополнительные примеры свойств персонажей мастера.md",
       "isIndex": false,
-      "parentId": "rules",
+      "parentId": null,
       "sortKey": ".d003.d002.d004.002",
       "banner": null,
       "backlinks": [
@@ -3482,7 +3482,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/03︱📓︱Создавая приключение/03︱📓︱Основные механики мастера/04︱Ходы мастера/01︱Ходы мастера.md",
       "isIndex": false,
-      "parentId": "rules",
+      "parentId": null,
       "sortKey": ".d003.d002.d005.000",
       "banner": null,
       "backlinks": [
@@ -3500,7 +3500,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/03︱📓︱Создавая приключение/03︱📓︱Основные механики мастера/04︱Ходы мастера/02︱Когда совершать ход.md",
       "isIndex": false,
-      "parentId": "rules",
+      "parentId": null,
       "sortKey": ".d003.d002.d005.001",
       "banner": null,
       "backlinks": [
@@ -3518,7 +3518,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/03︱📓︱Создавая приключение/03︱📓︱Основные механики мастера/04︱Ходы мастера/03︱Как выбрать ход.md",
       "isIndex": false,
-      "parentId": "rules",
+      "parentId": null,
       "sortKey": ".d003.d002.d005.002",
       "banner": null,
       "backlinks": [
@@ -3535,7 +3535,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/03︱📓︱Создавая приключение/03︱📓︱Основные механики мастера/04︱Ходы мастера/05︱Мягкие и жёсткие ходы.md",
       "isIndex": false,
-      "parentId": "rules",
+      "parentId": null,
       "sortKey": ".d003.d002.d005.004",
       "banner": null,
       "backlinks": [
@@ -3553,7 +3553,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/03︱📓︱Создавая приключение/03︱📓︱Основные механики мастера/04︱Ходы мастера/06︱Примеры ходов мастера.md",
       "isIndex": false,
-      "parentId": "rules",
+      "parentId": null,
       "sortKey": ".d003.d002.d005.005",
       "banner": null,
       "backlinks": [
@@ -3573,7 +3573,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/03︱📓︱Создавая приключение/02︱📓︱Принципы мастера/01︱Принципы мастера.md",
       "isIndex": false,
-      "parentId": "rules",
+      "parentId": null,
       "sortKey": ".d003.d003.000",
       "banner": null,
       "backlinks": [
@@ -3591,7 +3591,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/03︱📓︱Создавая приключение/02︱📓︱Принципы мастера/02︱Рекомендации мастерам.md",
       "isIndex": false,
-      "parentId": "rules",
+      "parentId": null,
       "sortKey": ".d003.d003.001",
       "banner": null,
       "backlinks": [
@@ -3610,7 +3610,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/03︱📓︱Создавая приключение/02︱📓︱Принципы мастера/03︱Подводные камни.md",
       "isIndex": false,
-      "parentId": "rules",
+      "parentId": null,
       "sortKey": ".d003.d003.002",
       "banner": null,
       "backlinks": [
@@ -3628,7 +3628,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/03︱📓︱Создавая приключение/05︱📓︱Проведение сессии/01︱Думать моментами.md",
       "isIndex": false,
-      "parentId": "rules",
+      "parentId": null,
       "sortKey": ".d003.d004.000",
       "banner": null,
       "backlinks": [
@@ -3645,7 +3645,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/03︱📓︱Создавая приключение/05︱📓︱Проведение сессии/11︱Повышение уровня группы.md",
       "isIndex": false,
-      "parentId": "rules",
+      "parentId": null,
       "sortKey": ".d003.d004.003",
       "banner": null,
       "backlinks": [
@@ -3662,7 +3662,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/03︱📓︱Создавая приключение/05︱📓︱Проведение сессии/05︱Распределение внимания.md",
       "isIndex": false,
-      "parentId": "rules",
+      "parentId": null,
       "sortKey": ".d003.d004.005",
       "banner": null,
       "backlinks": [
@@ -3679,7 +3679,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/03︱📓︱Создавая приключение/05︱📓︱Проведение сессии/04︱Создание сцен.md",
       "isIndex": false,
-      "parentId": "rules",
+      "parentId": null,
       "sortKey": ".d003.d004.006",
       "banner": null,
       "backlinks": [
@@ -3696,7 +3696,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/03︱📓︱Создавая приключение/05︱📓︱Проведение сессии/08︱Вооружённый конфликт/02︱Встраивание целей в бой.md",
       "isIndex": false,
-      "parentId": "rules",
+      "parentId": null,
       "sortKey": ".d003.d004.d000.001",
       "banner": null,
       "backlinks": []
@@ -3711,7 +3711,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/03︱📓︱Создавая приключение/05︱📓︱Проведение сессии/08︱Вооружённый конфликт/04︱Фазовые сражения.md",
       "isIndex": false,
-      "parentId": "rules",
+      "parentId": null,
       "sortKey": ".d003.d004.d000.003",
       "banner": null,
       "backlinks": [
@@ -3728,7 +3728,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/03︱📓︱Создавая приключение/05︱📓︱Проведение сессии/09︱Использование привала/01︱Использование привала.md",
       "isIndex": false,
-      "parentId": "rules",
+      "parentId": null,
       "sortKey": ".d003.d004.d001.000",
       "banner": null,
       "backlinks": [
@@ -3746,7 +3746,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/03︱📓︱Создавая приключение/05︱📓︱Проведение сессии/09︱Использование привала/02︱Проекты во время привала.md",
       "isIndex": false,
-      "parentId": "rules",
+      "parentId": null,
       "sortKey": ".d003.d004.d001.001",
       "banner": null,
       "backlinks": [
@@ -3764,7 +3764,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/03︱📓︱Создавая приключение/05︱📓︱Проведение сессии/09︱Использование привала/03︱Привал для мастера.md",
       "isIndex": false,
-      "parentId": "rules",
+      "parentId": null,
       "sortKey": ".d003.d004.d001.002",
       "banner": null,
       "backlinks": [
@@ -3782,7 +3782,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/03︱📓︱Создавая приключение/05︱📓︱Проведение сессии/09︱Использование привала/04︱Продолжительный привал (простой).md",
       "isIndex": false,
-      "parentId": "rules",
+      "parentId": null,
       "sortKey": ".d003.d004.d001.003",
       "banner": null,
       "backlinks": [
@@ -3800,7 +3800,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/03︱📓︱Создавая приключение/05︱📓︱Проведение сессии/02︱Подготовка боевых столкновений/01︱Подготовка боевых столкновений.md",
       "isIndex": false,
-      "parentId": "rules",
+      "parentId": null,
       "sortKey": ".d003.d004.d002.000",
       "banner": null,
       "backlinks": [
@@ -3818,7 +3818,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/03︱📓︱Создавая приключение/05︱📓︱Проведение сессии/02︱Подготовка боевых столкновений/02︱Сражения и повествование.md",
       "isIndex": false,
-      "parentId": "rules",
+      "parentId": null,
       "sortKey": ".d003.d004.d002.001",
       "banner": null,
       "backlinks": [
@@ -3836,7 +3836,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/03︱📓︱Создавая приключение/05︱📓︱Проведение сессии/02︱Подготовка боевых столкновений/03︱Полёт и другие свойства.md",
       "isIndex": false,
-      "parentId": "rules",
+      "parentId": null,
       "sortKey": ".d003.d004.d002.002",
       "banner": null,
       "backlinks": [
@@ -3853,7 +3853,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/03︱📓︱Создавая приключение/05︱📓︱Проведение сессии/10︱Смерть персонажа/01︱Смерть персонажа.md",
       "isIndex": false,
-      "parentId": "rules",
+      "parentId": null,
       "sortKey": ".d003.d004.d003.000",
       "banner": null,
       "backlinks": [
@@ -3871,7 +3871,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/03︱📓︱Создавая приключение/05︱📓︱Проведение сессии/10︱Смерть персонажа/02︱Избежать смерти.md",
       "isIndex": false,
-      "parentId": "rules",
+      "parentId": null,
       "sortKey": ".d003.d004.d003.001",
       "banner": null,
       "backlinks": [
@@ -3889,7 +3889,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/03︱📓︱Создавая приключение/05︱📓︱Проведение сессии/10︱Смерть персонажа/03︱Рискнуть всем.md",
       "isIndex": false,
-      "parentId": "rules",
+      "parentId": null,
       "sortKey": ".d003.d004.d003.002",
       "banner": null,
       "backlinks": [
@@ -3906,7 +3906,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/03︱📓︱Создавая приключение/05︱📓︱Проведение сессии/10︱Смерть персонажа/06︱Введение нового персонажа.md",
       "isIndex": false,
-      "parentId": "rules",
+      "parentId": null,
       "sortKey": ".d003.d004.d003.005",
       "banner": null,
       "backlinks": [
@@ -3923,7 +3923,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/04︱📕︱Противники и окружения/01︱📕︱Противники/03︱Опыт противников.md",
       "isIndex": false,
-      "parentId": "rules",
+      "parentId": null,
       "sortKey": ".d004.d000.000",
       "banner": null,
       "backlinks": []
@@ -3938,7 +3938,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/04︱📕︱Противники и окружения/01︱📕︱Противники/01︱Разбор противника.md",
       "isIndex": false,
-      "parentId": "rules",
+      "parentId": null,
       "sortKey": ".d004.d000.001",
       "banner": null,
       "backlinks": []
@@ -3953,7 +3953,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/04︱📕︱Противники и окружения/01︱📕︱Противники/02︱Типы противников.md",
       "isIndex": false,
-      "parentId": "rules",
+      "parentId": null,
       "sortKey": ".d004.d000.002",
       "banner": null,
       "backlinks": []
@@ -3968,7 +3968,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/04︱📕︱Противники и окружения/01︱📕︱Противники/04︱Свойства противников/02︱Действия противников.md",
       "isIndex": false,
-      "parentId": "rules",
+      "parentId": null,
       "sortKey": ".d004.d000.d000.000",
       "banner": null,
       "backlinks": []
@@ -3983,7 +3983,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/04︱📕︱Противники и окружения/01︱📕︱Противники/04︱Свойства противников/05︱Пассивные свойства противников.md",
       "isIndex": false,
-      "parentId": "rules",
+      "parentId": null,
       "sortKey": ".d004.d000.d000.001",
       "banner": null,
       "backlinks": []
@@ -3998,7 +3998,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/04︱📕︱Противники и окружения/01︱📕︱Противники/04︱Свойства противников/09︱Повторение правил.md",
       "isIndex": false,
-      "parentId": "rules",
+      "parentId": null,
       "sortKey": ".d004.d000.d000.002",
       "banner": null,
       "backlinks": []
@@ -4013,7 +4013,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/04︱📕︱Противники и окружения/01︱📕︱Противники/04︱Свойства противников/01︱Применение свойств.md",
       "isIndex": false,
-      "parentId": "rules",
+      "parentId": null,
       "sortKey": ".d004.d000.d000.003",
       "banner": null,
       "backlinks": []
@@ -4028,7 +4028,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/04︱📕︱Противники и окружения/01︱📕︱Противники/04︱Свойства противников/04︱Реакции противников.md",
       "isIndex": false,
-      "parentId": "rules",
+      "parentId": null,
       "sortKey": ".d004.d000.d000.004",
       "banner": null,
       "backlinks": []
@@ -4043,7 +4043,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/04︱📕︱Противники и окружения/01︱📕︱Противники/04︱Свойства противников/06︱Свойства за Страх.md",
       "isIndex": false,
-      "parentId": "rules",
+      "parentId": null,
       "sortKey": ".d004.d000.d000.005",
       "banner": null,
       "backlinks": []
@@ -4058,7 +4058,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/04︱📕︱Противники и окружения/01︱📕︱Противники/04︱Свойства противников/07︱Свойства с призывом.md",
       "isIndex": false,
-      "parentId": "rules",
+      "parentId": null,
       "sortKey": ".d004.d000.d000.007",
       "banner": null,
       "backlinks": []
@@ -4073,7 +4073,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/04︱📕︱Противники и окружения/02︱📕︱Выбор противников/02︱Громила.md",
       "isIndex": false,
-      "parentId": "rules",
+      "parentId": null,
       "sortKey": ".d004.d001.000",
       "banner": null,
       "backlinks": []
@@ -4088,7 +4088,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/04︱📕︱Противники и окружения/02︱📕︱Выбор противников/12︱Импровизация противников.md",
       "isIndex": false,
-      "parentId": "rules",
+      "parentId": null,
       "sortKey": ".d004.d001.001",
       "banner": null,
       "backlinks": []
@@ -4103,7 +4103,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/04︱📕︱Противники и окружения/02︱📕︱Выбор противников/04︱Лидер.md",
       "isIndex": false,
-      "parentId": "rules",
+      "parentId": null,
       "sortKey": ".d004.d001.002",
       "banner": null,
       "backlinks": []
@@ -4118,7 +4118,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/04︱📕︱Противники и окружения/02︱📕︱Выбор противников/09︱Одиночка.md",
       "isIndex": false,
-      "parentId": "rules",
+      "parentId": null,
       "sortKey": ".d004.d001.003",
       "banner": null,
       "backlinks": []
@@ -4133,7 +4133,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/04︱📕︱Противники и окружения/02︱📕︱Выбор противников/03︱Орда.md",
       "isIndex": false,
-      "parentId": "rules",
+      "parentId": null,
       "sortKey": ".d004.d001.004",
       "banner": null,
       "backlinks": []
@@ -4148,7 +4148,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/04︱📕︱Противники и окружения/02︱📕︱Выбор противников/11︱Поддержка.md",
       "isIndex": false,
-      "parentId": "rules",
+      "parentId": null,
       "sortKey": ".d004.d001.006",
       "banner": null,
       "backlinks": []
@@ -4163,7 +4163,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/04︱📕︱Противники и окружения/02︱📕︱Выбор противников/05︱Приспешник.md",
       "isIndex": false,
-      "parentId": "rules",
+      "parentId": null,
       "sortKey": ".d004.d001.007",
       "banner": null,
       "backlinks": []
@@ -4178,7 +4178,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/04︱📕︱Противники и окружения/02︱📕︱Выбор противников/01︱Руководство по сражениям.md",
       "isIndex": false,
-      "parentId": "rules",
+      "parentId": null,
       "sortKey": ".d004.d001.008",
       "banner": null,
       "backlinks": []
@@ -4193,7 +4193,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/04︱📕︱Противники и окружения/02︱📕︱Выбор противников/10︱Рядовой.md",
       "isIndex": false,
-      "parentId": "rules",
+      "parentId": null,
       "sortKey": ".d004.d001.009",
       "banner": null,
       "backlinks": []
@@ -4208,7 +4208,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/04︱📕︱Противники и окружения/02︱📕︱Выбор противников/07︱Скрытный.md",
       "isIndex": false,
-      "parentId": "rules",
+      "parentId": null,
       "sortKey": ".d004.d001.010",
       "banner": null,
       "backlinks": []
@@ -4223,7 +4223,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/04︱📕︱Противники и окружения/02︱📕︱Выбор противников/08︱Социальный.md",
       "isIndex": false,
-      "parentId": "rules",
+      "parentId": null,
       "sortKey": ".d004.d001.011",
       "banner": null,
       "backlinks": []
@@ -4238,7 +4238,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/04︱📕︱Противники и окружения/02︱📕︱Выбор противников/06︱Стрелок.md",
       "isIndex": false,
-      "parentId": "rules",
+      "parentId": null,
       "sortKey": ".d004.d001.012",
       "banner": null,
       "backlinks": []
@@ -4253,7 +4253,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/04︱📕︱Противники и окружения/04︱📕︱Окружения/05︱Адаптирование окружения.md",
       "isIndex": false,
-      "parentId": "rules",
+      "parentId": null,
       "sortKey": ".d004.d002.000",
       "banner": null,
       "backlinks": []
@@ -4268,7 +4268,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/04︱📕︱Противники и окружения/04︱📕︱Окружения/01︱Использование окружения.md",
       "isIndex": false,
-      "parentId": "rules",
+      "parentId": null,
       "sortKey": ".d004.d002.001",
       "banner": null,
       "backlinks": []
@@ -4283,7 +4283,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/04︱📕︱Противники и окружения/04︱📕︱Окружения/06︱Окружения по тиру.md",
       "isIndex": false,
-      "parentId": "rules",
+      "parentId": null,
       "sortKey": ".d004.d002.002",
       "banner": null,
       "backlinks": []
@@ -4298,7 +4298,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/04︱📕︱Противники и окружения/04︱📕︱Окружения/02︱Разбор окружения.md",
       "isIndex": false,
-      "parentId": "rules",
+      "parentId": null,
       "sortKey": ".d004.d002.003",
       "banner": null,
       "backlinks": []
@@ -4313,7 +4313,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/04︱📕︱Противники и окружения/04︱📕︱Окружения/04︱Свойства окружения.md",
       "isIndex": false,
-      "parentId": "rules",
+      "parentId": null,
       "sortKey": ".d004.d002.004",
       "banner": null,
       "backlinks": []
@@ -4328,7 +4328,7 @@
       "original": null,
       "vaultRelPath": "01︱📚︱Правила/04︱📕︱Противники и окружения/04︱📕︱Окружения/03︱Типы окружения.md",
       "isIndex": false,
-      "parentId": "rules",
+      "parentId": null,
       "sortKey": ".d004.d002.005",
       "banner": null,
       "backlinks": []
