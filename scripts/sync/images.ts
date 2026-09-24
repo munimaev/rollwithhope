@@ -64,12 +64,12 @@ export class ImageExporter {
     const out660Abs = path.join(this.outDir, out660Rel)
     fs.mkdirSync(path.dirname(out660Abs), { recursive: true })
 
-    if (!fs.existsSync(out660Abs)) {
+    {
       const meta = await sharp(entry.absPath).metadata()
       const targetW = Math.min(660, meta.width ?? 660)
       await sharp(entry.absPath).resize({ width: targetW }).webp({ quality: 85 }).toFile(out660Abs)
     }
-    if (!fs.existsSync(out330Abs)) {
+    {
       const meta = await sharp(entry.absPath).metadata()
       const targetW = Math.min(330, meta.width ?? 330)
       await sharp(entry.absPath).resize({ width: targetW }).webp({ quality: 85 }).toFile(out330Abs)
@@ -86,7 +86,7 @@ export class ImageExporter {
     const outRel = `images/${stripExt(entry.relPath)}.webp`
     const outAbs = path.join(this.outDir, outRel)
     fs.mkdirSync(path.dirname(outAbs), { recursive: true })
-    if (!fs.existsSync(outAbs)) {
+    {
       const img = sharp(entry.absPath)
       const meta = await img.metadata()
       const targetW = Math.min(1600, meta.width ?? 1600)
