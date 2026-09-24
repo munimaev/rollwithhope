@@ -1,10 +1,9 @@
 <template>
 <div class="prose" data-chapter="1" data-section="rules">
-<p><figure class="illustration" style="--dh-img-width:100%"><img src="/rollwithhope/images/media/ancestryKatari-1yk8fze.webp" width="1600" height="533" loading="lazy" alt="ancestryKatari.webp" /></figure></p>
 <h2 id="описание"><span class="marker" data-marker="chapter"></span>Описание<a class="anchor" href="#описание" aria-label="Ссылка на раздел"></a></h2>
 <p>Катари — похожие на кошек гуманоиды с втяжными когтями, вертикальными зрачками и высокими треугольными ушами. У них также могут быть короткие клыки, мягкий мех и длинные вибриссы, которые помогают в ориентации и восприятии окружающего мира. Их уши могут поворачиваться почти на 180°, что позволяет им улавливать звуки с удивительной точностью. Катари могут выглядеть как более кошкоподобными, так и более человекоподобными — в зависимости от количества кошачьих черт, таких как мех, усы или мордочка. Примерно половина катари имеют хвосты. Цвет их кожи и меха варьируется от однотонных и черепаховых до полосатых, пятнистых, мраморных или с других узоров. Рост катари — от 3 до 6.5 футов, а живут они в среднем около 150 лет.</p>
 <h4 id="свойства-происхождения"><span class="marker" data-marker="minor"></span>Свойства происхождения<a class="anchor" href="#свойства-происхождения" aria-label="Ссылка на раздел"></a></h4>
-<p><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-katari-2ulx32-660.webp" src="/rollwithhope/images/cards/card-katari-2ulx32-330.webp" width="330" height="462" loading="lazy" alt="card-katari.webp" /></figure></p>
+<p><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Ancestry/card-katari-660.webp" src="/rollwithhope/images/Cards/Ancestry/card-katari-330.webp" width="330" height="462" loading="lazy" alt="card-katari.webp" /></figure></p>
 <h6 id="кошачьи-инстинкты-feline-instincts">Кошачьи инстинкты - Feline Instincts<a class="anchor" href="#кошачьи-инстинкты-feline-instincts" aria-label="Ссылка на раздел"></a></h6>
 <p>Совершая бросок Проворности, вы можете <strong>потратить 2 Надежды</strong>, чтобы перебросить Кость Надежды.</p>
 <h6 id="втяжные-когти-retracting-claws">Втяжные когти - Retracting Claws<a class="anchor" href="#втяжные-когти-retracting-claws" aria-label="Ссылка на раздел"></a></h6>

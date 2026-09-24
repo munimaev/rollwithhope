@@ -1,6 +1,5 @@
 <template>
 <div class="prose" data-chapter="2" data-section="rules">
-<p><figure class="illustration" style="--dh-img-width:100%"><img src="/rollwithhope/images/media/states-1rdozo8.webp" width="1600" height="533" loading="lazy" alt="states.webp" /></figure></p>
 <p>Некоторые свойства могут накладывать на вас (или ваших противников) состояния. Это эффекты, которые дают определённые бонусы или неудобства цели, на которую они наложены. В Daggerheart есть три основных состояния — <strong>«Уязвимый»</strong>, <strong>«Скрытый»</strong> и <strong>«Скованный»</strong>, которые описаны ниже. Некоторые способности накладывают другие уникальные состояния, эффект которых подробно описан в тексте способности.</p>
 <p>Одинаковые состояния никогда не складываются и не применяются к одной цели несколько раз, если только в тексте этого состояния не сказано иного.</p>
 <h4 id="скрытый"><span class="marker" data-marker="chapter"></span>Скрытый<a class="anchor" href="#скрытый" aria-label="Ссылка на раздел"></a></h4>

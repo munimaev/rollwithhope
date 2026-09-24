@@ -58,10 +58,6 @@ export function buildSectionPages(
     // Своя страница этой папки (если есть Index.md и она публична)
     let ownId = idPrefix
     let ownUrl = urlPrefix
-    // Важно: reparent-им детей на ownId ТОЛЬКО если у этой папки реально есть
-    // опубликованная (public) страница-Index — иначе дети получат parentId,
-    // указывающий на несуществующую в pages[] страницу, станут "сиротами" и
-    // выпадут из дерева навигации (SectionTree/TreeNode их не найдут).
     let ownIndexIsPublic = false
     if (indexFile) {
       const abs = path.join(absDir, indexFile.name)
@@ -75,6 +71,35 @@ export function buildSectionPages(
         }))
       }
     }
+    // Папка без публичной Index.md (кроме корня раздела) — заводим виртуальный узел
+    // чисто для группировки сайдбара, иначе дети reparent-ятся на несуществующую
+    // страницу, становятся "сиротами" и расползаются плоским списком по корню
+    // (см. CLAUDE.md, «Дерево сайдбара плоское»).
+    const isSectionRoot = absDir === sectionRoot
+    if (!ownIndexIsPublic && !isSectionRoot) {
+      pages.push({
+        id: ownId,
+        url: null,
+        sectionId: section.id,
+        title: stripPrefix(path.basename(absDir)),
+        layout: 'article',
+        tags: [],
+        original: null,
+        vaultRelPath: '',
+        isIndex: false,
+        parentId,
+        sortKey: sortKeyPrefix,
+        chapter,
+        banner: null,
+        backlinks: [],
+        isVirtual: true,
+        absPath: '',
+        bodyRaw: '',
+      })
+    }
+    // Reparent-им детей на ownId, если у этой папки есть собственный узел в pages[]
+    // (реальный Index или виртуальный группирующий) — иначе они остаются на parentId.
+    const hasOwnNode = ownIndexIsPublic || !isSectionRoot
 
     const sortedFiles = hasSortspec
       ? [...files].sort((a, b) => stripPrefix(a.name).localeCompare(stripPrefix(b.name), 'ru'))
@@ -93,7 +118,7 @@ export function buildSectionPages(
         absPath: abs,
         urlPrefix: `${ownUrl}/${slug}`,
         idPrefix: `${ownId}/${slug}`,
-        parentId: ownIndexIsPublic ? ownId : parentId,
+        parentId: hasOwnNode ? ownId : parentId,
         sortKeyPrefix: `${sortKeyPrefix}.${String(i).padStart(3, '0')}`,
         order: i,
         section, slugs, warnings, raw: parsed, isIndex: false, chapter,
@@ -109,7 +134,7 @@ export function buildSectionPages(
         abs,
         `${ownUrl}/${slug}`,
         `${ownId}/${slug}`,
-        ownIndexIsPublic ? ownId : parentId,
+        hasOwnNode ? ownId : parentId,
         `${sortKeyPrefix}.d${String(i).padStart(3, '0')}`,
         childChapter,
       )
@@ -156,6 +181,7 @@ function makePage(args: {
     chapter,
     banner: null,
     backlinks: [],
+    isVirtual: false,
     absPath,
     bodyRaw: raw.content,
   } as PageSkeleton

@@ -1,6 +1,5 @@
 <template>
 <div class="prose" data-chapter="1" data-section="rules">
-<p><figure class="card-placeholder" style="aspect-ratio:2172/724" aria-label="Изображение пока не опубликовано"></figure></p>
 <p>В этом разделе вы можете найти описания всех классов Daggerheart.</p>
 <hr>
 <p>Выбранный вами класс предоставляет следующее:</p>

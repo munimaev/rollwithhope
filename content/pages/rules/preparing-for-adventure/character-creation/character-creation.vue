@@ -1,7 +1,7 @@
 <template>
 <div class="prose" data-chapter="1" data-section="rules">
 <p><em>Если вы не мастер, то первым шагом в игре Daggerheart для вас станет создание персонажа. Помимо выбора класса, сообщества и наследия, вы также определяете его внешность, характер, прошлый опыт, а также отношения с другими персонажами. Некоторые из этих решений носят чисто повествовательный характер, то есть проявляются в игре только благодаря вашему отыгрышу, но остальные связаны с механикой и влияют на действия, которые с большей (или меньшей) вероятностью будут успешными при броске костей.</em></p>
-<p><figure class="illustration" style="--dh-img-width:100%"><img src="/rollwithhope/images/media/prepWorld-4yqpax.webp" width="1600" height="533" loading="lazy" alt="prepWorld.webp" /></figure></p>
+<p><figure class="illustration" style="--dh-img-width:100%"><img src="/rollwithhope/images/Banners/Preparing/prepWorld.webp" width="1600" height="533" loading="lazy" alt="prepWorld.webp" /></figure></p>
 <h2 id="начало-создания"><span class="marker" data-marker="chapter"></span>Начало создания<a class="anchor" href="#начало-создания" aria-label="Ссылка на раздел"></a></h2>
 <p>Прежде чем создавать персонажа, обсудите кампанию со своим игровым столом и начните совместный мозговой штурм идей.</p>
 <aside class="callout" data-type="tip">

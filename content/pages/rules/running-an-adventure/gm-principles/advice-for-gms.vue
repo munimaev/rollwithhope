@@ -1,6 +1,5 @@
 <template>
 <div class="prose" data-chapter="3" data-section="rules">
-<p><figure class="illustration" style="--dh-img-width:100%"><img src="/rollwithhope/images/media/gmRecomenations-1bllc4k.webp" width="1600" height="533" loading="lazy" alt="gmRecomenations.webp" /></figure></p>
 <p>Принципы говорят, что нужно делать; эти рекомендации — как именно.</p>
 <blockquote>
 <p>→ Вызывайте у игроков любопытство.

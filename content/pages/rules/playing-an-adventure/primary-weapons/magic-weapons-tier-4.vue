@@ -1,6 +1,5 @@
 <template>
 <div class="prose" data-chapter="2" data-section="rules">
-<p><figure class="illustration" style="--dh-img-width:100%"><img src="/rollwithhope/images/media/weaponsMagTier4-112wp38.webp" width="1600" height="533" loading="lazy" alt="weaponsMagTier4.webp" /></figure></p>
 <blockquote>
 <p><em>Всё магическое оружие требует обладание атрибутом магии и наносит магический урон.</em></p>
 </blockquote>

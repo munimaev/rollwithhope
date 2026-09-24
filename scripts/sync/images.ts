@@ -4,10 +4,8 @@ import sharp from 'sharp'
 
 const IMAGES_DIR_NAME = '90︱🗂️︱Изображения'
 
-/** Папки (относительно 90︱🗂️︱Изображения), которые пока НЕ публикуются —
- * карты и баннеры классов. Звериные формы друида (Cards/Beastform) — НЕ исключение,
- * это доменная механика, а не часть закрытого баннера класса. */
-const EXCLUDED_PREFIXES = ['Banners/Class', 'Banners/Subclasses', 'Cards/Classes']
+/** Папки (относительно 90︱🗂️︱Изображения), которые пока НЕ публикуются. */
+const EXCLUDED_PREFIXES: string[] = []
 
 export interface ImageEntry {
   absPath: string
@@ -50,21 +48,21 @@ export class ImageExporter {
    * Vite попытался бы резолвить как модуль-импорт. base — префикс сайта (SITE_BASE,
    * по умолчанию "/rollwithhope/"), запекается в URL на этапе sync, т.к. src в шаблоне —
    * статическая строка, не может прочитать import.meta.env.BASE_URL в рантайме. */
-  constructor(private outDir: string, private base: string) {
-    fs.mkdirSync(path.join(outDir, 'images', 'cards'), { recursive: true })
-    fs.mkdirSync(path.join(outDir, 'images', 'media'), { recursive: true })
-  }
+  constructor(private outDir: string, private base: string) {}
 
   /** Карточка: два файла — 330px (быстрая загрузка списков/страниц с множеством карт,
    * используется как <img src>) и 660px (полноразмерный превью в лайтбоксе при клике,
    * используется как data-full). Оба — WebP q85, пережаты из оригинала независимо
-   * (не апскейл друг из друга), чтобы 330px не терял резкость из-за двойного ресемплинга. */
+   * (не апскейл друг из друга), чтобы 330px не терял резкость из-за двойного ресемплинга.
+   * Путь на выходе зеркалирует структуру хранилища (relPath), чтобы папки вроде
+   * Banners/Cards в content оставались узнаваемыми, а не сваливались в один плоский bucket. */
   async exportCard(entry: ImageEntry): Promise<{ url330: string; url660: string; width: number; height: number }> {
-    const hash = fileTag(entry.absPath)
-    const out330Rel = `images/cards/${hash}-330.webp`
-    const out660Rel = `images/cards/${hash}-660.webp`
+    const stem = stripExt(entry.relPath)
+    const out330Rel = `images/${stem}-330.webp`
+    const out660Rel = `images/${stem}-660.webp`
     const out330Abs = path.join(this.outDir, out330Rel)
     const out660Abs = path.join(this.outDir, out660Rel)
+    fs.mkdirSync(path.dirname(out660Abs), { recursive: true })
 
     if (!fs.existsSync(out660Abs)) {
       const meta = await sharp(entry.absPath).metadata()
@@ -82,12 +80,12 @@ export class ImageExporter {
   }
 
   /** Баннер/иллюстрация: копия с пережатием в WebP q85, ограничение по ширине 1600px
-   * (чтобы не тащить на сайт исходники по несколько МБ), исходные пропорции сохраняются. */
+   * (чтобы не тащить на сайт исходники по несколько МБ), исходные пропорции сохраняются.
+   * Путь зеркалирует структуру хранилища (relPath), см. exportCard. */
   async exportMedia(entry: ImageEntry): Promise<{ url: string; width: number; height: number }> {
-    const hash = fileTag(entry.absPath)
-    const outName = `${hash}.webp`
-    const outRel = `images/media/${outName}`
+    const outRel = `images/${stripExt(entry.relPath)}.webp`
     const outAbs = path.join(this.outDir, outRel)
+    fs.mkdirSync(path.dirname(outAbs), { recursive: true })
     if (!fs.existsSync(outAbs)) {
       const img = sharp(entry.absPath)
       const meta = await img.metadata()
@@ -106,13 +104,8 @@ export class ImageExporter {
   }
 }
 
-function fileTag(absPath: string): string {
-  // Короткий стабильный идентификатор файла для имени выходного файла:
-  // basename без расширения + хэш полного пути (на случай одинаковых имён в разных папках).
-  const base = path.basename(absPath).replace(/\.[^.]+$/, '')
-  let h = 0
-  for (const ch of absPath) h = (h * 31 + ch.charCodeAt(0)) >>> 0
-  return `${base}-${h.toString(36)}`
+function stripExt(relPath: string): string {
+  return relPath.replace(/\.[^./]+$/, '')
 }
 
 export { EXCLUDED_PREFIXES }

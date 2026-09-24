@@ -1,6 +1,5 @@
 <template>
 <div class="prose" data-chapter="4" data-section="rules">
-<p><figure class="illustration" style="--dh-img-width:100%"><img src="/rollwithhope/images/media/fearFeatures-19a2tt9.webp" width="1600" height="533" loading="lazy" alt="fearFeatures.webp" /></figure></p>
 <p>Свойства за Страх — редкие и мощные свойства противников, для применения которых требуется потратить Страх. Они могут быть пассивными свойствами, действиями или реакциями. Любое Свойство за Страх — это определяющий исход окружения эффект, который оправдывает трату столь ценного ресурса мастера.</p>
 <blockquote>
 <p>[!example] Пример

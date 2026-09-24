@@ -1,6 +1,5 @@
 <template>
 <div class="prose" data-chapter="2" data-section="rules">
-<p><figure class="illustration" style="--dh-img-width:100%"><img src="/rollwithhope/images/media/longRestInATavern-uop6c6.webp" width="1600" height="533" loading="lazy" alt="longRestInATavern.webp" /></figure></p>
 <p><strong>Долгий отдых</strong> — это когда персонажи могут разбить лагерь, отдохнуть несколько часов и немного поспать. Каждый игрок может поменять любые карточки доменов из руки на любые карточки из своего запаса, а затем выбрать два хода из списка (или выбрать один и тот же ход дважды).</p>
 <p>🔸 <strong>Обработать все раны.</strong>
 Опишите, как вы приводите себя в порядок и вылечите все Раны. Вместо этого вы можете обработать все раны союзника.</p>

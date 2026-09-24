@@ -1,6 +1,5 @@
 <template>
 <div class="prose" data-chapter="1" data-section="rules">
-<p><figure class="illustration" style="--dh-img-width:100%"><img src="/rollwithhope/images/media/prepStep2-q26pqd.webp" width="1600" height="533" loading="lazy" alt="prepStep2.webp" /></figure></p>
 <p>Теперь выберите <strong>наследие</strong> вашего персонажа. Этот аспект включает два элемента — его происхождение и принадлежность к сообществу.</p>
 <h4 id="выберите-происхождение"><span class="marker" data-marker="chapter"></span>Выберите происхождение<a class="anchor" href="#выберите-происхождение" aria-label="Ссылка на раздел"></a></h4>
 <p>Происхождение персонажа отражает его родословную, влияет на физические характеристики и даёт два уникальных свойства. Возьмите карточку одного из представленных ниже происхождений и впишите её название в поле «Наследие» на листе персонажа.</p>

@@ -1,6 +1,5 @@
 <template>
 <div class="prose" data-chapter="2" data-section="rules">
-<p><figure class="illustration" style="--dh-img-width:100%"><img src="/rollwithhope/images/media/rollWithFearAndHope-rixtiy.webp" width="1600" height="533" loading="lazy" alt="rollWithFearAndHope.webp" /></figure></p>
 <p>Одна из ваших костей дуализма — это <strong>кость Надежды</strong>, а вторая — <strong>кость Страха</strong>.</p>
 <p><strong>Надежда</strong>
 Когда вы бросаете кости дуализма и значение, выпавшее на кости Надежды, оказывается выше, чем значение кости Страха, вы «<strong>бросили с Надеждой</strong>». Если это бросок действия, то даже при провале вы получаете одну Надежду, отмечая это в соответствующем разделе на листе персонажа. Также вы можете получать Надежду от заклинаний, способностей и других событий, происходящих в игре.</p>

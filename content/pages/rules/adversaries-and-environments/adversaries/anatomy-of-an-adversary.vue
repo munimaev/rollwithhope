@@ -1,6 +1,5 @@
 <template>
 <div class="prose" data-chapter="4" data-section="rules">
-<p><figure class="illustration" style="--dh-img-width:100%"><img src="/rollwithhope/images/media/adversaryBreakdown-stpmcu.webp" width="1600" height="533" loading="lazy" alt="adversaryBreakdown.webp" /></figure></p>
 <p>Этот раздел описывает, как использовать блок параметров противника. Общие правила проведения боя и увязки этих сцен с общей историей приведены в разделе <a class="wikilink" href="/rules/running-an-adventure/running-a-session/preparing-battles/preparing-battles">«Боевое столкновение»</a> в главе 3. Далее в разделе «Блоки параметров противников» представлены параметры каждого противника, сгруппированные по тирам, отражающим их общий уровень угрозы.</p>
 <p>Блок параметров каждого противника даёт параметры и информацию по механикам, необходимые для использования его в бою.</p>
 <h4 id="название"><span class="marker" data-marker="chapter"></span>Название<a class="anchor" href="#название" aria-label="Ссылка на раздел"></a></h4>

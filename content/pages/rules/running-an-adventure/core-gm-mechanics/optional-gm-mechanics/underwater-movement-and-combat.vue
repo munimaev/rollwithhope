@@ -1,6 +1,5 @@
 <template>
 <div class="prose" data-chapter="3" data-section="rules">
-<p><figure class="illustration" style="--dh-img-width:100%"><img src="/rollwithhope/images/media/movingAndFightingUnderwater-witcl5.webp" width="1600" height="533" loading="lazy" alt="movingAndFightingUnderwater.webp" /></figure></p>
 <p>Броски атаки под водой выполняются с помехой, если только для персонажа не логично легко драться в такой среде (например, сирена или акула атакует персонажа игрока).</p>
 <p>Для существ, не умеющих дышать под водой, создайте кость-счётчик, чтобы обозначить, сколько времени они могут задерживать дыхание. Выставьте на кости начальное значение 3 или выше и уменьшайте его так:</p>
 <ul>

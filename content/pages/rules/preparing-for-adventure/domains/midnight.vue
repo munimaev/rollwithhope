@@ -1,6 +1,5 @@
 <template>
 <div class="prose" data-chapter="1" data-section="rules">
-<p><figure class="illustration" style="--dh-img-width:100%"><img src="/rollwithhope/images/media/bnrDomainMidnight-cao89l.webp" width="1600" height="533" loading="lazy" alt="bnrDomainMidnight.webp" /></figure></p>
 <h4 id="карты-домена-по-уровню"><span class="marker" data-marker="chapter"></span>Карты домена по уровню<a class="anchor" href="#карты-домена-по-уровню" aria-label="Ссылка на раздел"></a></h4>
 <div class="table-wrap"><table>
 <thead>
@@ -11,11 +10,11 @@
 </thead>
 <tbody>
 <tr>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-midnight-1-uncanny-disguise-1him30y-660.webp" src="/rollwithhope/images/cards/card-midnight-1-uncanny-disguise-1him30y-330.webp" width="330" height="462" loading="lazy" alt="card-midnight-1-uncanny-disguise.webp" /></figure></td>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-midnight-1-rain-of-blades-zzokw4-660.webp" src="/rollwithhope/images/cards/card-midnight-1-rain-of-blades-zzokw4-330.webp" width="330" height="462" loading="lazy" alt="card-midnight-1-rain-of-blades.webp" /></figure></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Domains/Midnight/card-midnight-1-uncanny-disguise-660.webp" src="/rollwithhope/images/Cards/Domains/Midnight/card-midnight-1-uncanny-disguise-330.webp" width="330" height="462" loading="lazy" alt="card-midnight-1-uncanny-disguise.webp" /></figure></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Domains/Midnight/card-midnight-1-rain-of-blades-660.webp" src="/rollwithhope/images/Cards/Domains/Midnight/card-midnight-1-rain-of-blades-330.webp" width="330" height="462" loading="lazy" alt="card-midnight-1-rain-of-blades.webp" /></figure></td>
 </tr>
 <tr>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-midnight-1-pick-and-pull-1j6tlwx-660.webp" src="/rollwithhope/images/cards/card-midnight-1-pick-and-pull-1j6tlwx-330.webp" width="330" height="462" loading="lazy" alt="card-midnight-1-pick-and-pull.webp" /></figure></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Domains/Midnight/card-midnight-1-pick-and-pull-660.webp" src="/rollwithhope/images/Cards/Domains/Midnight/card-midnight-1-pick-and-pull-330.webp" width="330" height="462" loading="lazy" alt="card-midnight-1-pick-and-pull.webp" /></figure></td>
 <td></td>
 </tr>
 <tr>
@@ -23,72 +22,72 @@
 <td></td>
 </tr>
 <tr>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-midnight-2-shadowbind-vrccdc-660.webp" src="/rollwithhope/images/cards/card-midnight-2-shadowbind-vrccdc-330.webp" width="330" height="462" loading="lazy" alt="card-midnight-2-shadowbind.webp" /></figure></td>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-midnight-2-midnight-spirit-17ybs21-660.webp" src="/rollwithhope/images/cards/card-midnight-2-midnight-spirit-17ybs21-330.webp" width="330" height="462" loading="lazy" alt="card-midnight-2-midnight-spirit.webp" /></figure></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Domains/Midnight/card-midnight-2-shadowbind-660.webp" src="/rollwithhope/images/Cards/Domains/Midnight/card-midnight-2-shadowbind-330.webp" width="330" height="462" loading="lazy" alt="card-midnight-2-shadowbind.webp" /></figure></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Domains/Midnight/card-midnight-2-midnight-spirit-660.webp" src="/rollwithhope/images/Cards/Domains/Midnight/card-midnight-2-midnight-spirit-330.webp" width="330" height="462" loading="lazy" alt="card-midnight-2-midnight-spirit.webp" /></figure></td>
 </tr>
 <tr>
 <td><br><strong>🟢 Уровень 3</strong></td>
 <td></td>
 </tr>
 <tr>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-midnight-3-chokehold-121smab-660.webp" src="/rollwithhope/images/cards/card-midnight-3-chokehold-121smab-330.webp" width="330" height="462" loading="lazy" alt="card-midnight-3-chokehold.webp" /></figure></td>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-midnight-3-veil-of-night-1s5gqxl-660.webp" src="/rollwithhope/images/cards/card-midnight-3-veil-of-night-1s5gqxl-330.webp" width="330" height="462" loading="lazy" alt="card-midnight-3-veil-of-night.webp" /></figure></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Domains/Midnight/card-midnight-3-chokehold-660.webp" src="/rollwithhope/images/Cards/Domains/Midnight/card-midnight-3-chokehold-330.webp" width="330" height="462" loading="lazy" alt="card-midnight-3-chokehold.webp" /></figure></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Domains/Midnight/card-midnight-3-veil-of-night-660.webp" src="/rollwithhope/images/Cards/Domains/Midnight/card-midnight-3-veil-of-night-330.webp" width="330" height="462" loading="lazy" alt="card-midnight-3-veil-of-night.webp" /></figure></td>
 </tr>
 <tr>
 <td><br><strong>🟢 Уровень 4</strong></td>
 <td></td>
 </tr>
 <tr>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-midnight-4-stealth-expertise-2oar3i-660.webp" src="/rollwithhope/images/cards/card-midnight-4-stealth-expertise-2oar3i-330.webp" width="330" height="462" loading="lazy" alt="card-midnight-4-stealth-expertise.webp" /></figure></td>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-midnight-4-glyph-of-nightfall-1jwhthd-660.webp" src="/rollwithhope/images/cards/card-midnight-4-glyph-of-nightfall-1jwhthd-330.webp" width="330" height="462" loading="lazy" alt="card-midnight-4-glyph-of-nightfall.webp" /></figure></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Domains/Midnight/card-midnight-4-stealth-expertise-660.webp" src="/rollwithhope/images/Cards/Domains/Midnight/card-midnight-4-stealth-expertise-330.webp" width="330" height="462" loading="lazy" alt="card-midnight-4-stealth-expertise.webp" /></figure></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Domains/Midnight/card-midnight-4-glyph-of-nightfall-660.webp" src="/rollwithhope/images/Cards/Domains/Midnight/card-midnight-4-glyph-of-nightfall-330.webp" width="330" height="462" loading="lazy" alt="card-midnight-4-glyph-of-nightfall.webp" /></figure></td>
 </tr>
 <tr>
 <td><br><strong>🟢 Уровень 5</strong></td>
 <td></td>
 </tr>
 <tr>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-midnight-5-hush-im4pdq-660.webp" src="/rollwithhope/images/cards/card-midnight-5-hush-im4pdq-330.webp" width="330" height="462" loading="lazy" alt="card-midnight-5-hush.webp" /></figure></td>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-midnight-5-phantom-retreat-16ffeml-660.webp" src="/rollwithhope/images/cards/card-midnight-5-phantom-retreat-16ffeml-330.webp" width="330" height="462" loading="lazy" alt="card-midnight-5-phantom-retreat.webp" /></figure></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Domains/Midnight/card-midnight-5-hush-660.webp" src="/rollwithhope/images/Cards/Domains/Midnight/card-midnight-5-hush-330.webp" width="330" height="462" loading="lazy" alt="card-midnight-5-hush.webp" /></figure></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Domains/Midnight/card-midnight-5-phantom-retreat-660.webp" src="/rollwithhope/images/Cards/Domains/Midnight/card-midnight-5-phantom-retreat-330.webp" width="330" height="462" loading="lazy" alt="card-midnight-5-phantom-retreat.webp" /></figure></td>
 </tr>
 <tr>
 <td><br><strong>🟢 Уровень 6</strong></td>
 <td></td>
 </tr>
 <tr>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-midnight-6-dark-whispers-16k2mcr-660.webp" src="/rollwithhope/images/cards/card-midnight-6-dark-whispers-16k2mcr-330.webp" width="330" height="462" loading="lazy" alt="card-midnight-6-dark-whispers.webp" /></figure></td>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-midnight-6-mass-disguise-11934bf-660.webp" src="/rollwithhope/images/cards/card-midnight-6-mass-disguise-11934bf-330.webp" width="330" height="462" loading="lazy" alt="card-midnight-6-mass-disguise.webp" /></figure></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Domains/Midnight/card-midnight-6-dark-whispers-660.webp" src="/rollwithhope/images/Cards/Domains/Midnight/card-midnight-6-dark-whispers-330.webp" width="330" height="462" loading="lazy" alt="card-midnight-6-dark-whispers.webp" /></figure></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Domains/Midnight/card-midnight-6-mass-disguise-660.webp" src="/rollwithhope/images/Cards/Domains/Midnight/card-midnight-6-mass-disguise-330.webp" width="330" height="462" loading="lazy" alt="card-midnight-6-mass-disguise.webp" /></figure></td>
 </tr>
 <tr>
 <td><br><strong>🟢 Уровень 7</strong></td>
 <td></td>
 </tr>
 <tr>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-midnight-7-midnight-touched-1chhrhd-660.webp" src="/rollwithhope/images/cards/card-midnight-7-midnight-touched-1chhrhd-330.webp" width="330" height="462" loading="lazy" alt="card-midnight-7-midnight-touched.webp" /></figure></td>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-midnight-7-vanishing-dodge-qzr29t-660.webp" src="/rollwithhope/images/cards/card-midnight-7-vanishing-dodge-qzr29t-330.webp" width="330" height="462" loading="lazy" alt="card-midnight-7-vanishing-dodge.webp" /></figure></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Domains/Midnight/card-midnight-7-midnight-touched-660.webp" src="/rollwithhope/images/Cards/Domains/Midnight/card-midnight-7-midnight-touched-330.webp" width="330" height="462" loading="lazy" alt="card-midnight-7-midnight-touched.webp" /></figure></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Domains/Midnight/card-midnight-7-vanishing-dodge-660.webp" src="/rollwithhope/images/Cards/Domains/Midnight/card-midnight-7-vanishing-dodge-330.webp" width="330" height="462" loading="lazy" alt="card-midnight-7-vanishing-dodge.webp" /></figure></td>
 </tr>
 <tr>
 <td><br><strong>🟢 Уровень 8</strong></td>
 <td></td>
 </tr>
 <tr>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-midnight-8-shadowhunter-icirr7-660.webp" src="/rollwithhope/images/cards/card-midnight-8-shadowhunter-icirr7-330.webp" width="330" height="462" loading="lazy" alt="card-midnight-8-shadowhunter.webp" /></figure></td>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-midnight-8-spellcharge-fsjkvp-660.webp" src="/rollwithhope/images/cards/card-midnight-8-spellcharge-fsjkvp-330.webp" width="330" height="462" loading="lazy" alt="card-midnight-8-spellcharge.webp" /></figure></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Domains/Midnight/card-midnight-8-shadowhunter-660.webp" src="/rollwithhope/images/Cards/Domains/Midnight/card-midnight-8-shadowhunter-330.webp" width="330" height="462" loading="lazy" alt="card-midnight-8-shadowhunter.webp" /></figure></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Domains/Midnight/card-midnight-8-spellcharge-660.webp" src="/rollwithhope/images/Cards/Domains/Midnight/card-midnight-8-spellcharge-330.webp" width="330" height="462" loading="lazy" alt="card-midnight-8-spellcharge.webp" /></figure></td>
 </tr>
 <tr>
 <td><br><strong>🟢 Уровень 9</strong></td>
 <td></td>
 </tr>
 <tr>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-midnight-9-night-terror-1f4v3iz-660.webp" src="/rollwithhope/images/cards/card-midnight-9-night-terror-1f4v3iz-330.webp" width="330" height="462" loading="lazy" alt="card-midnight-9-night-terror.webp" /></figure></td>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-midnight-9-twilight-toll-1bnw5co-660.webp" src="/rollwithhope/images/cards/card-midnight-9-twilight-toll-1bnw5co-330.webp" width="330" height="462" loading="lazy" alt="card-midnight-9-twilight-toll.webp" /></figure></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Domains/Midnight/card-midnight-9-night-terror-660.webp" src="/rollwithhope/images/Cards/Domains/Midnight/card-midnight-9-night-terror-330.webp" width="330" height="462" loading="lazy" alt="card-midnight-9-night-terror.webp" /></figure></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Domains/Midnight/card-midnight-9-twilight-toll-660.webp" src="/rollwithhope/images/Cards/Domains/Midnight/card-midnight-9-twilight-toll-330.webp" width="330" height="462" loading="lazy" alt="card-midnight-9-twilight-toll.webp" /></figure></td>
 </tr>
 <tr>
 <td><br><strong>🟢 Уровень 10</strong></td>
 <td></td>
 </tr>
 <tr>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-midnight-10-eclipse-tjd88v-660.webp" src="/rollwithhope/images/cards/card-midnight-10-eclipse-tjd88v-330.webp" width="330" height="462" loading="lazy" alt="card-midnight-10-eclipse.webp" /></figure></td>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-midnight-10-specter-of-the-dark-12b0tl1-660.webp" src="/rollwithhope/images/cards/card-midnight-10-specter-of-the-dark-12b0tl1-330.webp" width="330" height="462" loading="lazy" alt="card-midnight-10-specter-of-the-dark.webp" /></figure></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Domains/Midnight/card-midnight-10-eclipse-660.webp" src="/rollwithhope/images/Cards/Domains/Midnight/card-midnight-10-eclipse-330.webp" width="330" height="462" loading="lazy" alt="card-midnight-10-eclipse.webp" /></figure></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Domains/Midnight/card-midnight-10-specter-of-the-dark-660.webp" src="/rollwithhope/images/Cards/Domains/Midnight/card-midnight-10-specter-of-the-dark-330.webp" width="330" height="462" loading="lazy" alt="card-midnight-10-specter-of-the-dark.webp" /></figure></td>
 </tr>
 </tbody>
 </table></div>

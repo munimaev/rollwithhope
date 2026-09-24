@@ -12,3 +12,6 @@ test-results*/
 
 # local templates
 templates/
+
+# agent handoff notes (local context, not source)
+.cursor/handoff/

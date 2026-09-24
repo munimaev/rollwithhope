@@ -1,6 +1,5 @@
 <template>
 <div class="prose" data-chapter="4" data-section="rules">
-<p><figure class="illustration" style="--dh-img-width:100%"><img src="/rollwithhope/images/media/adversaryTypes-801a52.webp" width="1600" height="533" loading="lazy" alt="adversaryTypes.webp" /></figure></p>
 <p>Тип противника отражает его роль в конфликте. Использование противников разных типов помогает сделать столкновение захватывающим и динамичным. Основные типы противников перечислены ниже.</p>
 <p>🔸 <strong>Громила:</strong> крепкий боец, способный наносить мощные удары.</p>
 <p>🔸 <strong>Орда:</strong> группа одинаковых существ, действующих сообща, как единое целое.</p>

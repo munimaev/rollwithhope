@@ -1,6 +1,5 @@
 <template>
 <div class="prose" data-chapter="1" data-section="rules">
-<p><figure class="card-placeholder" style="aspect-ratio:2172/724" aria-label="Изображение пока не опубликовано"></figure></p>
 <blockquote>
 <p>Выбирайте Зов резни, если хотите с невероятной силой сокрушать врагов.</p>
 </blockquote>
@@ -9,13 +8,13 @@
 <div class="table-wrap"><table>
 <thead>
 <tr>
-<th><figure class="card-placeholder" style="aspect-ratio:720/1007" aria-label="Изображение пока не опубликовано"></figure></th>
-<th><figure class="card-placeholder" style="aspect-ratio:720/1007" aria-label="Изображение пока не опубликовано"></figure></th>
+<th><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Classes/Warrior/card-call-of-the-slayer-1-foundation-660.webp" src="/rollwithhope/images/Cards/Classes/Warrior/card-call-of-the-slayer-1-foundation-330.webp" width="330" height="462" loading="lazy" alt="card-call-of-the-slayer-1-foundation.webp" /></figure></th>
+<th><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Classes/Warrior/card-call-of-the-slayer-2-specialization-660.webp" src="/rollwithhope/images/Cards/Classes/Warrior/card-call-of-the-slayer-2-specialization-330.webp" width="330" height="462" loading="lazy" alt="card-call-of-the-slayer-2-specialization.webp" /></figure></th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td><figure class="card-placeholder" style="aspect-ratio:720/1007" aria-label="Изображение пока не опубликовано"></figure></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Classes/Warrior/card-call-of-the-slayer-3-mastery-660.webp" src="/rollwithhope/images/Cards/Classes/Warrior/card-call-of-the-slayer-3-mastery-330.webp" width="330" height="462" loading="lazy" alt="card-call-of-the-slayer-3-mastery.webp" /></figure></td>
 <td></td>
 </tr>
 </tbody>

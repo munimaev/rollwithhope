@@ -1,6 +1,5 @@
 <template>
 <div class="prose" data-chapter="1" data-section="rules">
-<p><figure class="illustration" style="--dh-img-width:100%"><img src="/rollwithhope/images/media/bnrDomainGrace-ga3hqr.webp" width="1600" height="533" loading="lazy" alt="bnrDomainGrace.webp" /></figure></p>
 <h4 id="карты-домена-по-уровню"><span class="marker" data-marker="chapter"></span>Карты домена по уровню<a class="anchor" href="#карты-домена-по-уровню" aria-label="Ссылка на раздел"></a></h4>
 <div class="table-wrap"><table>
 <thead>
@@ -11,11 +10,11 @@
 </thead>
 <tbody>
 <tr>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-grace-1-enrapture-1j9cyjs-660.webp" src="/rollwithhope/images/cards/card-grace-1-enrapture-1j9cyjs-330.webp" width="330" height="462" loading="lazy" alt="card-grace-1-enrapture.webp" /></figure></td>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-grace-1-inspirational-words-xkzzab-660.webp" src="/rollwithhope/images/cards/card-grace-1-inspirational-words-xkzzab-330.webp" width="330" height="462" loading="lazy" alt="card-grace-1-inspirational-words.webp" /></figure></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Domains/Grace/card-grace-1-enrapture-660.webp" src="/rollwithhope/images/Cards/Domains/Grace/card-grace-1-enrapture-330.webp" width="330" height="462" loading="lazy" alt="card-grace-1-enrapture.webp" /></figure></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Domains/Grace/card-grace-1-inspirational-words-660.webp" src="/rollwithhope/images/Cards/Domains/Grace/card-grace-1-inspirational-words-330.webp" width="330" height="462" loading="lazy" alt="card-grace-1-inspirational-words.webp" /></figure></td>
 </tr>
 <tr>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-grace-1-deft-deceiver-1pmt97d-660.webp" src="/rollwithhope/images/cards/card-grace-1-deft-deceiver-1pmt97d-330.webp" width="330" height="462" loading="lazy" alt="card-grace-1-deft-deceiver.webp" /></figure></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Domains/Grace/card-grace-1-deft-deceiver-660.webp" src="/rollwithhope/images/Cards/Domains/Grace/card-grace-1-deft-deceiver-330.webp" width="330" height="462" loading="lazy" alt="card-grace-1-deft-deceiver.webp" /></figure></td>
 <td></td>
 </tr>
 <tr>
@@ -23,72 +22,72 @@
 <td></td>
 </tr>
 <tr>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-grace-2-tell-no-lies-bf3o4m-660.webp" src="/rollwithhope/images/cards/card-grace-2-tell-no-lies-bf3o4m-330.webp" width="330" height="462" loading="lazy" alt="card-grace-2-tell-no-lies.webp" /></figure></td>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-grace-2-troublemaker-17wbe1g-660.webp" src="/rollwithhope/images/cards/card-grace-2-troublemaker-17wbe1g-330.webp" width="330" height="462" loading="lazy" alt="card-grace-2-troublemaker.webp" /></figure></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Domains/Grace/card-grace-2-tell-no-lies-660.webp" src="/rollwithhope/images/Cards/Domains/Grace/card-grace-2-tell-no-lies-330.webp" width="330" height="462" loading="lazy" alt="card-grace-2-tell-no-lies.webp" /></figure></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Domains/Grace/card-grace-2-troublemaker-660.webp" src="/rollwithhope/images/Cards/Domains/Grace/card-grace-2-troublemaker-330.webp" width="330" height="462" loading="lazy" alt="card-grace-2-troublemaker.webp" /></figure></td>
 </tr>
 <tr>
 <td><br><strong>🟢 Уровень 3</strong></td>
 <td></td>
 </tr>
 <tr>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-grace-3-invisibility-doj5hn-660.webp" src="/rollwithhope/images/cards/card-grace-3-invisibility-doj5hn-330.webp" width="330" height="462" loading="lazy" alt="card-grace-3-invisibility.webp" /></figure></td>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-grace-3-hypnotic-shimmer-a6hbts-660.webp" src="/rollwithhope/images/cards/card-grace-3-hypnotic-shimmer-a6hbts-330.webp" width="330" height="462" loading="lazy" alt="card-grace-3-hypnotic-shimmer.webp" /></figure></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Domains/Grace/card-grace-3-invisibility-660.webp" src="/rollwithhope/images/Cards/Domains/Grace/card-grace-3-invisibility-330.webp" width="330" height="462" loading="lazy" alt="card-grace-3-invisibility.webp" /></figure></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Domains/Grace/card-grace-3-hypnotic-shimmer-660.webp" src="/rollwithhope/images/Cards/Domains/Grace/card-grace-3-hypnotic-shimmer-330.webp" width="330" height="462" loading="lazy" alt="card-grace-3-hypnotic-shimmer.webp" /></figure></td>
 </tr>
 <tr>
 <td><br><strong>🟢 Уровень 4</strong></td>
 <td></td>
 </tr>
 <tr>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-grace-4-soothing-speech-nxfcv1-660.webp" src="/rollwithhope/images/cards/card-grace-4-soothing-speech-nxfcv1-330.webp" width="330" height="462" loading="lazy" alt="card-grace-4-soothing-speech.webp" /></figure></td>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-grace-4-through-your-eyes-lqwfml-660.webp" src="/rollwithhope/images/cards/card-grace-4-through-your-eyes-lqwfml-330.webp" width="330" height="462" loading="lazy" alt="card-grace-4-through-your-eyes.webp" /></figure></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Domains/Grace/card-grace-4-soothing-speech-660.webp" src="/rollwithhope/images/Cards/Domains/Grace/card-grace-4-soothing-speech-330.webp" width="330" height="462" loading="lazy" alt="card-grace-4-soothing-speech.webp" /></figure></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Domains/Grace/card-grace-4-through-your-eyes-660.webp" src="/rollwithhope/images/Cards/Domains/Grace/card-grace-4-through-your-eyes-330.webp" width="330" height="462" loading="lazy" alt="card-grace-4-through-your-eyes.webp" /></figure></td>
 </tr>
 <tr>
 <td><br><strong>🟢 Уровень 5</strong></td>
 <td></td>
 </tr>
 <tr>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-grace-5-thought-delver-1bjmojc-660.webp" src="/rollwithhope/images/cards/card-grace-5-thought-delver-1bjmojc-330.webp" width="330" height="462" loading="lazy" alt="card-grace-5-thought-delver.webp" /></figure></td>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-grace-5-words-of-discord-5p2z9m-660.webp" src="/rollwithhope/images/cards/card-grace-5-words-of-discord-5p2z9m-330.webp" width="330" height="462" loading="lazy" alt="card-grace-5-words-of-discord.webp" /></figure></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Domains/Grace/card-grace-5-thought-delver-660.webp" src="/rollwithhope/images/Cards/Domains/Grace/card-grace-5-thought-delver-330.webp" width="330" height="462" loading="lazy" alt="card-grace-5-thought-delver.webp" /></figure></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Domains/Grace/card-grace-5-words-of-discord-660.webp" src="/rollwithhope/images/Cards/Domains/Grace/card-grace-5-words-of-discord-330.webp" width="330" height="462" loading="lazy" alt="card-grace-5-words-of-discord.webp" /></figure></td>
 </tr>
 <tr>
 <td><br><strong>🟢 Уровень 6</strong></td>
 <td></td>
 </tr>
 <tr>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-grace-6-share-the-burden-88qi5-660.webp" src="/rollwithhope/images/cards/card-grace-6-share-the-burden-88qi5-330.webp" width="330" height="462" loading="lazy" alt="card-grace-6-share-the-burden.webp" /></figure></td>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-grace-6-never-upstaged-1ut1n43-660.webp" src="/rollwithhope/images/cards/card-grace-6-never-upstaged-1ut1n43-330.webp" width="330" height="462" loading="lazy" alt="card-grace-6-never-upstaged.webp" /></figure></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Domains/Grace/card-grace-6-share-the-burden-660.webp" src="/rollwithhope/images/Cards/Domains/Grace/card-grace-6-share-the-burden-330.webp" width="330" height="462" loading="lazy" alt="card-grace-6-share-the-burden.webp" /></figure></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Domains/Grace/card-grace-6-never-upstaged-660.webp" src="/rollwithhope/images/Cards/Domains/Grace/card-grace-6-never-upstaged-330.webp" width="330" height="462" loading="lazy" alt="card-grace-6-never-upstaged.webp" /></figure></td>
 </tr>
 <tr>
 <td><br><strong>🟢 Уровень 7</strong></td>
 <td></td>
 </tr>
 <tr>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-grace-7-endless-charisma-12ytx5-660.webp" src="/rollwithhope/images/cards/card-grace-7-endless-charisma-12ytx5-330.webp" width="330" height="462" loading="lazy" alt="card-grace-7-endless-charisma.webp" /></figure></td>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-grace-7-grace-touched-1umh18l-660.webp" src="/rollwithhope/images/cards/card-grace-7-grace-touched-1umh18l-330.webp" width="330" height="462" loading="lazy" alt="card-grace-7-grace-touched.webp" /></figure></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Domains/Grace/card-grace-7-endless-charisma-660.webp" src="/rollwithhope/images/Cards/Domains/Grace/card-grace-7-endless-charisma-330.webp" width="330" height="462" loading="lazy" alt="card-grace-7-endless-charisma.webp" /></figure></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Domains/Grace/card-grace-7-grace-touched-660.webp" src="/rollwithhope/images/Cards/Domains/Grace/card-grace-7-grace-touched-330.webp" width="330" height="462" loading="lazy" alt="card-grace-7-grace-touched.webp" /></figure></td>
 </tr>
 <tr>
 <td><br><strong>🟢 Уровень 8</strong></td>
 <td></td>
 </tr>
 <tr>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-grace-8-astral-projection-wmucfg-660.webp" src="/rollwithhope/images/cards/card-grace-8-astral-projection-wmucfg-330.webp" width="330" height="462" loading="lazy" alt="card-grace-8-astral-projection.webp" /></figure></td>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-grace-8-mass-enrapture-qkhyac-660.webp" src="/rollwithhope/images/cards/card-grace-8-mass-enrapture-qkhyac-330.webp" width="330" height="462" loading="lazy" alt="card-grace-8-mass-enrapture.webp" /></figure></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Domains/Grace/card-grace-8-astral-projection-660.webp" src="/rollwithhope/images/Cards/Domains/Grace/card-grace-8-astral-projection-330.webp" width="330" height="462" loading="lazy" alt="card-grace-8-astral-projection.webp" /></figure></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Domains/Grace/card-grace-8-mass-enrapture-660.webp" src="/rollwithhope/images/Cards/Domains/Grace/card-grace-8-mass-enrapture-330.webp" width="330" height="462" loading="lazy" alt="card-grace-8-mass-enrapture.webp" /></figure></td>
 </tr>
 <tr>
 <td><br><strong>🟢 Уровень 9</strong></td>
 <td></td>
 </tr>
 <tr>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-grace-9-copycat-10w7atn-660.webp" src="/rollwithhope/images/cards/card-grace-9-copycat-10w7atn-330.webp" width="330" height="462" loading="lazy" alt="card-grace-9-copycat.webp" /></figure></td>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-grace-9-master-of-the-craft-1gux5gz-660.webp" src="/rollwithhope/images/cards/card-grace-9-master-of-the-craft-1gux5gz-330.webp" width="330" height="462" loading="lazy" alt="card-grace-9-master-of-the-craft.webp" /></figure></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Domains/Grace/card-grace-9-copycat-660.webp" src="/rollwithhope/images/Cards/Domains/Grace/card-grace-9-copycat-330.webp" width="330" height="462" loading="lazy" alt="card-grace-9-copycat.webp" /></figure></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Domains/Grace/card-grace-9-master-of-the-craft-660.webp" src="/rollwithhope/images/Cards/Domains/Grace/card-grace-9-master-of-the-craft-330.webp" width="330" height="462" loading="lazy" alt="card-grace-9-master-of-the-craft.webp" /></figure></td>
 </tr>
 <tr>
 <td><br><strong>🟢 Уровень 10</strong></td>
 <td></td>
 </tr>
 <tr>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-grace-10-encore-vwbkbm-660.webp" src="/rollwithhope/images/cards/card-grace-10-encore-vwbkbm-330.webp" width="330" height="462" loading="lazy" alt="card-grace-10-encore.webp" /></figure></td>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-grace-10-notorious-1x4xjcg-660.webp" src="/rollwithhope/images/cards/card-grace-10-notorious-1x4xjcg-330.webp" width="330" height="462" loading="lazy" alt="card-grace-10-notorious.webp" /></figure></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Domains/Grace/card-grace-10-encore-660.webp" src="/rollwithhope/images/Cards/Domains/Grace/card-grace-10-encore-330.webp" width="330" height="462" loading="lazy" alt="card-grace-10-encore.webp" /></figure></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Domains/Grace/card-grace-10-notorious-660.webp" src="/rollwithhope/images/Cards/Domains/Grace/card-grace-10-notorious-330.webp" width="330" height="462" loading="lazy" alt="card-grace-10-notorious.webp" /></figure></td>
 </tr>
 </tbody>
 </table></div>

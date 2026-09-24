@@ -1,6 +1,5 @@
 <template>
 <div class="prose" data-chapter="1" data-section="rules">
-<p><figure class="illustration" style="--dh-img-width:100%"><img src="/rollwithhope/images/media/commHighborn-zi0q3o.webp" width="1600" height="533" loading="lazy" alt="commHighborn.webp" /></figure></p>
 <h2 id="описание"><span class="marker" data-marker="chapter"></span>Описание<a class="anchor" href="#описание" aria-label="Ссылка на раздел"></a></h2>
 <p>Принадлежность к высшему сообществу — это жизнь в утончённости, роскоши и престиже среди верхних слоёв общества. Обычно его представители располагают огромным материальным богатством. В зависимости от сообщества оно может принимать разные формы: золото и другие ископаемые, земельные владения или контроль над средствами производства. В какой бы форме ни выражалось богатство, такой статус всегда сопряжён с властью и влиянием. В этом сообществе высоко ценят титулы и имущество, а социальная мобильность почти отсутствует. Обладая капиталом и рычагами влияния, члены высшего сообщества нередко контролируют политическое и экономическое положение регионов, где они живут. Здоровье и безопасность менее обеспеченных жителей этих мест часто зависят от того, готов ли этот правящий слой поставить благополучие подданных выше прибыли.</p>
 <p>Представители высшего сообщества часто бывают</p>
@@ -13,7 +12,7 @@
 <li>и невозмутимы.</li>
 </ol>
 <h4 id="свойства-сообщества"><span class="marker" data-marker="minor"></span>Свойства сообщества<a class="anchor" href="#свойства-сообщества" aria-label="Ссылка на раздел"></a></h4>
-<p><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-highborne-1jt6pq2-660.webp" src="/rollwithhope/images/cards/card-highborne-1jt6pq2-330.webp" width="330" height="462" loading="lazy" alt="card-highborne.webp" /></figure></p>
+<p><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Community/card-highborne-660.webp" src="/rollwithhope/images/Cards/Community/card-highborne-330.webp" width="330" height="462" loading="lazy" alt="card-highborne.webp" /></figure></p>
 <h6 id="привилегии-privilege">Привилегии - Privilege<a class="anchor" href="#привилегии-privilege" aria-label="Ссылка на раздел"></a></h6>
 <p>Вы получаете преимущество на броски, связанные с общением с аристократией, торгами или использованием своей репутации для достижения желаемого.</p>
 <hr>

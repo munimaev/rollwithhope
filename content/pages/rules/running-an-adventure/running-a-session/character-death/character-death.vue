@@ -1,6 +1,5 @@
 <template>
 <div class="prose" data-chapter="3" data-section="rules">
-<p><figure class="illustration" style="--dh-img-width:100%"><img src="/rollwithhope/images/media/chraracterDetahMove-9jvwyx.webp" width="1600" height="535" loading="lazy" alt="chraracterDetahMove.webp" /></figure></p>
 <p>Принятие и сопровождение смерти персонажа — одна из самых трудных задач мастера. Daggerheart строится вокруг отношений персонажей, их личных арок и героических приключений, поэтому смерть не должна наступать по случайному поводу.</p>
 <p>Мастер обязан честно показывать мир, а в Daggerheart смерть более окончательна, чем во многих играх жанра. Используйте принципы ниже, чтобы пройти такие моменты справедливо и с эмпатией.</p>
 <blockquote>

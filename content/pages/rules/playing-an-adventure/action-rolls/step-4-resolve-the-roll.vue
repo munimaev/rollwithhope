@@ -1,6 +1,5 @@
 <template>
 <div class="prose" data-chapter="2" data-section="rules">
-<p><figure class="illustration" style="--dh-img-width:100%"><img src="/rollwithhope/images/media/actionRollStep4-dyy9ad.webp" width="1600" height="533" loading="lazy" alt="actionRollStep4.webp" /></figure></p>
 <p>Если итоговый результат броска равен или выше сложности, действие успешно — вы получаете то, что хотите. Если итог ниже сложности, действие провалено — вы не получаете желаемого, но с одним исключением! Как описано ранее в разделе <a class="wikilink" href="/rules/playing-an-adventure/duality-dice">«Кости дуализма»</a>, если на обеих костях дуализма выпало одно и то же число, вы добились критического успеха, даже если итоговая сумма была недостаточна для преодоления сложности.</p>
 <p>Исходя из результата вашего броска, мастер использует следующее руководство, чтобы решить, как будет развиваться повествование:</p>
 <h5 id="при-критическом-успехе"><span class="marker" data-marker="minor"></span>При критическом успехе…<a class="anchor" href="#при-критическом-успехе" aria-label="Ссылка на раздел"></a></h5>

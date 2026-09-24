@@ -1,6 +1,5 @@
 <template>
 <div class="prose" data-chapter="3" data-section="rules">
-<p><figure class="illustration" style="--dh-img-width:100%"><img src="/rollwithhope/images/media/makingGmRolls-77m5gu.webp" width="1600" height="533" loading="lazy" alt="makingGmRolls.webp" /></figure></p>
 <p>Когда противник атакует персонажа игрока, мастер совершает бросок, чтобы определить, что произойдёт. Процедура броска мастера практически не отличается от броска игрока, только вместо двух костей d12 используется одна кость d20:</p>
 <h4 id="шаг-1-узнайте-результат-броска"><span class="marker" data-marker="minor"></span>Шаг 1. Узнайте результат броска<a class="anchor" href="#шаг-1-узнайте-результат-броска" aria-label="Ссылка на раздел"></a></h4>
 <p>Бросьте d20 и прибавьте к результату модификатор атаки противника (и любые другие кости, например ещё одну d20, если совершаете бросок с преимуществом).</p>

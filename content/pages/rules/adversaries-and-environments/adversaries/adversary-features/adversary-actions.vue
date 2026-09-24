@@ -1,6 +1,5 @@
 <template>
 <div class="prose" data-chapter="4" data-section="rules">
-<p><figure class="illustration" style="--dh-img-width:100%"><img src="/rollwithhope/images/media/adversaryActions-1533y36.webp" width="1600" height="533" loading="lazy" alt="adversaryActions.webp" /></figure></p>
 <p>Действия противников можно разделить на три категории.</p>
 <h4 id="стандартные-атаки"><span class="marker" data-marker="chapter"></span>Стандартные атаки<a class="anchor" href="#стандартные-атаки" aria-label="Ссылка на раздел"></a></h4>
 <p>У каждого противника есть стандартная атака. Она состоит из модификатора атаки, названия атаки, дистанции и наносимого урона. Когда вы активируете противника, вы можете совершить стандартную атаку, если цель находится в пределах указанной дистанции или если противник может переместиться на подходящую дистанцию.</p>

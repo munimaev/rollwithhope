@@ -2,7 +2,8 @@ import manifest from "../../content/manifest.json";
 
 export interface ManifestPage {
   id: string;
-  url: string;
+  /** null для виртуальных узлов-папок (isVirtual) — у них нет собственной страницы. */
+  url: string | null;
   sectionId: string;
   title: string;
   layout: string;
@@ -15,6 +16,7 @@ export interface ManifestPage {
   chapter: number;
   banner: string | null;
   backlinks: string[];
+  isVirtual: boolean;
 }
 
 export interface ManifestSection {
@@ -26,7 +28,9 @@ export interface ManifestSection {
 
 const pagesById = new Map(manifest.pages.map((p) => [p.id, p as ManifestPage]));
 const pagesByUrl = new Map(
-  manifest.pages.map((p) => [p.url, p as ManifestPage]),
+  manifest.pages
+    .filter((p) => p.url !== null)
+    .map((p) => [p.url as string, p as ManifestPage]),
 );
 
 function getInferredParentId(page: ManifestPage): string | null {
@@ -88,7 +92,7 @@ export function getBreadcrumbs(page: ManifestPage): ManifestPage[] {
 /** Плоский список страниц раздела в порядке книги — для prev/next. */
 export function getFlatOrder(sectionId: string): ManifestPage[] {
   return (manifest.pages as ManifestPage[])
-    .filter((p) => p.sectionId === sectionId)
+    .filter((p) => p.sectionId === sectionId && !p.isVirtual)
     .sort((a, b) => a.sortKey.localeCompare(b.sortKey));
 }
 

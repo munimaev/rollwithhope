@@ -1,10 +1,9 @@
 <template>
 <div class="prose" data-chapter="1" data-section="rules">
-<p><figure class="illustration" style="--dh-img-width:100%"><img src="/rollwithhope/images/media/ancestryRibbet-4pv8n2.webp" width="1600" height="533" loading="lazy" alt="ancestryRibbet.webp" /></figure></p>
 <h2 id="описание"><span class="marker" data-marker="chapter"></span>Описание<a class="anchor" href="#описание" aria-label="Ссылка на раздел"></a></h2>
 <p>Кваквы — это антропоморфные лягушки с выпуклыми глазами и перепончатыми руками и ногами. Их кожа гладкая (иногда бородавчатая), влажная, а глаза расположены по бокам головы. У некоторых квакв задние лапы в два раза длиннее туловища, у других — короче. Независимо от строения, основное средство передвижения кваквы — прыжки. Их рост варьируется от 3 до 4 футов. Все Кваквы естественным камуфляжем в зелёно-коричневых тонах, а другие покрыты яркими узорами и расцветками. Независимо от внешности, все Кваквы вылупляются из яиц, отложенных в воде, проходят стадию головастика, и примерно через 6–7 лет становятся амфибиями, способными передвигаться по суше. Средняя продолжительность жизни кваквы — около 100 лет.</p>
 <h4 id="свойства-происхождения"><span class="marker" data-marker="minor"></span>Свойства происхождения<a class="anchor" href="#свойства-происхождения" aria-label="Ссылка на раздел"></a></h4>
-<p><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-ribbet-81crpu-660.webp" src="/rollwithhope/images/cards/card-ribbet-81crpu-330.webp" width="330" height="462" loading="lazy" alt="card-ribbet.webp" /></figure></p>
+<p><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Ancestry/card-ribbet-660.webp" src="/rollwithhope/images/Cards/Ancestry/card-ribbet-330.webp" width="330" height="462" loading="lazy" alt="card-ribbet.webp" /></figure></p>
 <h6 id="амфибия-amphibious">Амфибия - Amphibious<a class="anchor" href="#амфибия-amphibious" aria-label="Ссылка на раздел"></a></h6>
 <p>Вы можете дышать и свободно передвигаться под водой.</p>
 <h6 id="длинный-язык-long-tongue">Длинный язык - Long Tongue<a class="anchor" href="#длинный-язык-long-tongue" aria-label="Ссылка на раздел"></a></h6>

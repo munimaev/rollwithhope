@@ -1,6 +1,5 @@
 <template>
 <div class="prose" data-chapter="1" data-section="rules">
-<p><figure class="illustration" style="--dh-img-width:100%"><img src="/rollwithhope/images/media/bnrDomainArcana-aem0dj.webp" width="1600" height="533" loading="lazy" alt="bnrDomainArcana.webp" /></figure></p>
 <h4 id="карты-домена-по-уровню"><span class="marker" data-marker="chapter"></span>Карты домена по уровню<a class="anchor" href="#карты-домена-по-уровню" aria-label="Ссылка на раздел"></a></h4>
 <div class="table-wrap"><table>
 <thead>
@@ -11,11 +10,11 @@
 </thead>
 <tbody>
 <tr>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-arcana-1-unleash-chaos-1qt6271-660.webp" src="/rollwithhope/images/cards/card-arcana-1-unleash-chaos-1qt6271-330.webp" width="330" height="462" loading="lazy" alt="card-arcana-1-unleash-chaos.webp" /></figure></td>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-arcana-1-rune-ward-i2ffwl-660.webp" src="/rollwithhope/images/cards/card-arcana-1-rune-ward-i2ffwl-330.webp" width="330" height="462" loading="lazy" alt="card-arcana-1-rune-ward.webp" /></figure></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Domains/Arcana/card-arcana-1-unleash-chaos-660.webp" src="/rollwithhope/images/Cards/Domains/Arcana/card-arcana-1-unleash-chaos-330.webp" width="330" height="462" loading="lazy" alt="card-arcana-1-unleash-chaos.webp" /></figure></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Domains/Arcana/card-arcana-1-rune-ward-660.webp" src="/rollwithhope/images/Cards/Domains/Arcana/card-arcana-1-rune-ward-330.webp" width="330" height="462" loading="lazy" alt="card-arcana-1-rune-ward.webp" /></figure></td>
 </tr>
 <tr>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-arcana-1-wall-walk-1odt488-660.webp" src="/rollwithhope/images/cards/card-arcana-1-wall-walk-1odt488-330.webp" width="330" height="462" loading="lazy" alt="card-arcana-1-wall-walk.webp" /></figure></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Domains/Arcana/card-arcana-1-wall-walk-660.webp" src="/rollwithhope/images/Cards/Domains/Arcana/card-arcana-1-wall-walk-330.webp" width="330" height="462" loading="lazy" alt="card-arcana-1-wall-walk.webp" /></figure></td>
 <td></td>
 </tr>
 <tr>
@@ -23,72 +22,72 @@
 <td></td>
 </tr>
 <tr>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-arcana-2-cinder-grasp-16tgto2-660.webp" src="/rollwithhope/images/cards/card-arcana-2-cinder-grasp-16tgto2-330.webp" width="330" height="462" loading="lazy" alt="card-arcana-2-cinder-grasp.webp" /></figure></td>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-arcana-2-floating-eye-gi3olz-660.webp" src="/rollwithhope/images/cards/card-arcana-2-floating-eye-gi3olz-330.webp" width="330" height="462" loading="lazy" alt="card-arcana-2-floating-eye.webp" /></figure></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Domains/Arcana/card-arcana-2-cinder-grasp-660.webp" src="/rollwithhope/images/Cards/Domains/Arcana/card-arcana-2-cinder-grasp-330.webp" width="330" height="462" loading="lazy" alt="card-arcana-2-cinder-grasp.webp" /></figure></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Domains/Arcana/card-arcana-2-floating-eye-660.webp" src="/rollwithhope/images/Cards/Domains/Arcana/card-arcana-2-floating-eye-330.webp" width="330" height="462" loading="lazy" alt="card-arcana-2-floating-eye.webp" /></figure></td>
 </tr>
 <tr>
 <td><br><strong>🟢 Уровень 3</strong></td>
 <td></td>
 </tr>
 <tr>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-arcana-3-counterspell-9cbw5y-660.webp" src="/rollwithhope/images/cards/card-arcana-3-counterspell-9cbw5y-330.webp" width="330" height="462" loading="lazy" alt="card-arcana-3-counterspell.webp" /></figure></td>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-arcana-3-flight-143nosy-660.webp" src="/rollwithhope/images/cards/card-arcana-3-flight-143nosy-330.webp" width="330" height="462" loading="lazy" alt="card-arcana-3-flight.webp" /></figure></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Domains/Arcana/card-arcana-3-counterspell-660.webp" src="/rollwithhope/images/Cards/Domains/Arcana/card-arcana-3-counterspell-330.webp" width="330" height="462" loading="lazy" alt="card-arcana-3-counterspell.webp" /></figure></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Domains/Arcana/card-arcana-3-flight-660.webp" src="/rollwithhope/images/Cards/Domains/Arcana/card-arcana-3-flight-330.webp" width="330" height="462" loading="lazy" alt="card-arcana-3-flight.webp" /></figure></td>
 </tr>
 <tr>
 <td><br><strong>🟢 Уровень 4</strong></td>
 <td></td>
 </tr>
 <tr>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-arcana-4-preservation-blast-53eyn0-660.webp" src="/rollwithhope/images/cards/card-arcana-4-preservation-blast-53eyn0-330.webp" width="330" height="462" loading="lazy" alt="card-arcana-4-preservation-blast.webp" /></figure></td>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-arcana-4-blink-out-dnxg1g-660.webp" src="/rollwithhope/images/cards/card-arcana-4-blink-out-dnxg1g-330.webp" width="330" height="462" loading="lazy" alt="card-arcana-4-blink-out.webp" /></figure></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Domains/Arcana/card-arcana-4-preservation-blast-660.webp" src="/rollwithhope/images/Cards/Domains/Arcana/card-arcana-4-preservation-blast-330.webp" width="330" height="462" loading="lazy" alt="card-arcana-4-preservation-blast.webp" /></figure></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Domains/Arcana/card-arcana-4-blink-out-660.webp" src="/rollwithhope/images/Cards/Domains/Arcana/card-arcana-4-blink-out-330.webp" width="330" height="462" loading="lazy" alt="card-arcana-4-blink-out.webp" /></figure></td>
 </tr>
 <tr>
 <td><br><strong>🟢 Уровень 5</strong></td>
 <td></td>
 </tr>
 <tr>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-arcana-5-chain-lightning-18brw9e-660.webp" src="/rollwithhope/images/cards/card-arcana-5-chain-lightning-18brw9e-330.webp" width="330" height="462" loading="lazy" alt="card-arcana-5-chain-lightning.webp" /></figure></td>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-arcana-5-premonition-9x7kak-660.webp" src="/rollwithhope/images/cards/card-arcana-5-premonition-9x7kak-330.webp" width="330" height="462" loading="lazy" alt="card-arcana-5-premonition.webp" /></figure></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Domains/Arcana/card-arcana-5-chain-lightning-660.webp" src="/rollwithhope/images/Cards/Domains/Arcana/card-arcana-5-chain-lightning-330.webp" width="330" height="462" loading="lazy" alt="card-arcana-5-chain-lightning.webp" /></figure></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Domains/Arcana/card-arcana-5-premonition-660.webp" src="/rollwithhope/images/Cards/Domains/Arcana/card-arcana-5-premonition-330.webp" width="330" height="462" loading="lazy" alt="card-arcana-5-premonition.webp" /></figure></td>
 </tr>
 <tr>
 <td><br><strong>🟢 Уровень 6</strong></td>
 <td></td>
 </tr>
 <tr>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-arcana-6-rift-walker-1bm4181-660.webp" src="/rollwithhope/images/cards/card-arcana-6-rift-walker-1bm4181-330.webp" width="330" height="462" loading="lazy" alt="card-arcana-6-rift-walker.webp" /></figure></td>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-arcana-6-telekinesis-ze31kh-660.webp" src="/rollwithhope/images/cards/card-arcana-6-telekinesis-ze31kh-330.webp" width="330" height="462" loading="lazy" alt="card-arcana-6-telekinesis.webp" /></figure></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Domains/Arcana/card-arcana-6-rift-walker-660.webp" src="/rollwithhope/images/Cards/Domains/Arcana/card-arcana-6-rift-walker-330.webp" width="330" height="462" loading="lazy" alt="card-arcana-6-rift-walker.webp" /></figure></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Domains/Arcana/card-arcana-6-telekinesis-660.webp" src="/rollwithhope/images/Cards/Domains/Arcana/card-arcana-6-telekinesis-330.webp" width="330" height="462" loading="lazy" alt="card-arcana-6-telekinesis.webp" /></figure></td>
 </tr>
 <tr>
 <td><br><strong>🟢 Уровень 7</strong></td>
 <td></td>
 </tr>
 <tr>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-arcana-7-cloaking-blast-be7mnd-660.webp" src="/rollwithhope/images/cards/card-arcana-7-cloaking-blast-be7mnd-330.webp" width="330" height="462" loading="lazy" alt="card-arcana-7-cloaking-blast.webp" /></figure></td>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-arcana-7-arcana-touched-oxjnyr-660.webp" src="/rollwithhope/images/cards/card-arcana-7-arcana-touched-oxjnyr-330.webp" width="330" height="462" loading="lazy" alt="card-arcana-7-arcana-touched.webp" /></figure></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Domains/Arcana/card-arcana-7-cloaking-blast-660.webp" src="/rollwithhope/images/Cards/Domains/Arcana/card-arcana-7-cloaking-blast-330.webp" width="330" height="462" loading="lazy" alt="card-arcana-7-cloaking-blast.webp" /></figure></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Domains/Arcana/card-arcana-7-arcana-touched-660.webp" src="/rollwithhope/images/Cards/Domains/Arcana/card-arcana-7-arcana-touched-330.webp" width="330" height="462" loading="lazy" alt="card-arcana-7-arcana-touched.webp" /></figure></td>
 </tr>
 <tr>
 <td><br><strong>🟢 Уровень 8</strong></td>
 <td></td>
 </tr>
 <tr>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-arcana-8-arcane-reflection-16u6tzv-660.webp" src="/rollwithhope/images/cards/card-arcana-8-arcane-reflection-16u6tzv-330.webp" width="330" height="462" loading="lazy" alt="card-arcana-8-arcane-reflection.webp" /></figure></td>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-arcana-8-confusing-aura-465jpz-660.webp" src="/rollwithhope/images/cards/card-arcana-8-confusing-aura-465jpz-330.webp" width="330" height="462" loading="lazy" alt="card-arcana-8-confusing-aura.webp" /></figure></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Domains/Arcana/card-arcana-8-arcane-reflection-660.webp" src="/rollwithhope/images/Cards/Domains/Arcana/card-arcana-8-arcane-reflection-330.webp" width="330" height="462" loading="lazy" alt="card-arcana-8-arcane-reflection.webp" /></figure></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Domains/Arcana/card-arcana-8-confusing-aura-660.webp" src="/rollwithhope/images/Cards/Domains/Arcana/card-arcana-8-confusing-aura-330.webp" width="330" height="462" loading="lazy" alt="card-arcana-8-confusing-aura.webp" /></figure></td>
 </tr>
 <tr>
 <td><br><strong>🟢 Уровень 9</strong></td>
 <td></td>
 </tr>
 <tr>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-arcana-9-earthquake-vr5hqz-660.webp" src="/rollwithhope/images/cards/card-arcana-9-earthquake-vr5hqz-330.webp" width="330" height="462" loading="lazy" alt="card-arcana-9-earthquake.webp" /></figure></td>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-arcana-9-sensory-projection-honmkr-660.webp" src="/rollwithhope/images/cards/card-arcana-9-sensory-projection-honmkr-330.webp" width="330" height="462" loading="lazy" alt="card-arcana-9-sensory-projection.webp" /></figure></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Domains/Arcana/card-arcana-9-earthquake-660.webp" src="/rollwithhope/images/Cards/Domains/Arcana/card-arcana-9-earthquake-330.webp" width="330" height="462" loading="lazy" alt="card-arcana-9-earthquake.webp" /></figure></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Domains/Arcana/card-arcana-9-sensory-projection-660.webp" src="/rollwithhope/images/Cards/Domains/Arcana/card-arcana-9-sensory-projection-330.webp" width="330" height="462" loading="lazy" alt="card-arcana-9-sensory-projection.webp" /></figure></td>
 </tr>
 <tr>
 <td><br><strong>🟢 Уровень 10</strong></td>
 <td></td>
 </tr>
 <tr>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-arcana-10-adjust-reality-pc7do8-660.webp" src="/rollwithhope/images/cards/card-arcana-10-adjust-reality-pc7do8-330.webp" width="330" height="462" loading="lazy" alt="card-arcana-10-adjust-reality.webp" /></figure></td>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-arcana-10-falling-sky-1gvje8f-660.webp" src="/rollwithhope/images/cards/card-arcana-10-falling-sky-1gvje8f-330.webp" width="330" height="462" loading="lazy" alt="card-arcana-10-falling-sky.webp" /></figure></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Domains/Arcana/card-arcana-10-adjust-reality-660.webp" src="/rollwithhope/images/Cards/Domains/Arcana/card-arcana-10-adjust-reality-330.webp" width="330" height="462" loading="lazy" alt="card-arcana-10-adjust-reality.webp" /></figure></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Domains/Arcana/card-arcana-10-falling-sky-660.webp" src="/rollwithhope/images/Cards/Domains/Arcana/card-arcana-10-falling-sky-330.webp" width="330" height="462" loading="lazy" alt="card-arcana-10-falling-sky.webp" /></figure></td>
 </tr>
 </tbody>
 </table></div>

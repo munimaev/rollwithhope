@@ -1,6 +1,5 @@
 <template>
 <div class="prose" data-chapter="1" data-section="rules">
-<p><figure class="illustration" style="--dh-img-width:100%"><img src="/rollwithhope/images/media/bnrDomainBone-rmmcbp.webp" width="1600" height="533" loading="lazy" alt="bnrDomainBone.webp" /></figure></p>
 <h4 id="карты-домена-по-уровню"><span class="marker" data-marker="chapter"></span>Карты домена по уровню<a class="anchor" href="#карты-домена-по-уровню" aria-label="Ссылка на раздел"></a></h4>
 <div class="table-wrap"><table>
 <thead>
@@ -11,11 +10,11 @@
 </thead>
 <tbody>
 <tr>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-bone-1-deft-maneuvers-k2vnig-660.webp" src="/rollwithhope/images/cards/card-bone-1-deft-maneuvers-k2vnig-330.webp" width="330" height="462" loading="lazy" alt="card-bone-1-deft-maneuvers.webp" /></figure></td>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-bone-1-untouchable-123w4ts-660.webp" src="/rollwithhope/images/cards/card-bone-1-untouchable-123w4ts-330.webp" width="330" height="462" loading="lazy" alt="card-bone-1-untouchable.webp" /></figure></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Domains/Bone/card-bone-1-deft-maneuvers-660.webp" src="/rollwithhope/images/Cards/Domains/Bone/card-bone-1-deft-maneuvers-330.webp" width="330" height="462" loading="lazy" alt="card-bone-1-deft-maneuvers.webp" /></figure></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Domains/Bone/card-bone-1-untouchable-660.webp" src="/rollwithhope/images/Cards/Domains/Bone/card-bone-1-untouchable-330.webp" width="330" height="462" loading="lazy" alt="card-bone-1-untouchable.webp" /></figure></td>
 </tr>
 <tr>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-bone-1-i-see-it-coming-13xircb-660.webp" src="/rollwithhope/images/cards/card-bone-1-i-see-it-coming-13xircb-330.webp" width="330" height="462" loading="lazy" alt="card-bone-1-i-see-it-coming.webp" /></figure></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Domains/Bone/card-bone-1-i-see-it-coming-660.webp" src="/rollwithhope/images/Cards/Domains/Bone/card-bone-1-i-see-it-coming-330.webp" width="330" height="462" loading="lazy" alt="card-bone-1-i-see-it-coming.webp" /></figure></td>
 <td></td>
 </tr>
 <tr>
@@ -23,72 +22,72 @@
 <td></td>
 </tr>
 <tr>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-bone-2-strategic-approach-1ejyank-660.webp" src="/rollwithhope/images/cards/card-bone-2-strategic-approach-1ejyank-330.webp" width="330" height="462" loading="lazy" alt="card-bone-2-strategic-approach.webp" /></figure></td>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-bone-2-ferocity-kg9gse-660.webp" src="/rollwithhope/images/cards/card-bone-2-ferocity-kg9gse-330.webp" width="330" height="462" loading="lazy" alt="card-bone-2-ferocity.webp" /></figure></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Domains/Bone/card-bone-2-strategic-approach-660.webp" src="/rollwithhope/images/Cards/Domains/Bone/card-bone-2-strategic-approach-330.webp" width="330" height="462" loading="lazy" alt="card-bone-2-strategic-approach.webp" /></figure></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Domains/Bone/card-bone-2-ferocity-660.webp" src="/rollwithhope/images/Cards/Domains/Bone/card-bone-2-ferocity-330.webp" width="330" height="462" loading="lazy" alt="card-bone-2-ferocity.webp" /></figure></td>
 </tr>
 <tr>
 <td><br><strong>🟢 Уровень 3</strong></td>
 <td></td>
 </tr>
 <tr>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-bone-3-brace-rzrfnf-660.webp" src="/rollwithhope/images/cards/card-bone-3-brace-rzrfnf-330.webp" width="330" height="462" loading="lazy" alt="card-bone-3-brace.webp" /></figure></td>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-bone-3-tactician-93h628-660.webp" src="/rollwithhope/images/cards/card-bone-3-tactician-93h628-330.webp" width="330" height="462" loading="lazy" alt="card-bone-3-tactician.webp" /></figure></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Domains/Bone/card-bone-3-brace-660.webp" src="/rollwithhope/images/Cards/Domains/Bone/card-bone-3-brace-330.webp" width="330" height="462" loading="lazy" alt="card-bone-3-brace.webp" /></figure></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Domains/Bone/card-bone-3-tactician-660.webp" src="/rollwithhope/images/Cards/Domains/Bone/card-bone-3-tactician-330.webp" width="330" height="462" loading="lazy" alt="card-bone-3-tactician.webp" /></figure></td>
 </tr>
 <tr>
 <td><br><strong>🟢 Уровень 4</strong></td>
 <td></td>
 </tr>
 <tr>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-bone-4-boost-1iyl5gq-660.webp" src="/rollwithhope/images/cards/card-bone-4-boost-1iyl5gq-330.webp" width="330" height="462" loading="lazy" alt="card-bone-4-boost.webp" /></figure></td>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-bone-4-redirect-1m9phgr-660.webp" src="/rollwithhope/images/cards/card-bone-4-redirect-1m9phgr-330.webp" width="330" height="462" loading="lazy" alt="card-bone-4-redirect.webp" /></figure></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Domains/Bone/card-bone-4-boost-660.webp" src="/rollwithhope/images/Cards/Domains/Bone/card-bone-4-boost-330.webp" width="330" height="462" loading="lazy" alt="card-bone-4-boost.webp" /></figure></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Domains/Bone/card-bone-4-redirect-660.webp" src="/rollwithhope/images/Cards/Domains/Bone/card-bone-4-redirect-330.webp" width="330" height="462" loading="lazy" alt="card-bone-4-redirect.webp" /></figure></td>
 </tr>
 <tr>
 <td><br><strong>🟢 Уровень 5</strong></td>
 <td></td>
 </tr>
 <tr>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-bone-5-know-thy-enemy-40s2dm-660.webp" src="/rollwithhope/images/cards/card-bone-5-know-thy-enemy-40s2dm-330.webp" width="330" height="462" loading="lazy" alt="card-bone-5-know-thy-enemy.webp" /></figure></td>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-bone-5-signature-move-1cnkb0i-660.webp" src="/rollwithhope/images/cards/card-bone-5-signature-move-1cnkb0i-330.webp" width="330" height="462" loading="lazy" alt="card-bone-5-signature-move.webp" /></figure></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Domains/Bone/card-bone-5-know-thy-enemy-660.webp" src="/rollwithhope/images/Cards/Domains/Bone/card-bone-5-know-thy-enemy-330.webp" width="330" height="462" loading="lazy" alt="card-bone-5-know-thy-enemy.webp" /></figure></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Domains/Bone/card-bone-5-signature-move-660.webp" src="/rollwithhope/images/Cards/Domains/Bone/card-bone-5-signature-move-330.webp" width="330" height="462" loading="lazy" alt="card-bone-5-signature-move.webp" /></figure></td>
 </tr>
 <tr>
 <td><br><strong>🟢 Уровень 6</strong></td>
 <td></td>
 </tr>
 <tr>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-bone-6-rapid-riposte-1mm429a-660.webp" src="/rollwithhope/images/cards/card-bone-6-rapid-riposte-1mm429a-330.webp" width="330" height="462" loading="lazy" alt="card-bone-6-rapid-riposte.webp" /></figure></td>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-bone-6-recovery-882uc4-660.webp" src="/rollwithhope/images/cards/card-bone-6-recovery-882uc4-330.webp" width="330" height="462" loading="lazy" alt="card-bone-6-recovery.webp" /></figure></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Domains/Bone/card-bone-6-rapid-riposte-660.webp" src="/rollwithhope/images/Cards/Domains/Bone/card-bone-6-rapid-riposte-330.webp" width="330" height="462" loading="lazy" alt="card-bone-6-rapid-riposte.webp" /></figure></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Domains/Bone/card-bone-6-recovery-660.webp" src="/rollwithhope/images/Cards/Domains/Bone/card-bone-6-recovery-330.webp" width="330" height="462" loading="lazy" alt="card-bone-6-recovery.webp" /></figure></td>
 </tr>
 <tr>
 <td><br><strong>🟢 Уровень 7</strong></td>
 <td></td>
 </tr>
 <tr>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-bone-7-bone-touched-ljs6ad-660.webp" src="/rollwithhope/images/cards/card-bone-7-bone-touched-ljs6ad-330.webp" width="330" height="462" loading="lazy" alt="card-bone-7-bone-touched.webp" /></figure></td>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-bone-7-cruel-precision-ty4s7g-660.webp" src="/rollwithhope/images/cards/card-bone-7-cruel-precision-ty4s7g-330.webp" width="330" height="462" loading="lazy" alt="card-bone-7-cruel-precision.webp" /></figure></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Domains/Bone/card-bone-7-bone-touched-660.webp" src="/rollwithhope/images/Cards/Domains/Bone/card-bone-7-bone-touched-330.webp" width="330" height="462" loading="lazy" alt="card-bone-7-bone-touched.webp" /></figure></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Domains/Bone/card-bone-7-cruel-precision-660.webp" src="/rollwithhope/images/Cards/Domains/Bone/card-bone-7-cruel-precision-330.webp" width="330" height="462" loading="lazy" alt="card-bone-7-cruel-precision.webp" /></figure></td>
 </tr>
 <tr>
 <td><br><strong>🟢 Уровень 8</strong></td>
 <td></td>
 </tr>
 <tr>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-bone-8-breaking-blow-1jj1431-660.webp" src="/rollwithhope/images/cards/card-bone-8-breaking-blow-1jj1431-330.webp" width="330" height="462" loading="lazy" alt="card-bone-8-breaking-blow.webp" /></figure></td>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-bone-8-wrangle-197mcnl-660.webp" src="/rollwithhope/images/cards/card-bone-8-wrangle-197mcnl-330.webp" width="330" height="462" loading="lazy" alt="card-bone-8-wrangle.webp" /></figure></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Domains/Bone/card-bone-8-breaking-blow-660.webp" src="/rollwithhope/images/Cards/Domains/Bone/card-bone-8-breaking-blow-330.webp" width="330" height="462" loading="lazy" alt="card-bone-8-breaking-blow.webp" /></figure></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Domains/Bone/card-bone-8-wrangle-660.webp" src="/rollwithhope/images/Cards/Domains/Bone/card-bone-8-wrangle-330.webp" width="330" height="462" loading="lazy" alt="card-bone-8-wrangle.webp" /></figure></td>
 </tr>
 <tr>
 <td><br><strong>🟢 Уровень 9</strong></td>
 <td></td>
 </tr>
 <tr>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-bone-9-on-the-brink-12qulmo-660.webp" src="/rollwithhope/images/cards/card-bone-9-on-the-brink-12qulmo-330.webp" width="330" height="462" loading="lazy" alt="card-bone-9-on-the-brink.webp" /></figure></td>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-bone-9-splintering-strike-x59kua-660.webp" src="/rollwithhope/images/cards/card-bone-9-splintering-strike-x59kua-330.webp" width="330" height="462" loading="lazy" alt="card-bone-9-splintering-strike.webp" /></figure></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Domains/Bone/card-bone-9-on-the-brink-660.webp" src="/rollwithhope/images/Cards/Domains/Bone/card-bone-9-on-the-brink-330.webp" width="330" height="462" loading="lazy" alt="card-bone-9-on-the-brink.webp" /></figure></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Domains/Bone/card-bone-9-splintering-strike-660.webp" src="/rollwithhope/images/Cards/Domains/Bone/card-bone-9-splintering-strike-330.webp" width="330" height="462" loading="lazy" alt="card-bone-9-splintering-strike.webp" /></figure></td>
 </tr>
 <tr>
 <td><br><strong>🟢 Уровень 10</strong></td>
 <td></td>
 </tr>
 <tr>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-bone-10-deathrun-1hub7rj-660.webp" src="/rollwithhope/images/cards/card-bone-10-deathrun-1hub7rj-330.webp" width="330" height="462" loading="lazy" alt="card-bone-10-deathrun.webp" /></figure></td>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-bone-10-swift-step-ofyh1c-660.webp" src="/rollwithhope/images/cards/card-bone-10-swift-step-ofyh1c-330.webp" width="330" height="462" loading="lazy" alt="card-bone-10-swift-step.webp" /></figure></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Domains/Bone/card-bone-10-deathrun-660.webp" src="/rollwithhope/images/Cards/Domains/Bone/card-bone-10-deathrun-330.webp" width="330" height="462" loading="lazy" alt="card-bone-10-deathrun.webp" /></figure></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Domains/Bone/card-bone-10-swift-step-660.webp" src="/rollwithhope/images/Cards/Domains/Bone/card-bone-10-swift-step-330.webp" width="330" height="462" loading="lazy" alt="card-bone-10-swift-step.webp" /></figure></td>
 </tr>
 </tbody>
 </table></div>

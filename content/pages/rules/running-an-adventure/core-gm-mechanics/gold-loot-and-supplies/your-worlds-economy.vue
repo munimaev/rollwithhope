@@ -1,6 +1,5 @@
 <template>
 <div class="prose" data-chapter="3" data-section="rules">
-<p><figure class="illustration" style="--dh-img-width:100%"><img src="/rollwithhope/images/media/economyOfYourWorlds-fj3h6y.webp" width="1600" height="533" loading="lazy" alt="economyOfYourWorlds.webp" /></figure></p>
 <p>В следующей таблице приведены примеры средней стоимости базовых товаров и услуг. Однако экономика вашего мира должна отражать то, насколько золото важно в вашей кампании, так что смело корректируйте эти цены при необходимости.</p>
 <h2 id="средняя-стоимость"><span class="marker" data-marker="chapter"></span>Средняя стоимость<a class="anchor" href="#средняя-стоимость" aria-label="Ссылка на раздел"></a></h2>
 <div class="table-wrap"><table>

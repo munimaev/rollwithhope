@@ -22,7 +22,7 @@ const containsCurrent = computed(() => route.path === props.page.url || route.pa
         <SidebarTreeNode v-for="child in children" :key="child.id" :page="child" :section-id="sectionId" />
       </ul>
     </details>
-    <a v-else :href="page.url" :aria-current="isCurrent ? 'page' : undefined">
+    <a v-else :href="page.url ?? undefined" :aria-current="isCurrent ? 'page' : undefined">
       <span class="marker" data-marker="minor" v-if="page.chapter" />
       <span>{{ page.title }}</span>
     </a>

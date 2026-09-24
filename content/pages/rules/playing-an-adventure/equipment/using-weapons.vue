@@ -1,6 +1,5 @@
 <template>
 <div class="prose" data-chapter="2" data-section="rules">
-<p><figure class="illustration" style="--dh-img-width:100%"><img src="/rollwithhope/images/media/equipment-1u5jqlo.webp" width="1600" height="533" loading="lazy" alt="equipment.webp" /></figure></p>
 <p>В следующих разделах описываются типы оружия, встречающиеся в Daggerheart, а затем разбираются их параметры. Когда будете готовы ознакомиться с вариантами оружия, перейдите к разделам «Таблицы основного оружия» и «Таблицы дополнительного оружия», где перечислено доступное оружие для разных тиров.</p>
 <h5 id="основное-и-дополнительное-оружие"><span class="marker" data-marker="minor"></span>Основное и дополнительное оружие<a class="anchor" href="#основное-и-дополнительное-оружие" aria-label="Ссылка на раздел"></a></h5>
 <p>Оружие делится на две основные категории: основное и дополнительное.</p>

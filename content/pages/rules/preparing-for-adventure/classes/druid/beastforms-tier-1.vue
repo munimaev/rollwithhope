@@ -3,18 +3,18 @@
 <div class="table-wrap"><table>
 <thead>
 <tr>
-<th><figure><img data-lightbox data-full="/rollwithhope/images/cards/beastform-1-agile-scout-1k5rjcs-660.webp" src="/rollwithhope/images/cards/beastform-1-agile-scout-1k5rjcs-330.webp" width="330" height="462" loading="lazy" alt="beastform-1-agile-scout.webp" /></figure></th>
-<th><figure><img data-lightbox data-full="/rollwithhope/images/cards/beastform-1-household-friend-1vht9zz-660.webp" src="/rollwithhope/images/cards/beastform-1-household-friend-1vht9zz-330.webp" width="330" height="462" loading="lazy" alt="beastform-1-household-friend.webp" /></figure></th>
+<th><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Beastform/beastform-1-agile-scout-660.webp" src="/rollwithhope/images/Cards/Beastform/beastform-1-agile-scout-330.webp" width="330" height="462" loading="lazy" alt="beastform-1-agile-scout.webp" /></figure></th>
+<th><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Beastform/beastform-1-household-friend-660.webp" src="/rollwithhope/images/Cards/Beastform/beastform-1-household-friend-330.webp" width="330" height="462" loading="lazy" alt="beastform-1-household-friend.webp" /></figure></th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/beastform-1-nimble-grazer-30tyz8-660.webp" src="/rollwithhope/images/cards/beastform-1-nimble-grazer-30tyz8-330.webp" width="330" height="462" loading="lazy" alt="beastform-1-nimble-grazer.webp" /></figure></td>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/beastform-1-pack-predator-hx4ta6-660.webp" src="/rollwithhope/images/cards/beastform-1-pack-predator-hx4ta6-330.webp" width="330" height="462" loading="lazy" alt="beastform-1-pack-predator.webp" /></figure></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Beastform/beastform-1-nimble-grazer-660.webp" src="/rollwithhope/images/Cards/Beastform/beastform-1-nimble-grazer-330.webp" width="330" height="462" loading="lazy" alt="beastform-1-nimble-grazer.webp" /></figure></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Beastform/beastform-1-pack-predator-660.webp" src="/rollwithhope/images/Cards/Beastform/beastform-1-pack-predator-330.webp" width="330" height="462" loading="lazy" alt="beastform-1-pack-predator.webp" /></figure></td>
 </tr>
 <tr>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/beastform-1-aquatic-scout-1ti5dwm-660.webp" src="/rollwithhope/images/cards/beastform-1-aquatic-scout-1ti5dwm-330.webp" width="330" height="462" loading="lazy" alt="beastform-1-aquatic-scout.webp" /></figure></td>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/beastform-1-stalking-arachnid-1n7vkkr-660.webp" src="/rollwithhope/images/cards/beastform-1-stalking-arachnid-1n7vkkr-330.webp" width="330" height="462" loading="lazy" alt="beastform-1-stalking-arachnid.webp" /></figure></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Beastform/beastform-1-aquatic-scout-660.webp" src="/rollwithhope/images/Cards/Beastform/beastform-1-aquatic-scout-330.webp" width="330" height="462" loading="lazy" alt="beastform-1-aquatic-scout.webp" /></figure></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Beastform/beastform-1-stalking-arachnid-660.webp" src="/rollwithhope/images/Cards/Beastform/beastform-1-stalking-arachnid-330.webp" width="330" height="462" loading="lazy" alt="beastform-1-stalking-arachnid.webp" /></figure></td>
 </tr>
 </tbody>
 </table></div>

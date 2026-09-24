@@ -1,6 +1,5 @@
 <template>
 <div class="prose" data-chapter="4" data-section="rules">
-<p><figure class="illustration" style="--dh-img-width:100%"><img src="/rollwithhope/images/media/horde-75lbi.webp" width="1600" height="533" loading="lazy" alt="horde.webp" /></figure></p>
 <p>Будь то стая крыс под таверной или стая волков, рыщущих по лесу, Орда представляет собой огромную группу врагов в удобном для мастера виде.</p>
 <h4 id="механики"><span class="marker" data-marker="chapter"></span>Механики<a class="anchor" href="#механики" aria-label="Ссылка на раздел"></a></h4>
 <p>Орды — это группы слабых врагов. В начале они наносят большой урон, но он уменьшается после того, как они получат половину от максимума Ран (с округлением вверх). У многих из них есть интересные пассивные способности или реакции, которые нарративно отражают их роль. У каждой Орды есть пассивное свойство «Орда»:</p>

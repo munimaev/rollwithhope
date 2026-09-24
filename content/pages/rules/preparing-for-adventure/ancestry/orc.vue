@@ -1,10 +1,9 @@
 <template>
 <div class="prose" data-chapter="1" data-section="rules">
-<p><figure class="illustration" style="--dh-img-width:100%"><img src="/rollwithhope/images/media/ancestryOrc-lw1x8w.webp" width="1600" height="533" loading="lazy" alt="ancestryOrc.webp" /></figure></p>
 <h2 id="описание"><span class="marker" data-marker="chapter"></span>Описание<a class="anchor" href="#описание" aria-label="Ссылка на раздел"></a></h2>
 <p>Орки — это гуманоиды с грубыми чертами лица и торчащими из нижней челюсти кабаньими клыками. Размер клыков может варьироваться, и, хотя они выходят за пределы рта, они не используются для приёма пищи. Вместо этого многие орки украшают свои клыки резьбой. Средняя продолжительность жизни орков составляет около 125 лет, и если клыки не подпиливать или не удалять, они продолжают расти всю жизнь. Уши орков заострённые, а цвет кожи и волос может варьироваться от зелёного и синего до розового и серого. Орки, как правило, обладают мускулистым телосложением, а их рост составляет от 5 до 6.5 футов.</p>
 <h4 id="свойства-происхождения"><span class="marker" data-marker="minor"></span>Свойства происхождения<a class="anchor" href="#свойства-происхождения" aria-label="Ссылка на раздел"></a></h4>
-<p><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-orc-15was70-660.webp" src="/rollwithhope/images/cards/card-orc-15was70-330.webp" width="330" height="462" loading="lazy" alt="card-orc.webp" /></figure></p>
+<p><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Ancestry/card-orc-660.webp" src="/rollwithhope/images/Cards/Ancestry/card-orc-330.webp" width="330" height="462" loading="lazy" alt="card-orc.webp" /></figure></p>
 <h6 id="крепкий-sturdy">Крепкий - Sturdy<a class="anchor" href="#крепкий-sturdy" aria-label="Ссылка на раздел"></a></h6>
 <p>Пока от смерти вас отделяет только 1 Рана, атаки против вас совершаются с помехой.</p>
 <h6 id="бивни-tusks">Бивни - Tusks<a class="anchor" href="#бивни-tusks" aria-label="Ссылка на раздел"></a></h6>

@@ -1,6 +1,5 @@
 <template>
 <div class="prose" data-chapter="2" data-section="rules">
-<p><figure class="illustration" style="--dh-img-width:100%"><img src="/rollwithhope/images/media/armorTier4-1auql5z.webp" width="1600" height="533" loading="lazy" alt="armorTier4.webp" /></figure></p>
 <div class="table-wrap"><table>
 <thead>
 <tr>

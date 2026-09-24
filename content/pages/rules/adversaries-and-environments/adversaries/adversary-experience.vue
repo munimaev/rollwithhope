@@ -1,6 +1,5 @@
 <template>
 <div class="prose" data-chapter="4" data-section="rules">
-<p><figure class="illustration" style="--dh-img-width:100%"><img src="/rollwithhope/images/media/adversaryExperiences-s2c6x2.webp" width="1600" height="533" loading="lazy" alt="adversaryExperiences.webp" /></figure></p>
 <p>Обычно у противников меньше Опыта, чем у персонажей игроков, но применяется он более широко. Если вы считаете, что противнику пригодятся его навыки в определённой ситуации, вы можете потратить один Страх, чтобы добавить модификатор одного Опыта к его Сложности, броскам атаки и броскам реакции, как описано ниже.</p>
 <h4 id="сложность"><span class="marker" data-marker="chapter"></span>Сложность<a class="anchor" href="#сложность" aria-label="Ссылка на раздел"></a></h4>
 <p>Когда персонаж игрока совершает бросок действия против противника, вы можете потратить один Страх, чтобы добавить модификатор подходящего Опыта к Сложности броска.</p>

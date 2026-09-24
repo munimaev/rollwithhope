@@ -1,6 +1,5 @@
 <template>
 <div class="prose" data-chapter="2" data-section="rules">
-<p><figure class="illustration" style="--dh-img-width:100%"><img src="/rollwithhope/images/media/weaponParameters-166lzw4.webp" width="1600" height="533" loading="lazy" alt="weaponParameters.webp" /></figure></p>
 <p>Каждое оружие, представленное в этой книге, включает в себя название, атрибут, дистанцию, кость урона, тип урона и хват. Некоторые оружия также имеют свойство. Например, стартовое оружие палаш имеет следующие параметры:</p>
 <div class="table-wrap"><table>
 <thead>

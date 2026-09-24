@@ -1,6 +1,5 @@
 <template>
 <div class="prose" data-chapter="3" data-section="rules">
-<p><figure class="illustration" style="--dh-img-width:100%"><img src="/rollwithhope/images/media/advancedCountdownFeatures-1trk17r.webp" width="1600" height="533" loading="lazy" alt="advancedCountdownFeatures.webp" /></figure></p>
 <p>Вы можете использовать следующие дополнительные свойства, чтобы сделать счётчики более сложными или уникальными.</p>
 <h4 id="случайное-стартовое-значение"><span class="marker" data-marker="minor"></span>Случайное стартовое значение<a class="anchor" href="#случайное-стартовое-значение" aria-label="Ссылка на раздел"></a></h4>
 <p>Вместо фиксированного стартового значения счётчик может иметь случайное. Например, «Счётчик (1d6)» означает, что вы бросаете 1d6 и используете выпавшее число как стартовое значение. Такие счётчики чаще всего применяются, когда нужно сделать ход событий более непредсказуемым — обычно, чтобы держать персонажей игроков в напряжении.</p>

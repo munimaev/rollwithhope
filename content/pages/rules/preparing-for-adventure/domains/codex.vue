@@ -1,6 +1,5 @@
 <template>
 <div class="prose" data-chapter="1" data-section="rules">
-<p><figure class="illustration" style="--dh-img-width:100%"><img src="/rollwithhope/images/media/bnrDomainCodex-uom2gw.webp" width="1600" height="533" loading="lazy" alt="bnrDomainCodex.webp" /></figure></p>
 <h4 id="карты-домена-по-уровню"><span class="marker" data-marker="chapter"></span>Карты домена по уровню<a class="anchor" href="#карты-домена-по-уровню" aria-label="Ссылка на раздел"></a></h4>
 <div class="table-wrap"><table>
 <thead>
@@ -11,11 +10,11 @@
 </thead>
 <tbody>
 <tr>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-codex-1-book-of-illiat-1sge4cb-660.webp" src="/rollwithhope/images/cards/card-codex-1-book-of-illiat-1sge4cb-330.webp" width="330" height="462" loading="lazy" alt="card-codex-1-book-of-illiat.webp" /></figure></td>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-codex-1-book-of-tyfar-1c8fu44-660.webp" src="/rollwithhope/images/cards/card-codex-1-book-of-tyfar-1c8fu44-330.webp" width="330" height="462" loading="lazy" alt="card-codex-1-book-of-tyfar.webp" /></figure></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Domains/Codex/card-codex-1-book-of-illiat-660.webp" src="/rollwithhope/images/Cards/Domains/Codex/card-codex-1-book-of-illiat-330.webp" width="330" height="462" loading="lazy" alt="card-codex-1-book-of-illiat.webp" /></figure></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Domains/Codex/card-codex-1-book-of-tyfar-660.webp" src="/rollwithhope/images/Cards/Domains/Codex/card-codex-1-book-of-tyfar-330.webp" width="330" height="462" loading="lazy" alt="card-codex-1-book-of-tyfar.webp" /></figure></td>
 </tr>
 <tr>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-codex-1-book-of-ava-1g215p6-660.webp" src="/rollwithhope/images/cards/card-codex-1-book-of-ava-1g215p6-330.webp" width="330" height="462" loading="lazy" alt="card-codex-1-book-of-ava.webp" /></figure></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Domains/Codex/card-codex-1-book-of-ava-660.webp" src="/rollwithhope/images/Cards/Domains/Codex/card-codex-1-book-of-ava-330.webp" width="330" height="462" loading="lazy" alt="card-codex-1-book-of-ava.webp" /></figure></td>
 <td></td>
 </tr>
 <tr>
@@ -23,72 +22,72 @@
 <td></td>
 </tr>
 <tr>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-codex-2-book-of-vagras-1iq2oiv-660.webp" src="/rollwithhope/images/cards/card-codex-2-book-of-vagras-1iq2oiv-330.webp" width="330" height="462" loading="lazy" alt="card-codex-2-book-of-vagras.webp" /></figure></td>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-codex-2-book-of-sitil-1anw1d0-660.webp" src="/rollwithhope/images/cards/card-codex-2-book-of-sitil-1anw1d0-330.webp" width="330" height="462" loading="lazy" alt="card-codex-2-book-of-sitil.webp" /></figure></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Domains/Codex/card-codex-2-book-of-vagras-660.webp" src="/rollwithhope/images/Cards/Domains/Codex/card-codex-2-book-of-vagras-330.webp" width="330" height="462" loading="lazy" alt="card-codex-2-book-of-vagras.webp" /></figure></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Domains/Codex/card-codex-2-book-of-sitil-660.webp" src="/rollwithhope/images/Cards/Domains/Codex/card-codex-2-book-of-sitil-330.webp" width="330" height="462" loading="lazy" alt="card-codex-2-book-of-sitil.webp" /></figure></td>
 </tr>
 <tr>
 <td><br><strong>🟢 Уровень 3</strong></td>
 <td></td>
 </tr>
 <tr>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-codex-3-book-of-norai-1jgtekr-660.webp" src="/rollwithhope/images/cards/card-codex-3-book-of-norai-1jgtekr-330.webp" width="330" height="462" loading="lazy" alt="card-codex-3-book-of-norai.webp" /></figure></td>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-codex-3-book-of-korvax-1lfqsdt-660.webp" src="/rollwithhope/images/cards/card-codex-3-book-of-korvax-1lfqsdt-330.webp" width="330" height="462" loading="lazy" alt="card-codex-3-book-of-korvax.webp" /></figure></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Domains/Codex/card-codex-3-book-of-norai-660.webp" src="/rollwithhope/images/Cards/Domains/Codex/card-codex-3-book-of-norai-330.webp" width="330" height="462" loading="lazy" alt="card-codex-3-book-of-norai.webp" /></figure></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Domains/Codex/card-codex-3-book-of-korvax-660.webp" src="/rollwithhope/images/Cards/Domains/Codex/card-codex-3-book-of-korvax-330.webp" width="330" height="462" loading="lazy" alt="card-codex-3-book-of-korvax.webp" /></figure></td>
 </tr>
 <tr>
 <td><br><strong>🟢 Уровень 4</strong></td>
 <td></td>
 </tr>
 <tr>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-codex-4-book-of-grynn-lk9fdh-660.webp" src="/rollwithhope/images/cards/card-codex-4-book-of-grynn-lk9fdh-330.webp" width="330" height="462" loading="lazy" alt="card-codex-4-book-of-grynn.webp" /></figure></td>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-codex-4-book-of-exota-1wktfoa-660.webp" src="/rollwithhope/images/cards/card-codex-4-book-of-exota-1wktfoa-330.webp" width="330" height="462" loading="lazy" alt="card-codex-4-book-of-exota.webp" /></figure></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Domains/Codex/card-codex-4-book-of-grynn-660.webp" src="/rollwithhope/images/Cards/Domains/Codex/card-codex-4-book-of-grynn-330.webp" width="330" height="462" loading="lazy" alt="card-codex-4-book-of-grynn.webp" /></figure></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Domains/Codex/card-codex-4-book-of-exota-660.webp" src="/rollwithhope/images/Cards/Domains/Codex/card-codex-4-book-of-exota-330.webp" width="330" height="462" loading="lazy" alt="card-codex-4-book-of-exota.webp" /></figure></td>
 </tr>
 <tr>
 <td><br><strong>🟢 Уровень 5</strong></td>
 <td></td>
 </tr>
 <tr>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-codex-5-manifest-wall-1dz9m5k-660.webp" src="/rollwithhope/images/cards/card-codex-5-manifest-wall-1dz9m5k-330.webp" width="330" height="462" loading="lazy" alt="card-codex-5-manifest-wall.webp" /></figure></td>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-codex-5-teleport-1to8uih-660.webp" src="/rollwithhope/images/cards/card-codex-5-teleport-1to8uih-330.webp" width="330" height="462" loading="lazy" alt="card-codex-5-teleport.webp" /></figure></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Domains/Codex/card-codex-5-manifest-wall-660.webp" src="/rollwithhope/images/Cards/Domains/Codex/card-codex-5-manifest-wall-330.webp" width="330" height="462" loading="lazy" alt="card-codex-5-manifest-wall.webp" /></figure></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Domains/Codex/card-codex-5-teleport-660.webp" src="/rollwithhope/images/Cards/Domains/Codex/card-codex-5-teleport-330.webp" width="330" height="462" loading="lazy" alt="card-codex-5-teleport.webp" /></figure></td>
 </tr>
 <tr>
 <td><br><strong>🟢 Уровень 6</strong></td>
 <td></td>
 </tr>
 <tr>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-codex-6-banish-tnnswm-660.webp" src="/rollwithhope/images/cards/card-codex-6-banish-tnnswm-330.webp" width="330" height="462" loading="lazy" alt="card-codex-6-banish.webp" /></figure></td>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-codex-6-sigil-of-retribution-1ig73sz-660.webp" src="/rollwithhope/images/cards/card-codex-6-sigil-of-retribution-1ig73sz-330.webp" width="330" height="462" loading="lazy" alt="card-codex-6-sigil-of-retribution.webp" /></figure></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Domains/Codex/card-codex-6-banish-660.webp" src="/rollwithhope/images/Cards/Domains/Codex/card-codex-6-banish-330.webp" width="330" height="462" loading="lazy" alt="card-codex-6-banish.webp" /></figure></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Domains/Codex/card-codex-6-sigil-of-retribution-660.webp" src="/rollwithhope/images/Cards/Domains/Codex/card-codex-6-sigil-of-retribution-330.webp" width="330" height="462" loading="lazy" alt="card-codex-6-sigil-of-retribution.webp" /></figure></td>
 </tr>
 <tr>
 <td><br><strong>🟢 Уровень 7</strong></td>
 <td></td>
 </tr>
 <tr>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-codex-7-book-of-homet-12r9s23-660.webp" src="/rollwithhope/images/cards/card-codex-7-book-of-homet-12r9s23-330.webp" width="330" height="462" loading="lazy" alt="card-codex-7-book-of-homet.webp" /></figure></td>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-codex-7-codex-touched-mwg98y-660.webp" src="/rollwithhope/images/cards/card-codex-7-codex-touched-mwg98y-330.webp" width="330" height="462" loading="lazy" alt="card-codex-7-codex-touched.webp" /></figure></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Domains/Codex/card-codex-7-book-of-homet-660.webp" src="/rollwithhope/images/Cards/Domains/Codex/card-codex-7-book-of-homet-330.webp" width="330" height="462" loading="lazy" alt="card-codex-7-book-of-homet.webp" /></figure></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Domains/Codex/card-codex-7-codex-touched-660.webp" src="/rollwithhope/images/Cards/Domains/Codex/card-codex-7-codex-touched-330.webp" width="330" height="462" loading="lazy" alt="card-codex-7-codex-touched.webp" /></figure></td>
 </tr>
 <tr>
 <td><br><strong>🟢 Уровень 8</strong></td>
 <td></td>
 </tr>
 <tr>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-codex-8-book-of-vyola-1g29sf2-660.webp" src="/rollwithhope/images/cards/card-codex-8-book-of-vyola-1g29sf2-330.webp" width="330" height="462" loading="lazy" alt="card-codex-8-book-of-vyola.webp" /></figure></td>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-codex-8-safe-haven-16wk11d-660.webp" src="/rollwithhope/images/cards/card-codex-8-safe-haven-16wk11d-330.webp" width="330" height="462" loading="lazy" alt="card-codex-8-safe-haven.webp" /></figure></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Domains/Codex/card-codex-8-book-of-vyola-660.webp" src="/rollwithhope/images/Cards/Domains/Codex/card-codex-8-book-of-vyola-330.webp" width="330" height="462" loading="lazy" alt="card-codex-8-book-of-vyola.webp" /></figure></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Domains/Codex/card-codex-8-safe-haven-660.webp" src="/rollwithhope/images/Cards/Domains/Codex/card-codex-8-safe-haven-330.webp" width="330" height="462" loading="lazy" alt="card-codex-8-safe-haven.webp" /></figure></td>
 </tr>
 <tr>
 <td><br><strong>🟢 Уровень 9</strong></td>
 <td></td>
 </tr>
 <tr>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-codex-9-book-of-ronin-6eaw6g-660.webp" src="/rollwithhope/images/cards/card-codex-9-book-of-ronin-6eaw6g-330.webp" width="330" height="462" loading="lazy" alt="card-codex-9-book-of-ronin.webp" /></figure></td>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-codex-9-disintegration-wave-1g8l4bw-660.webp" src="/rollwithhope/images/cards/card-codex-9-disintegration-wave-1g8l4bw-330.webp" width="330" height="462" loading="lazy" alt="card-codex-9-disintegration-wave.webp" /></figure></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Domains/Codex/card-codex-9-book-of-ronin-660.webp" src="/rollwithhope/images/Cards/Domains/Codex/card-codex-9-book-of-ronin-330.webp" width="330" height="462" loading="lazy" alt="card-codex-9-book-of-ronin.webp" /></figure></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Domains/Codex/card-codex-9-disintegration-wave-660.webp" src="/rollwithhope/images/Cards/Domains/Codex/card-codex-9-disintegration-wave-330.webp" width="330" height="462" loading="lazy" alt="card-codex-9-disintegration-wave.webp" /></figure></td>
 </tr>
 <tr>
 <td><br><strong>🟢 Уровень 10</strong></td>
 <td></td>
 </tr>
 <tr>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-codex-10-book-of-yarrow-wmx4lk-660.webp" src="/rollwithhope/images/cards/card-codex-10-book-of-yarrow-wmx4lk-330.webp" width="330" height="462" loading="lazy" alt="card-codex-10-book-of-yarrow.webp" /></figure></td>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-codex-10-transcendent-union-2i1b99-660.webp" src="/rollwithhope/images/cards/card-codex-10-transcendent-union-2i1b99-330.webp" width="330" height="462" loading="lazy" alt="card-codex-10-transcendent-union.webp" /></figure></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Domains/Codex/card-codex-10-book-of-yarrow-660.webp" src="/rollwithhope/images/Cards/Domains/Codex/card-codex-10-book-of-yarrow-330.webp" width="330" height="462" loading="lazy" alt="card-codex-10-book-of-yarrow.webp" /></figure></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Domains/Codex/card-codex-10-transcendent-union-660.webp" src="/rollwithhope/images/Cards/Domains/Codex/card-codex-10-transcendent-union-330.webp" width="330" height="462" loading="lazy" alt="card-codex-10-transcendent-union.webp" /></figure></td>
 </tr>
 </tbody>
 </table></div>

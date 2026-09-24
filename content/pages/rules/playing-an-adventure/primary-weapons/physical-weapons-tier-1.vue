@@ -1,6 +1,5 @@
 <template>
 <div class="prose" data-chapter="2" data-section="rules">
-<p><figure class="illustration" style="--dh-img-width:100%"><img src="/rollwithhope/images/media/weaponsPhyTier1-1xd4wd1.webp" width="1600" height="533" loading="lazy" alt="weaponsPhyTier1.webp" /></figure></p>
 <blockquote>
 <p><em>Всё физическое оружие наносит физический урон.</em></p>
 </blockquote>

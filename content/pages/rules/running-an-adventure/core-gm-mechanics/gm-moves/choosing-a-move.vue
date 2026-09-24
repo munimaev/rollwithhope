@@ -1,6 +1,5 @@
 <template>
 <div class="prose" data-chapter="3" data-section="rules">
-<p><figure class="illustration" style="--dh-img-width:100%"><img src="/rollwithhope/images/media/howToChooseAGmMove-19cb9ij.webp" width="1600" height="533" loading="lazy" alt="howToChooseAGmMove.webp" /></figure></p>
 <p>Когда игрок совершает бросок действия, его результат влияет на то, как изменится сцена, — но характер этих изменений зависит от того, какой ход мастера вы выберете. Ниже приводятся примеры реплик, которые мастер может сказать игроку после броска действия, и ходов, которые он может совершить.</p>
 <h2 id="критический-успех"><span class="marker" data-marker="chapter"></span>Критический успех<a class="anchor" href="#критический-успех" aria-label="Ссылка на раздел"></a></h2>
 <blockquote>

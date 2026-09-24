@@ -1,6 +1,5 @@
 <template>
 <div class="prose" data-chapter="4" data-section="rules">
-<p><figure class="illustration" style="--dh-img-width:100%"><img src="/rollwithhope/images/media/environmentBreakdown-1jqjxho.webp" width="1600" height="535" loading="lazy" alt="environmentBreakdown.webp" /></figure></p>
 <p>Блок параметров каждого окружения содержит статистику, необходимую для использования его в игре. Пример в предыдущей статье иллюстрирует этот формат. Каждый блок параметров включает следующие элементы:</p>
 <h4 id="название"><span class="marker" data-marker="chapter"></span>Название<a class="anchor" href="#название" aria-label="Ссылка на раздел"></a></h4>
 <p>У каждого окружения есть уникальное имя — в данном случае это Бурная Река.</p>

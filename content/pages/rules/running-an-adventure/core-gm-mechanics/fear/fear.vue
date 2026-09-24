@@ -1,7 +1,7 @@
 <template>
 <div class="prose" data-chapter="3" data-section="rules">
 <p><em>Игроки в качестве метавалюты используют Надежду, а мастер — Страх.</em></p>
-<p><figure class="illustration" style="--dh-img-width:100%"><img src="/rollwithhope/images/media/fearBanner-akq7ph.webp" width="1600" height="533" loading="lazy" alt="fearBanner.webp" /></figure></p>
+<p><figure class="illustration" style="--dh-img-width:100%"><img src="/rollwithhope/images/Banners/GM rules/fearBanner.webp" width="1600" height="533" loading="lazy" alt="fearBanner.webp" /></figure></p>
 <h2 id="получение-страха"><span class="marker" data-marker="chapter"></span>Получение Страха<a class="anchor" href="#получение-страха" aria-label="Ссылка на раздел"></a></h2>
 <p>В начале кампании вы получаете количество Страха, равное количеству персонажей игроков. Вы получаете Страх каждый раз, когда персонаж совершает бросок со Страхом. Также вы получаете Страх, когда персонажи игроков останавливаются на привал, за определённые способности или заклинания персонажей, а также за особые свойства противников.</p>
 <p>Максимально у вас может быть не больше 12 единиц Страха.</p>

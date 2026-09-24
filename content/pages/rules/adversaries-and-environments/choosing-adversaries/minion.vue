@@ -1,6 +1,5 @@
 <template>
 <div class="prose" data-chapter="4" data-section="rules">
-<p><figure class="illustration" style="--dh-img-width:100%"><img src="/rollwithhope/images/media/minions-1bsgmxp.webp" width="1600" height="533" loading="lazy" alt="minions.webp" /></figure></p>
 <p>Полдюжины бесов, отброшенных одним взмахом, или комната, полная оживших скелетов — независимо от своей формы, Приспешники увеличивают масштаб битвы, не затормаживая игру.</p>
 <h4 id="механики"><span class="marker" data-marker="chapter"></span>Механики<a class="anchor" href="#механики" aria-label="Ссылка на раздел"></a></h4>
 <p>У каждого Приспешника есть 1 ячейка Ран и следующие свойства:</p>

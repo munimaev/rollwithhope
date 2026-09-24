@@ -1,6 +1,5 @@
 <template>
 <div class="prose" data-chapter="3" data-section="rules">
-<p><figure class="illustration" style="--dh-img-width:100%"><img src="/rollwithhope/images/media/pitfalsToAvoid-h85ozo.webp" width="1600" height="533" loading="lazy" alt="pitfalsToAvoid.webp" /></figure></p>
 <p>Как в любой кооперативной игре, многое в Daggerheart зависит от поведения людей за столом. Ниже — частые затруднения и что с ними делать:</p>
 <blockquote>
 <p>→ Обесценивание героев.

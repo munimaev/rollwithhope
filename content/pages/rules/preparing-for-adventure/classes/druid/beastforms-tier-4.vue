@@ -3,18 +3,18 @@
 <div class="table-wrap"><table>
 <thead>
 <tr>
-<th><figure><img data-lightbox data-full="/rollwithhope/images/cards/beastform-4-mythic-aerial-hunter-2iw0re-660.webp" src="/rollwithhope/images/cards/beastform-4-mythic-aerial-hunter-2iw0re-330.webp" width="330" height="462" loading="lazy" alt="beastform-4-mythic-aerial-hunter.webp" /></figure></th>
-<th><figure><img data-lightbox data-full="/rollwithhope/images/cards/beastform-4-massive-behemoth-10djxpr-660.webp" src="/rollwithhope/images/cards/beastform-4-massive-behemoth-10djxpr-330.webp" width="330" height="462" loading="lazy" alt="beastform-4-massive-behemoth.webp" /></figure></th>
+<th><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Beastform/beastform-4-mythic-aerial-hunter-660.webp" src="/rollwithhope/images/Cards/Beastform/beastform-4-mythic-aerial-hunter-330.webp" width="330" height="462" loading="lazy" alt="beastform-4-mythic-aerial-hunter.webp" /></figure></th>
+<th><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Beastform/beastform-4-massive-behemoth-660.webp" src="/rollwithhope/images/Cards/Beastform/beastform-4-massive-behemoth-330.webp" width="330" height="462" loading="lazy" alt="beastform-4-massive-behemoth.webp" /></figure></th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/beastform-4-terrible-lizard-1qarbd2-660.webp" src="/rollwithhope/images/cards/beastform-4-terrible-lizard-1qarbd2-330.webp" width="330" height="462" loading="lazy" alt="beastform-4-terrible-lizard.webp" /></figure></td>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/beastform-4-epic-aquatic-beast-wx28ia-660.webp" src="/rollwithhope/images/cards/beastform-4-epic-aquatic-beast-wx28ia-330.webp" width="330" height="462" loading="lazy" alt="beastform-4-epic-aquatic-beast.webp" /></figure></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Beastform/beastform-4-terrible-lizard-660.webp" src="/rollwithhope/images/Cards/Beastform/beastform-4-terrible-lizard-330.webp" width="330" height="462" loading="lazy" alt="beastform-4-terrible-lizard.webp" /></figure></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Beastform/beastform-4-epic-aquatic-beast-660.webp" src="/rollwithhope/images/Cards/Beastform/beastform-4-epic-aquatic-beast-330.webp" width="330" height="462" loading="lazy" alt="beastform-4-epic-aquatic-beast.webp" /></figure></td>
 </tr>
 <tr>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/beastform-4-mythic-beast-1sulm1u-660.webp" src="/rollwithhope/images/cards/beastform-4-mythic-beast-1sulm1u-330.webp" width="330" height="462" loading="lazy" alt="beastform-4-mythic-beast.webp" /></figure></td>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/beastform-4-mythic-hybrid-8nikgn-660.webp" src="/rollwithhope/images/cards/beastform-4-mythic-hybrid-8nikgn-330.webp" width="330" height="462" loading="lazy" alt="beastform-4-mythic-hybrid.webp" /></figure></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Beastform/beastform-4-mythic-beast-660.webp" src="/rollwithhope/images/Cards/Beastform/beastform-4-mythic-beast-330.webp" width="330" height="462" loading="lazy" alt="beastform-4-mythic-beast.webp" /></figure></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Beastform/beastform-4-mythic-hybrid-660.webp" src="/rollwithhope/images/Cards/Beastform/beastform-4-mythic-hybrid-330.webp" width="330" height="462" loading="lazy" alt="beastform-4-mythic-hybrid.webp" /></figure></td>
 </tr>
 <tr>
 <td></td>

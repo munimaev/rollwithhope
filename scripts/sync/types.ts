@@ -24,7 +24,8 @@ export interface VaultNoteRef {
 
 export interface ResolvedPage {
   id: string
-  url: string
+  /** null для виртуальных узлов-папок — см. isVirtual */
+  url: string | null
   sectionId: string
   title: string
   layout: string
@@ -38,6 +39,12 @@ export interface ResolvedPage {
   chapter: number
   banner: string | null
   backlinks: string[]
+  /**
+   * Папка хранилища без публичной Index.md, но с публичными потомками — синтетический
+   * узел только для группировки сайдбара (нет собственного контента/URL/файла .vue).
+   * См. CLAUDE.md, «Дерево сайдбара плоское».
+   */
+  isVirtual: boolean
 }
 
 export interface Manifest {

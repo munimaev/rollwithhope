@@ -1,6 +1,5 @@
 <template>
 <div class="prose" data-chapter="2" data-section="rules">
-<p><figure class="illustration" style="--dh-img-width:100%"><img src="/rollwithhope/images/media/actionRollStep2-d0v0hz.webp" width="1600" height="533" loading="lazy" alt="actionRollStep2.webp" /></figure></p>
 <p>Когда вы знаете, какой атрибут персонажа использовать, пришло время выяснить, применяются ли к броску другие кости или модификаторы, такие как:</p>
 <p>🔸 <strong>Кости дуализма</strong>
 Вы бросаете кости Надежды и Страха для каждого броска действия.</p>

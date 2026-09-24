@@ -1,6 +1,5 @@
 <template>
 <div class="prose" data-chapter="1" data-section="rules">
-<p><figure class="illustration" style="--dh-img-width:100%"><img src="/rollwithhope/images/media/prepStep5-rhbkwy.webp" width="1600" height="533" loading="lazy" alt="prepStep5.webp" /></figure></p>
 <p>Следующим шагом будет выбор стартового оружия, доспехов и других предметов для вашего персонажа.</p>
 <h4 id="выберите-своё-оружие"><span class="marker" data-marker="chapter"></span>Выберите своё оружие<a class="anchor" href="#выберите-своё-оружие" aria-label="Ссылка на раздел"></a></h4>
 <p>Вы используете <strong>физическое оружие</strong> для атаки врагов, а если обладаете атрибутом магии (например, благодаря подклассу), то можете использовать и <strong>магическое оружие</strong>. При создании персонажа вы можете выбрать либо <strong>основное</strong> двуручное оружие, либо <strong>основное</strong> одноручное и <strong>дополнительное</strong> одноручное оружие, после чего экипировать их.</p>

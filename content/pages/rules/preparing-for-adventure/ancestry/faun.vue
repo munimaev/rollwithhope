@@ -1,10 +1,9 @@
 <template>
 <div class="prose" data-chapter="1" data-section="rules">
-<p><figure class="illustration" style="--dh-img-width:100%"><img src="/rollwithhope/images/media/ancestryFaun-14q4pn4.webp" width="1600" height="533" loading="lazy" alt="ancestryFaun.webp" /></figure></p>
 <h2 id="описание"><span class="marker" data-marker="chapter"></span>Описание<a class="anchor" href="#описание" aria-label="Ссылка на раздел"></a></h2>
 <p>Фавны — козлоподобные гуманоиды с изогнутыми рогами, прямоугольными зрачками и раздвоенными копытами. Хотя их облик может сильно различаться, большинство фавнов имеют человеческое туловище и козоподобную нижнюю часть тела, покрытую густой шерстью. Лица фавнов варьируются от почти человеческих до ярко выраженно козлиных. Уши и рога также бывают самых разных форм: от коротких с минимальным изгибом до длинных и сильно закрученных. Средний рост фавна — от 4 до 6.5 футов, но он может значительно меняться в зависимости от позы и осанки. Большинство фавнов обладают длинными, пропорционально развитыми конечностями, независимо от общего телосложения, и известны способностью наносить мощные удары своими копытами. Продолжительность жизни фавнов составляет около 225 лет, и с возрастом их облик может становиться всё более козлиным.</p>
 <h4 id="свойства-происхождения"><span class="marker" data-marker="minor"></span>Свойства происхождения<a class="anchor" href="#свойства-происхождения" aria-label="Ссылка на раздел"></a></h4>
-<p><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-faun-lnqv8k-660.webp" src="/rollwithhope/images/cards/card-faun-lnqv8k-330.webp" width="330" height="462" loading="lazy" alt="card-faun.webp" /></figure></p>
+<p><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Ancestry/card-faun-660.webp" src="/rollwithhope/images/Cards/Ancestry/card-faun-330.webp" width="330" height="462" loading="lazy" alt="card-faun.webp" /></figure></p>
 <h6 id="козлиный-прыжок-caprine-leap">Козлиный прыжок - Caprine Leap<a class="anchor" href="#козлиный-прыжок-caprine-leap" aria-label="Ссылка на раздел"></a></h6>
 <p>Вы можете совершать прыжки в пределах средней дистанции, как если бы использовали обычное перемещение, легко преодолевая препятствия, провалы или барьеры.</p>
 <h6 id="пинок-kick">Пинок - Kick<a class="anchor" href="#пинок-kick" aria-label="Ссылка на раздел"></a></h6>

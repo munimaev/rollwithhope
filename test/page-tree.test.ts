@@ -49,9 +49,10 @@ describe('buildSectionPages — дерево при приватных Index.md'
   it('не создаёт "сирот": каждый parentId либо null, либо указывает на реально существующую страницу', () => {
     const vaultRoot = makeTmpVault()
     // Раздел: сама секция и подпапка "00︱Intro" имеют ЧАСТНЫЙ (private) Index.md —
-    // они не публикуются как отдельные страницы, но раньше их дети всё равно
-    // получали parentId, указывающий на несуществующую страницу (эту приватную Index),
-    // и выпадали из дерева навигации (SectionTree/TreeNode).
+    // они не публикуются как отдельные страницы. Корень раздела не заводит виртуальный
+    // узел (он и так null-корень дерева), но "00︱Intro" — не корень, поэтому получает
+    // виртуальный группирующий узел (isVirtual), и лист цепляется к нему, а не выпадает
+    // плоским сиротой в корень (см. CLAUDE.md, «Дерево сайдбара плоское»).
     write(vaultRoot, 'Rules/Index.md', { visibility: 'private' })
     write(vaultRoot, 'Rules/00︱Intro/Index.md', { visibility: 'private' })
     write(vaultRoot, 'Rules/00︱Intro/01︱Leaf.md', { visibility: 'public' })
@@ -59,18 +60,23 @@ describe('buildSectionPages — дерево при приватных Index.md'
     const warnings: string[] = []
     const pages = buildSectionPages(section, vaultRoot, slugs, warnings)
 
-    expect(pages).toHaveLength(1)
-    const leaf = pages[0]
-    expect(leaf.url).toBe('/rules/intro/leaf')
+    expect(pages).toHaveLength(2)
+    const introGroup = pages.find((p) => p.isVirtual)
+    const leaf = pages.find((p) => !p.isVirtual)
+    expect(introGroup).toBeDefined()
+    expect(leaf).toBeDefined()
+    expect(leaf!.url).toBe('/rules/intro/leaf')
+    expect(introGroup!.url).toBeNull()
 
     const idsInTree = new Set(pages.map((p) => p.id))
     for (const p of pages) {
       const parentExistsOrIsRoot = p.parentId === null || idsInTree.has(p.parentId)
       expect(parentExistsOrIsRoot).toBe(true)
     }
-    // Раз нет ни одного публичного предка — лист должен подняться до корня (parentId === null),
-    // иначе он невидим в SectionTree (getChildren(null, sectionId) его не найдёт).
-    expect(leaf.parentId).toBeNull()
+    // Виртуальная группа "00︱Intro" сама — прямой ребёнок корня (у Rules нет своего узла),
+    // а лист прикреплён к виртуальной группе, а не болтается сиротой в корне.
+    expect(introGroup!.parentId).toBeNull()
+    expect(leaf!.parentId).toBe(introGroup!.id)
   })
 
   it('когда у папки есть публичный Index.md — дети корректно прикрепляются к нему', () => {

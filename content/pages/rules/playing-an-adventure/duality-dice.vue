@@ -1,6 +1,5 @@
 <template>
 <div class="prose" data-chapter="2" data-section="rules">
-<p><figure class="illustration" style="--dh-img-width:100%"><img src="/rollwithhope/images/media/dualityDices-etovi8.webp" width="1600" height="533" loading="lazy" alt="dualityDices.webp" /></figure></p>
 <p>Главные кости в Daggerheart — это пара костей d12, называемых костями дуализма. Это два d12 разного цвета (или, если хотите, разного размера или рисунка), одна из которых олицетворяет Надежду, а другая — Страх. Ваши кости дуализма должны быть легко отличимы друг от друга с первого взгляда. Вы будете использовать их каждый раз, когда совершаете бросок действия.</p>
 <blockquote>
 <p>[!example] Пример

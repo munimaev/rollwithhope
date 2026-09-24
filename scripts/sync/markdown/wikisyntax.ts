@@ -44,6 +44,29 @@ export function extractWikiTokens(markdown: string): { tokenized: string; matche
   return { tokenized, matches }
 }
 
+/** Первая строка тела — вставка картинки (`![[баннер.webp]]`)? По контракту
+ * (`40-markup-contract.md`) это баннер статьи — рендерится в `.hero > .banner`,
+ * не как обычная `.illustration` в теле. Карточки и исключённые картинки баннерами
+ * не считаются — остаются обычным эмбедом в теле (resolveEmbed сам разберётся). */
+export function extractBannerEmbed(
+  bodyRaw: string,
+  imageIndex: Map<string, ImageEntry[]>,
+): { target: string; entry: ImageEntry; rest: string } | null {
+  const trimmed = bodyRaw.replace(/^\s+/, '')
+  const m = /^!\[\[([^\]|]+?)(?:\|\d+)?\]\]/.exec(trimmed)
+  if (!m) return null
+
+  const target = m[1].trim().replace(/\\+$/, '')
+  const basename = target.split('/').pop()!
+  if (!IMAGE_EXT.test(basename)) return null
+
+  const entry = imageIndex.get(basename)?.[0]
+  if (!entry || entry.excluded || entry.isCard) return null
+
+  const rest = trimmed.slice(m[0].length).replace(/^\r?\n/, '')
+  return { target, entry, rest }
+}
+
 export interface WikiResolveContext {
   vaultIndex: VaultIndex
   urlMap: Map<string, string>
@@ -91,7 +114,7 @@ function resolveLink(m: WikiMatch, ctx: WikiResolveContext): string {
   return `<a class="wikilink" href="${url}">${label}</a>`
 }
 
-const IMAGE_EXT = /\.(webp|png|jpe?g|svg|gif)$/i
+export const IMAGE_EXT = /\.(webp|png|jpe?g|svg|gif)$/i
 
 async function resolveEmbed(m: WikiMatch, ctx: WikiResolveContext): Promise<string> {
   const basename = m.target.split('/').pop()!

@@ -1,6 +1,5 @@
 <template>
 <div class="prose" data-chapter="2" data-section="rules">
-<p><figure class="illustration" style="--dh-img-width:100%"><img src="/rollwithhope/images/media/additionalRules-lf1zca.webp" width="1600" height="533" loading="lazy" alt="additionalRules.webp" /></figure></p>
 <h4 id="округление-в-большую-сторону"><span class="marker" data-marker="chapter"></span>Округление в большую сторону<a class="anchor" href="#округление-в-большую-сторону" aria-label="Ссылка на раздел"></a></h4>
 <p>В этой игре не используются дробные числа; если вам нужно округлить до целого числа, округляйте в большую сторону, если не указано иное.</p>
 <h4 id="перебрасывание-костей"><span class="marker" data-marker="chapter"></span>Перебрасывание костей<a class="anchor" href="#перебрасывание-костей" aria-label="Ссылка на раздел"></a></h4>

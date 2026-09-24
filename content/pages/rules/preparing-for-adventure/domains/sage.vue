@@ -1,6 +1,5 @@
 <template>
 <div class="prose" data-chapter="1" data-section="rules">
-<p><figure class="illustration" style="--dh-img-width:100%"><img src="/rollwithhope/images/media/bnrDomainSage-7ms459.webp" width="1600" height="533" loading="lazy" alt="bnrDomainSage.webp" /></figure></p>
 <h4 id="карты-домена-по-уровню"><span class="marker" data-marker="chapter"></span>Карты домена по уровню<a class="anchor" href="#карты-домена-по-уровню" aria-label="Ссылка на раздел"></a></h4>
 <div class="table-wrap"><table>
 <thead>
@@ -11,11 +10,11 @@
 </thead>
 <tbody>
 <tr>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-sage-1-vicious-entangle-w04n0z-660.webp" src="/rollwithhope/images/cards/card-sage-1-vicious-entangle-w04n0z-330.webp" width="330" height="462" loading="lazy" alt="card-sage-1-vicious-entangle.webp" /></figure></td>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-sage-1-gifted-tracker-1okhimy-660.webp" src="/rollwithhope/images/cards/card-sage-1-gifted-tracker-1okhimy-330.webp" width="330" height="462" loading="lazy" alt="card-sage-1-gifted-tracker.webp" /></figure></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Domains/Sage/card-sage-1-vicious-entangle-660.webp" src="/rollwithhope/images/Cards/Domains/Sage/card-sage-1-vicious-entangle-330.webp" width="330" height="462" loading="lazy" alt="card-sage-1-vicious-entangle.webp" /></figure></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Domains/Sage/card-sage-1-gifted-tracker-660.webp" src="/rollwithhope/images/Cards/Domains/Sage/card-sage-1-gifted-tracker-330.webp" width="330" height="462" loading="lazy" alt="card-sage-1-gifted-tracker.webp" /></figure></td>
 </tr>
 <tr>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-sage-1-natures-tongue-19unofj-660.webp" src="/rollwithhope/images/cards/card-sage-1-natures-tongue-19unofj-330.webp" width="330" height="462" loading="lazy" alt="card-sage-1-natures-tongue.webp" /></figure></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Domains/Sage/card-sage-1-natures-tongue-660.webp" src="/rollwithhope/images/Cards/Domains/Sage/card-sage-1-natures-tongue-330.webp" width="330" height="462" loading="lazy" alt="card-sage-1-natures-tongue.webp" /></figure></td>
 <td></td>
 </tr>
 <tr>
@@ -23,72 +22,72 @@
 <td></td>
 </tr>
 <tr>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-sage-2-natural-familiar-tjqxcc-660.webp" src="/rollwithhope/images/cards/card-sage-2-natural-familiar-tjqxcc-330.webp" width="330" height="462" loading="lazy" alt="card-sage-2-natural-familiar.webp" /></figure></td>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-sage-2-conjure-swarm-11rwl04-660.webp" src="/rollwithhope/images/cards/card-sage-2-conjure-swarm-11rwl04-330.webp" width="330" height="462" loading="lazy" alt="card-sage-2-conjure-swarm.webp" /></figure></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Domains/Sage/card-sage-2-natural-familiar-660.webp" src="/rollwithhope/images/Cards/Domains/Sage/card-sage-2-natural-familiar-330.webp" width="330" height="462" loading="lazy" alt="card-sage-2-natural-familiar.webp" /></figure></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Domains/Sage/card-sage-2-conjure-swarm-660.webp" src="/rollwithhope/images/Cards/Domains/Sage/card-sage-2-conjure-swarm-330.webp" width="330" height="462" loading="lazy" alt="card-sage-2-conjure-swarm.webp" /></figure></td>
 </tr>
 <tr>
 <td><br><strong>🟢 Уровень 3</strong></td>
 <td></td>
 </tr>
 <tr>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-sage-3-towering-stalk-10svhij-660.webp" src="/rollwithhope/images/cards/card-sage-3-towering-stalk-10svhij-330.webp" width="330" height="462" loading="lazy" alt="card-sage-3-towering-stalk.webp" /></figure></td>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-sage-3-corrosive-projectile-1hzbpag-660.webp" src="/rollwithhope/images/cards/card-sage-3-corrosive-projectile-1hzbpag-330.webp" width="330" height="462" loading="lazy" alt="card-sage-3-corrosive-projectile.webp" /></figure></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Domains/Sage/card-sage-3-towering-stalk-660.webp" src="/rollwithhope/images/Cards/Domains/Sage/card-sage-3-towering-stalk-330.webp" width="330" height="462" loading="lazy" alt="card-sage-3-towering-stalk.webp" /></figure></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Domains/Sage/card-sage-3-corrosive-projectile-660.webp" src="/rollwithhope/images/Cards/Domains/Sage/card-sage-3-corrosive-projectile-330.webp" width="330" height="462" loading="lazy" alt="card-sage-3-corrosive-projectile.webp" /></figure></td>
 </tr>
 <tr>
 <td><br><strong>🟢 Уровень 4</strong></td>
 <td></td>
 </tr>
 <tr>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-sage-4-healing-field-1n596ty-660.webp" src="/rollwithhope/images/cards/card-sage-4-healing-field-1n596ty-330.webp" width="330" height="462" loading="lazy" alt="card-sage-4-healing-field.webp" /></figure></td>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-sage-4-death-grip-agwx9o-660.webp" src="/rollwithhope/images/cards/card-sage-4-death-grip-agwx9o-330.webp" width="330" height="462" loading="lazy" alt="card-sage-4-death-grip.webp" /></figure></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Domains/Sage/card-sage-4-healing-field-660.webp" src="/rollwithhope/images/Cards/Domains/Sage/card-sage-4-healing-field-330.webp" width="330" height="462" loading="lazy" alt="card-sage-4-healing-field.webp" /></figure></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Domains/Sage/card-sage-4-death-grip-660.webp" src="/rollwithhope/images/Cards/Domains/Sage/card-sage-4-death-grip-330.webp" width="330" height="462" loading="lazy" alt="card-sage-4-death-grip.webp" /></figure></td>
 </tr>
 <tr>
 <td><br><strong>🟢 Уровень 5</strong></td>
 <td></td>
 </tr>
 <tr>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-sage-5-thorn-skin-ky063p-660.webp" src="/rollwithhope/images/cards/card-sage-5-thorn-skin-ky063p-330.webp" width="330" height="462" loading="lazy" alt="card-sage-5-thorn-skin.webp" /></figure></td>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-sage-5-wild-fortress-zgz76j-660.webp" src="/rollwithhope/images/cards/card-sage-5-wild-fortress-zgz76j-330.webp" width="330" height="462" loading="lazy" alt="card-sage-5-wild-fortress.webp" /></figure></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Domains/Sage/card-sage-5-thorn-skin-660.webp" src="/rollwithhope/images/Cards/Domains/Sage/card-sage-5-thorn-skin-330.webp" width="330" height="462" loading="lazy" alt="card-sage-5-thorn-skin.webp" /></figure></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Domains/Sage/card-sage-5-wild-fortress-660.webp" src="/rollwithhope/images/Cards/Domains/Sage/card-sage-5-wild-fortress-330.webp" width="330" height="462" loading="lazy" alt="card-sage-5-wild-fortress.webp" /></figure></td>
 </tr>
 <tr>
 <td><br><strong>🟢 Уровень 6</strong></td>
 <td></td>
 </tr>
 <tr>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-sage-6-conjured-steeds-wsw6ci-660.webp" src="/rollwithhope/images/cards/card-sage-6-conjured-steeds-wsw6ci-330.webp" width="330" height="462" loading="lazy" alt="card-sage-6-conjured-steeds.webp" /></figure></td>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-sage-6-forager-1apuslb-660.webp" src="/rollwithhope/images/cards/card-sage-6-forager-1apuslb-330.webp" width="330" height="462" loading="lazy" alt="card-sage-6-forager.webp" /></figure></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Domains/Sage/card-sage-6-conjured-steeds-660.webp" src="/rollwithhope/images/Cards/Domains/Sage/card-sage-6-conjured-steeds-330.webp" width="330" height="462" loading="lazy" alt="card-sage-6-conjured-steeds.webp" /></figure></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Domains/Sage/card-sage-6-forager-660.webp" src="/rollwithhope/images/Cards/Domains/Sage/card-sage-6-forager-330.webp" width="330" height="462" loading="lazy" alt="card-sage-6-forager.webp" /></figure></td>
 </tr>
 <tr>
 <td><br><strong>🟢 Уровень 7</strong></td>
 <td></td>
 </tr>
 <tr>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-sage-7-sage-touched-mo1dbx-660.webp" src="/rollwithhope/images/cards/card-sage-7-sage-touched-mo1dbx-330.webp" width="330" height="462" loading="lazy" alt="card-sage-7-sage-touched.webp" /></figure></td>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-sage-7-wild-surge-bj0qof-660.webp" src="/rollwithhope/images/cards/card-sage-7-wild-surge-bj0qof-330.webp" width="330" height="462" loading="lazy" alt="card-sage-7-wild-surge.webp" /></figure></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Domains/Sage/card-sage-7-sage-touched-660.webp" src="/rollwithhope/images/Cards/Domains/Sage/card-sage-7-sage-touched-330.webp" width="330" height="462" loading="lazy" alt="card-sage-7-sage-touched.webp" /></figure></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Domains/Sage/card-sage-7-wild-surge-660.webp" src="/rollwithhope/images/Cards/Domains/Sage/card-sage-7-wild-surge-330.webp" width="330" height="462" loading="lazy" alt="card-sage-7-wild-surge.webp" /></figure></td>
 </tr>
 <tr>
 <td><br><strong>🟢 Уровень 8</strong></td>
 <td></td>
 </tr>
 <tr>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-sage-8-rejuvenation-barrier-47oa0t-660.webp" src="/rollwithhope/images/cards/card-sage-8-rejuvenation-barrier-47oa0t-330.webp" width="330" height="462" loading="lazy" alt="card-sage-8-rejuvenation-barrier.webp" /></figure></td>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-sage-8-forest-sprites-1hv46rh-660.webp" src="/rollwithhope/images/cards/card-sage-8-forest-sprites-1hv46rh-330.webp" width="330" height="462" loading="lazy" alt="card-sage-8-forest-sprites.webp" /></figure></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Domains/Sage/card-sage-8-rejuvenation-barrier-660.webp" src="/rollwithhope/images/Cards/Domains/Sage/card-sage-8-rejuvenation-barrier-330.webp" width="330" height="462" loading="lazy" alt="card-sage-8-rejuvenation-barrier.webp" /></figure></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Domains/Sage/card-sage-8-forest-sprites-660.webp" src="/rollwithhope/images/Cards/Domains/Sage/card-sage-8-forest-sprites-330.webp" width="330" height="462" loading="lazy" alt="card-sage-8-forest-sprites.webp" /></figure></td>
 </tr>
 <tr>
 <td><br><strong>🟢 Уровень 9</strong></td>
 <td></td>
 </tr>
 <tr>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-sage-9-fane-of-the-wilds-1d2py1y-660.webp" src="/rollwithhope/images/cards/card-sage-9-fane-of-the-wilds-1d2py1y-330.webp" width="330" height="462" loading="lazy" alt="card-sage-9-fane-of-the-wilds.webp" /></figure></td>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-sage-9-plant-dominion-5at21l-660.webp" src="/rollwithhope/images/cards/card-sage-9-plant-dominion-5at21l-330.webp" width="330" height="462" loading="lazy" alt="card-sage-9-plant-dominion.webp" /></figure></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Domains/Sage/card-sage-9-fane-of-the-wilds-660.webp" src="/rollwithhope/images/Cards/Domains/Sage/card-sage-9-fane-of-the-wilds-330.webp" width="330" height="462" loading="lazy" alt="card-sage-9-fane-of-the-wilds.webp" /></figure></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Domains/Sage/card-sage-9-plant-dominion-660.webp" src="/rollwithhope/images/Cards/Domains/Sage/card-sage-9-plant-dominion-330.webp" width="330" height="462" loading="lazy" alt="card-sage-9-plant-dominion.webp" /></figure></td>
 </tr>
 <tr>
 <td><br><strong>🟢 Уровень 10</strong></td>
 <td></td>
 </tr>
 <tr>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-sage-10-force-of-nature-1ul21s3-660.webp" src="/rollwithhope/images/cards/card-sage-10-force-of-nature-1ul21s3-330.webp" width="330" height="462" loading="lazy" alt="card-sage-10-force-of-nature.webp" /></figure></td>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-sage-10-tempest-627w6k-660.webp" src="/rollwithhope/images/cards/card-sage-10-tempest-627w6k-330.webp" width="330" height="462" loading="lazy" alt="card-sage-10-tempest.webp" /></figure></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Domains/Sage/card-sage-10-force-of-nature-660.webp" src="/rollwithhope/images/Cards/Domains/Sage/card-sage-10-force-of-nature-330.webp" width="330" height="462" loading="lazy" alt="card-sage-10-force-of-nature.webp" /></figure></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Domains/Sage/card-sage-10-tempest-660.webp" src="/rollwithhope/images/Cards/Domains/Sage/card-sage-10-tempest-330.webp" width="330" height="462" loading="lazy" alt="card-sage-10-tempest.webp" /></figure></td>
 </tr>
 </tbody>
 </table></div>

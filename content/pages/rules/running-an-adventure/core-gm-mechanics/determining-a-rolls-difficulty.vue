@@ -1,6 +1,5 @@
 <template>
 <div class="prose" data-chapter="3" data-section="rules">
-<p><figure class="illustration" style="--dh-img-width:100%"><img src="/rollwithhope/images/media/settingRollDifficulty-scrui3.webp" width="1600" height="533" loading="lazy" alt="settingRollDifficulty.webp" /></figure></p>
 <p>Когда персонаж совершает бросок действия, мастеру нужно назначить сложность, чтобы понять, преуспел герой или нет. Не переусложняйте: просто оцените, насколько трудна задача в этой сцене. Ниже — ориентировочная шкала.</p>
 <h2 id="шкала-сложности"><span class="marker" data-marker="chapter"></span>Шкала Сложности<a class="anchor" href="#шкала-сложности" aria-label="Ссылка на раздел"></a></h2>
 <p><span style="background:#dddee1; padding:2px 8px; border-radius:4px; color: #292a2e; size:small;font-family: monospace;"> 5</span> — Очень легко

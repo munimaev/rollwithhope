@@ -1,6 +1,5 @@
 <template>
 <div class="prose" data-chapter="3" data-section="rules">
-<p><figure class="illustration" style="--dh-img-width:100%"><img src="/rollwithhope/images/media/fallingAndCollisionDamage-9g2hky.webp" width="1600" height="533" loading="lazy" alt="fallingAndCollisionDamage.webp" /></figure></p>
 <p>Если персонаж падает на землю, используйте следующую памятку, чтобы определить получаемый урон:</p>
 <ul>
 <li>Падение с Ближней дистанции наносит 1d10 + 3 физического урона.</li>

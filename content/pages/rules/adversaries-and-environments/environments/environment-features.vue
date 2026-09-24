@@ -1,6 +1,5 @@
 <template>
 <div class="prose" data-chapter="4" data-section="rules">
-<p><figure class="illustration" style="--dh-img-width:100%"><img src="/rollwithhope/images/media/environmentFeatures-7zpaa2.webp" width="1600" height="533" loading="lazy" alt="environmentFeatures.webp" /></figure></p>
 <p>В нижней части каждого блока параметров перечислены свойства этого окружения.</p>
 <h4 id="вопросы-к-свойствам"><span class="marker" data-marker="chapter"></span>Вопросы к свойствам<a class="anchor" href="#вопросы-к-свойствам" aria-label="Ссылка на раздел"></a></h4>
 <p>Под каждым свойством вы найдёте вопросы, выделенные курсивом. Эти вопросы нужны, чтобы подсказать сюжетные зацепки, дать идеи, наполняющие это окружение, и помочь связать его с другими элементами истории.</p>

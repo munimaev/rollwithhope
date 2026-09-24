@@ -1,10 +1,9 @@
 <template>
 <div class="prose" data-chapter="1" data-section="rules">
-<p><figure class="illustration" style="--dh-img-width:100%"><img src="/rollwithhope/images/media/ancestryGoblin-gxv17x.webp" width="1600" height="533" loading="lazy" alt="ancestryGoblin.webp" /></figure></p>
 <h2 id="описание"><span class="marker" data-marker="chapter"></span>Описание<a class="anchor" href="#описание" aria-label="Ссылка на раздел"></a></h2>
 <p>Гоблины — это низкорослые гуманоиды, легко узнаваемые по большим глазам и широким перепончатым ушам. Благодаря острому слуху и зрению они способны различать детали на больших расстояниях и в темноте, что позволяет им с лёгкостью передвигаться в неблагоприятных условиях. Цвет их кожи и глаз варьируется от ярких до приглушённых тонов — ни один оттенок не считается преобладающим. Средний рост гоблина — от 3 до 4 футов, а уши по размеру сравнимы с головой. Гоблины известны тем, что используют положение ушей как часть невербальной коммуникации. Продолжительность жизни гоблинов составляет около 100 лет, при этом многие сохраняют отличное зрение и слух до глубокой старости.</p>
 <h4 id="свойства-происхождения"><span class="marker" data-marker="minor"></span>Свойства происхождения<a class="anchor" href="#свойства-происхождения" aria-label="Ссылка на раздел"></a></h4>
-<p><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-goblin-k9ckap-660.webp" src="/rollwithhope/images/cards/card-goblin-k9ckap-330.webp" width="330" height="462" loading="lazy" alt="card-goblin.webp" /></figure></p>
+<p><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Ancestry/card-goblin-660.webp" src="/rollwithhope/images/Cards/Ancestry/card-goblin-330.webp" width="330" height="462" loading="lazy" alt="card-goblin.webp" /></figure></p>
 <h6 id="устойчивый-surefooted">Устойчивый - Surefooted<a class="anchor" href="#устойчивый-surefooted" aria-label="Ссылка на раздел"></a></h6>
 <p>Ты игнорируешь помеху на Броски Проворности.</p>
 <h6 id="чувство-опасности-danger-sense">Чувство опасности - Danger Sense<a class="anchor" href="#чувство-опасности-danger-sense" aria-label="Ссылка на раздел"></a></h6>

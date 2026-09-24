@@ -5,6 +5,7 @@ import { walkVault, VaultIndex } from './vault-index.js'
 import { indexImages, ImageExporter } from './images.js'
 import { buildSectionPages, type PageSkeleton } from './page-tree.js'
 import { renderMarkdown } from './markdown/pipeline.js'
+import { extractBannerEmbed } from './markdown/wikisyntax.js'
 import type { Manifest, ResolvedPage } from './types.js'
 
 async function main() {
@@ -36,17 +37,24 @@ async function main() {
   let allPages: PageSkeleton[] = []
   for (const section of config.sections) {
     const pages = buildSectionPages(section, vaultPath, config.slugs, warnings)
-    for (const p of pages) p.vaultRelPath = path.relative(vaultPath, p.absPath).split(path.sep).join('/')
+    for (const p of pages) {
+      if (!p.isVirtual) p.vaultRelPath = path.relative(vaultPath, p.absPath).split(path.sep).join('/')
+    }
     allPages = allPages.concat(pages)
   }
   console.log(`Публичных страниц к сборке: ${allPages.length}`)
 
   const urlMap = new Map<string, string>()
-  for (const p of allPages) urlMap.set(p.vaultRelPath, p.url)
+  for (const p of allPages) if (p.url) urlMap.set(p.vaultRelPath, p.url)
 
   const tagLists = new Map<string, { url: string; title: string }[]>()
   for (const tag of ['ancestry', 'community']) {
-    tagLists.set(tag, allPages.filter((p) => p.tags.includes(tag)).map((p) => ({ url: p.url, title: p.title })))
+    tagLists.set(
+      tag,
+      allPages
+        .filter((p) => p.tags.includes(tag) && p.url)
+        .map((p) => ({ url: p.url as string, title: p.title })),
+    )
   }
 
   // --- картинки ---
@@ -59,17 +67,29 @@ async function main() {
   const added: string[] = []
 
   for (const page of allPages) {
+    if (page.isVirtual) continue // группирующий узел сайдбара — нет тела, нет .vue-файла
+
     const outFile = path.join(outDir, 'pages', `${page.id}.vue`)
     const existed = fs.existsSync(outFile)
 
+    // Баннер: первая строка тела — вставка картинки -> в .hero, не в тело статьи
+    // (см. templates/guidelines/40-markup-contract.md).
+    let bodyForRender = page.bodyRaw
+    const bannerMatch = extractBannerEmbed(page.bodyRaw, imageIndex)
+    if (bannerMatch) {
+      const { url } = await imageExporter.exportMedia(bannerMatch.entry)
+      page.banner = url
+      bodyForRender = bannerMatch.rest
+    }
+
     let html: string
     try {
-      html = await renderMarkdown(page.bodyRaw, {
+      html = await renderMarkdown(bodyForRender, {
         vaultIndex,
         urlMap,
         imageIndex,
         imageExporter,
-        currentUrl: page.url,
+        currentUrl: page.url!,
         warnings,
         backlinks,
         tagLists,
@@ -90,7 +110,7 @@ async function main() {
     const prev = existed ? fs.readFileSync(outFile, 'utf8') : null
     if (prev !== vueSfc) {
       fs.writeFileSync(outFile, vueSfc, 'utf8')
-      ;(existed ? changed : added).push(page.url)
+      ;(existed ? changed : added).push(page.url!)
     }
   }
 
@@ -130,7 +150,8 @@ async function main() {
     sortKey: p.sortKey,
     chapter: p.chapter,
     banner: p.banner,
-    backlinks: [...(backlinks.get(p.url) ?? [])],
+    backlinks: p.url ? [...(backlinks.get(p.url) ?? [])] : [],
+    isVirtual: p.isVirtual,
   }))
 
   const manifest: Manifest = {

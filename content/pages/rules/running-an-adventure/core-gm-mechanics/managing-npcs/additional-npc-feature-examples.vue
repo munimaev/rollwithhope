@@ -1,6 +1,5 @@
 <template>
 <div class="prose" data-chapter="3" data-section="rules">
-<p><figure class="illustration" style="--dh-img-width:100%"><img src="/rollwithhope/images/media/additionalNpcFeatureExamples-1dy7kt8.webp" width="1600" height="533" loading="lazy" alt="additionalNpcFeatureExamples.webp" /></figure></p>
 <blockquote>
 <p>[!example]  Град стрел
 <strong>Триггер:</strong> начинается сражение, в котором участвует этот персонаж мастера.</p>

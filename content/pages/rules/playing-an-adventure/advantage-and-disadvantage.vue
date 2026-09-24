@@ -1,6 +1,5 @@
 <template>
 <div class="prose" data-chapter="2" data-section="rules">
-<p><figure class="illustration" style="--dh-img-width:100%"><img src="/rollwithhope/images/media/advantageAndDisaadvantage-1cb66fi.webp" width="1600" height="533" loading="lazy" alt="advantageAndDisaadvantage.webp" /></figure></p>
 <p>Некоторые свойства позволяют вам совершать бросок действия или реакции с преимуществом или помехой.</p>
 <p>🔸 <strong>Преимущество</strong> отражает благоприятную возможность, которой вы пользуетесь, чтобы увеличить свои шансы на успех. Когда вы бросаете с преимуществом, вы добавляете к результату кость преимущества d6.</p>
 <p>🔸 <strong>Помеха</strong> представляет собой дополнительную сложность, затруднение или проблему, с которой вы сталкиваетесь при попытке совершить действие. Когда вы совершаете бросок с помехой, вы вычитаете кубик помехи d6 из результата.</p>

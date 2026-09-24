@@ -1,6 +1,5 @@
 <template>
 <div class="prose" data-chapter="2" data-section="rules">
-<p><figure class="illustration" style="--dh-img-width:100%"><img src="/rollwithhope/images/media/lightFrameWheelchairr-xyypd5.webp" width="1600" height="533" loading="lazy" alt="lightFrameWheelchairr.webp" /></figure></p>
 <p>Боевая инвалидная коляска — это набор правил, позволяющий вам отыграть персонажа, использующего коляску. В этом разделе описаны механики и руководства по нарративному описанию, от которых вы можете отталкиваться, но вы вольны адаптировать художественное описание так, чтобы оно наилучшим образом соответствовало вашему персонажу. Не стесняйтесь добавлять индивидуальности дизайну коляски и сделайте её настолько уникальной и отражающей личность вашего героя, насколько захотите.</p>
 <h5 id="действия-и-передвижение"><span class="marker" data-marker="minor"></span>Действия и передвижение<a class="anchor" href="#действия-и-передвижение" aria-label="Ссылка на раздел"></a></h5>
 <p>Вот как вы можете описывать перемещение своего персонажа:</p>
@@ -78,7 +77,7 @@
 </tr>
 </tbody>
 </table></div>
-<p><strong>Модели с тяжёлым каркасом</strong><figure class="illustration" style="--dh-img-width:100%"><img src="/rollwithhope/images/media/heavyFrameWheelchairr-bj9048.webp" width="1600" height="533" loading="lazy" alt="heavyFrameWheelchairr.webp" /></figure></p>
+<p><strong>Модели с тяжёлым каркасом</strong><figure class="illustration" style="--dh-img-width:100%"><img src="/rollwithhope/images/Banners/Core rules/heavyFrameWheelchairr.webp" width="1600" height="533" loading="lazy" alt="heavyFrameWheelchairr.webp" /></figure></p>
 <p>Эти коляски обладают массивной, утяжелённой конструкцией, что позволяет использовать вес кресла в атаках персонажа. Однако это делает их более лёгкой целью.</p>
 <div class="table-wrap"><table>
 <thead>
@@ -137,7 +136,7 @@
 </tbody>
 </table></div>
 <p><strong>Модели с магическим каркасом</strong>
-<figure class="illustration" style="--dh-img-width:100%"><img src="/rollwithhope/images/media/magicFrameWheelchairr-1eiti2a.webp" width="1600" height="535" loading="lazy" alt="magicFrameWheelchairr.webp" /></figure></p>
+<figure class="illustration" style="--dh-img-width:100%"><img src="/rollwithhope/images/Banners/Core rules/magicFrameWheelchairr.webp" width="1600" height="535" loading="lazy" alt="magicFrameWheelchairr.webp" /></figure></p>
 <p>Эти коляски настроены на персонажа и его магию, позволяя направлять заклинания через само кресло. В отличие от других магических видов основного оружия, модель с магическим каркасом не требует конкретный атрибут для атак. Вместо этого вы используете атрибут магии, который указан в вашем подклассе.</p>
 <div class="table-wrap"><table>
 <thead>

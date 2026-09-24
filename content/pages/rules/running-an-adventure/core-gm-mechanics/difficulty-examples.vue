@@ -1,6 +1,5 @@
 <template>
 <div class="prose" data-chapter="3" data-section="rules">
-<p><figure class="illustration" style="--dh-img-width:100%"><img src="/rollwithhope/images/media/exampleDifficulty-1uxztzi.webp" width="1600" height="533" loading="lazy" alt="exampleDifficulty.webp" /></figure></p>
 <p>Ниже — примеры сложности для каждого атрибута. Не обязательно сверяться с ними во время игры: изучите заранее, чтобы понимать примерный уровень сложности, и затем свободно решайте на ходу, когда игроки описывают действия персонажей.</p>
 <h2 id="проворность"><span class="marker" data-marker="chapter"></span>Проворность<a class="anchor" href="#проворность" aria-label="Ссылка на раздел"></a></h2>
 <div class="table-wrap"><table>

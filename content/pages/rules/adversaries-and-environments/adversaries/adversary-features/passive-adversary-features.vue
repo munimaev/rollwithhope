@@ -1,6 +1,5 @@
 <template>
 <div class="prose" data-chapter="4" data-section="rules">
-<p><figure class="illustration" style="--dh-img-width:100%"><img src="/rollwithhope/images/media/adversaryPassives-98fvq1.webp" width="1600" height="533" loading="lazy" alt="adversaryPassives.webp" /></figure></p>
 <p>Пассивные свойства противника действуют при указанных обстоятельствах. Некоторые работают всегда — например, пассивное свойство «Мистическая форма» навсегда даёт противнику сопротивление к магическому урону. Другие автоматически срабатывают при выполнении определённого условия — например, пассивное свойство «Орда» уменьшает урон противника, как только количество полученных им Ран составляет более половины от максимума.</p>
 <blockquote>
 <p>[!example] Пример 1

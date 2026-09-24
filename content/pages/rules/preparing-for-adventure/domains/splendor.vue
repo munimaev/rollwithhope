@@ -1,6 +1,5 @@
 <template>
 <div class="prose" data-chapter="1" data-section="rules">
-<p><figure class="illustration" style="--dh-img-width:100%"><img src="/rollwithhope/images/media/bnrDomainSplendor-anh5cq.webp" width="1600" height="533" loading="lazy" alt="bnrDomainSplendor.webp" /></figure></p>
 <h4 id="карты-домена-по-уровню"><span class="marker" data-marker="chapter"></span>Карты домена по уровню<a class="anchor" href="#карты-домена-по-уровню" aria-label="Ссылка на раздел"></a></h4>
 <div class="table-wrap"><table>
 <thead>
@@ -11,11 +10,11 @@
 </thead>
 <tbody>
 <tr>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-splendor-1-bolt-beacon-skgwji-660.webp" src="/rollwithhope/images/cards/card-splendor-1-bolt-beacon-skgwji-330.webp" width="330" height="462" loading="lazy" alt="card-splendor-1-bolt-beacon.webp" /></figure></td>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-splendor-1-mending-touch-1k98o6s-660.webp" src="/rollwithhope/images/cards/card-splendor-1-mending-touch-1k98o6s-330.webp" width="330" height="462" loading="lazy" alt="card-splendor-1-mending-touch.webp" /></figure></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Domains/Splendor/card-splendor-1-bolt-beacon-660.webp" src="/rollwithhope/images/Cards/Domains/Splendor/card-splendor-1-bolt-beacon-330.webp" width="330" height="462" loading="lazy" alt="card-splendor-1-bolt-beacon.webp" /></figure></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Domains/Splendor/card-splendor-1-mending-touch-660.webp" src="/rollwithhope/images/Cards/Domains/Splendor/card-splendor-1-mending-touch-330.webp" width="330" height="462" loading="lazy" alt="card-splendor-1-mending-touch.webp" /></figure></td>
 </tr>
 <tr>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-splendor-1-reassurance-1ngaie8-660.webp" src="/rollwithhope/images/cards/card-splendor-1-reassurance-1ngaie8-330.webp" width="330" height="462" loading="lazy" alt="card-splendor-1-reassurance.webp" /></figure></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Domains/Splendor/card-splendor-1-reassurance-660.webp" src="/rollwithhope/images/Cards/Domains/Splendor/card-splendor-1-reassurance-330.webp" width="330" height="462" loading="lazy" alt="card-splendor-1-reassurance.webp" /></figure></td>
 <td></td>
 </tr>
 <tr>
@@ -23,72 +22,72 @@
 <td></td>
 </tr>
 <tr>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-splendor-2-healing-hands-6gv7fs-660.webp" src="/rollwithhope/images/cards/card-splendor-2-healing-hands-6gv7fs-330.webp" width="330" height="462" loading="lazy" alt="card-splendor-2-healing-hands.webp" /></figure></td>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-splendor-2-final-words-1ofeyyv-660.webp" src="/rollwithhope/images/cards/card-splendor-2-final-words-1ofeyyv-330.webp" width="330" height="462" loading="lazy" alt="card-splendor-2-final-words.webp" /></figure></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Domains/Splendor/card-splendor-2-healing-hands-660.webp" src="/rollwithhope/images/Cards/Domains/Splendor/card-splendor-2-healing-hands-330.webp" width="330" height="462" loading="lazy" alt="card-splendor-2-healing-hands.webp" /></figure></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Domains/Splendor/card-splendor-2-final-words-660.webp" src="/rollwithhope/images/Cards/Domains/Splendor/card-splendor-2-final-words-330.webp" width="330" height="462" loading="lazy" alt="card-splendor-2-final-words.webp" /></figure></td>
 </tr>
 <tr>
 <td><br><strong>🟢 Уровень 3</strong></td>
 <td></td>
 </tr>
 <tr>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-splendor-3-second-wind-rppkgn-660.webp" src="/rollwithhope/images/cards/card-splendor-3-second-wind-rppkgn-330.webp" width="330" height="462" loading="lazy" alt="card-splendor-3-second-wind.webp" /></figure></td>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-splendor-3-voice-of-reason-1inyux-660.webp" src="/rollwithhope/images/cards/card-splendor-3-voice-of-reason-1inyux-330.webp" width="330" height="462" loading="lazy" alt="card-splendor-3-voice-of-reason.webp" /></figure></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Domains/Splendor/card-splendor-3-second-wind-660.webp" src="/rollwithhope/images/Cards/Domains/Splendor/card-splendor-3-second-wind-330.webp" width="330" height="462" loading="lazy" alt="card-splendor-3-second-wind.webp" /></figure></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Domains/Splendor/card-splendor-3-voice-of-reason-660.webp" src="/rollwithhope/images/Cards/Domains/Splendor/card-splendor-3-voice-of-reason-330.webp" width="330" height="462" loading="lazy" alt="card-splendor-3-voice-of-reason.webp" /></figure></td>
 </tr>
 <tr>
 <td><br><strong>🟢 Уровень 4</strong></td>
 <td></td>
 </tr>
 <tr>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-splendor-4-life-ward-7f8gju-660.webp" src="/rollwithhope/images/cards/card-splendor-4-life-ward-7f8gju-330.webp" width="330" height="462" loading="lazy" alt="card-splendor-4-life-ward.webp" /></figure></td>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-splendor-4-divination-ls7gn2-660.webp" src="/rollwithhope/images/cards/card-splendor-4-divination-ls7gn2-330.webp" width="330" height="462" loading="lazy" alt="card-splendor-4-divination.webp" /></figure></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Domains/Splendor/card-splendor-4-life-ward-660.webp" src="/rollwithhope/images/Cards/Domains/Splendor/card-splendor-4-life-ward-330.webp" width="330" height="462" loading="lazy" alt="card-splendor-4-life-ward.webp" /></figure></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Domains/Splendor/card-splendor-4-divination-660.webp" src="/rollwithhope/images/Cards/Domains/Splendor/card-splendor-4-divination-330.webp" width="330" height="462" loading="lazy" alt="card-splendor-4-divination.webp" /></figure></td>
 </tr>
 <tr>
 <td><br><strong>🟢 Уровень 5</strong></td>
 <td></td>
 </tr>
 <tr>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-splendor-5-shape-material-1otaxnv-660.webp" src="/rollwithhope/images/cards/card-splendor-5-shape-material-1otaxnv-330.webp" width="330" height="462" loading="lazy" alt="card-splendor-5-shape-material.webp" /></figure></td>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-splendor-5-smite-ssn706-660.webp" src="/rollwithhope/images/cards/card-splendor-5-smite-ssn706-330.webp" width="330" height="462" loading="lazy" alt="card-splendor-5-smite.webp" /></figure></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Domains/Splendor/card-splendor-5-shape-material-660.webp" src="/rollwithhope/images/Cards/Domains/Splendor/card-splendor-5-shape-material-330.webp" width="330" height="462" loading="lazy" alt="card-splendor-5-shape-material.webp" /></figure></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Domains/Splendor/card-splendor-5-smite-660.webp" src="/rollwithhope/images/Cards/Domains/Splendor/card-splendor-5-smite-330.webp" width="330" height="462" loading="lazy" alt="card-splendor-5-smite.webp" /></figure></td>
 </tr>
 <tr>
 <td><br><strong>🟢 Уровень 6</strong></td>
 <td></td>
 </tr>
 <tr>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-splendor-6-restoration-1t4ll6f-660.webp" src="/rollwithhope/images/cards/card-splendor-6-restoration-1t4ll6f-330.webp" width="330" height="462" loading="lazy" alt="card-splendor-6-restoration.webp" /></figure></td>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-splendor-6-zone-of-protection-1qxjq0h-660.webp" src="/rollwithhope/images/cards/card-splendor-6-zone-of-protection-1qxjq0h-330.webp" width="330" height="462" loading="lazy" alt="card-splendor-6-zone-of-protection.webp" /></figure></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Domains/Splendor/card-splendor-6-restoration-660.webp" src="/rollwithhope/images/Cards/Domains/Splendor/card-splendor-6-restoration-330.webp" width="330" height="462" loading="lazy" alt="card-splendor-6-restoration.webp" /></figure></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Domains/Splendor/card-splendor-6-zone-of-protection-660.webp" src="/rollwithhope/images/Cards/Domains/Splendor/card-splendor-6-zone-of-protection-330.webp" width="330" height="462" loading="lazy" alt="card-splendor-6-zone-of-protection.webp" /></figure></td>
 </tr>
 <tr>
 <td><br><strong>🟢 Уровень 7</strong></td>
 <td></td>
 </tr>
 <tr>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-splendor-7-healing-strike-19j810b-660.webp" src="/rollwithhope/images/cards/card-splendor-7-healing-strike-19j810b-330.webp" width="330" height="462" loading="lazy" alt="card-splendor-7-healing-strike.webp" /></figure></td>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-splendor-7-splendor-touched-1h7vu5c-660.webp" src="/rollwithhope/images/cards/card-splendor-7-splendor-touched-1h7vu5c-330.webp" width="330" height="462" loading="lazy" alt="card-splendor-7-splendor-touched.webp" /></figure></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Domains/Splendor/card-splendor-7-healing-strike-660.webp" src="/rollwithhope/images/Cards/Domains/Splendor/card-splendor-7-healing-strike-330.webp" width="330" height="462" loading="lazy" alt="card-splendor-7-healing-strike.webp" /></figure></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Domains/Splendor/card-splendor-7-splendor-touched-660.webp" src="/rollwithhope/images/Cards/Domains/Splendor/card-splendor-7-splendor-touched-330.webp" width="330" height="462" loading="lazy" alt="card-splendor-7-splendor-touched.webp" /></figure></td>
 </tr>
 <tr>
 <td><br><strong>🟢 Уровень 8</strong></td>
 <td></td>
 </tr>
 <tr>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-splendor-8-shield-aura-9h3lbg-660.webp" src="/rollwithhope/images/cards/card-splendor-8-shield-aura-9h3lbg-330.webp" width="330" height="462" loading="lazy" alt="card-splendor-8-shield-aura.webp" /></figure></td>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-splendor-8-stunning-sunlight-3fz2ju-660.webp" src="/rollwithhope/images/cards/card-splendor-8-stunning-sunlight-3fz2ju-330.webp" width="330" height="462" loading="lazy" alt="card-splendor-8-stunning-sunlight.webp" /></figure></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Domains/Splendor/card-splendor-8-shield-aura-660.webp" src="/rollwithhope/images/Cards/Domains/Splendor/card-splendor-8-shield-aura-330.webp" width="330" height="462" loading="lazy" alt="card-splendor-8-shield-aura.webp" /></figure></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Domains/Splendor/card-splendor-8-stunning-sunlight-660.webp" src="/rollwithhope/images/Cards/Domains/Splendor/card-splendor-8-stunning-sunlight-330.webp" width="330" height="462" loading="lazy" alt="card-splendor-8-stunning-sunlight.webp" /></figure></td>
 </tr>
 <tr>
 <td><br><strong>🟢 Уровень 9</strong></td>
 <td></td>
 </tr>
 <tr>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-splendor-9-salvation-beam-139q8o3-660.webp" src="/rollwithhope/images/cards/card-splendor-9-salvation-beam-139q8o3-330.webp" width="330" height="462" loading="lazy" alt="card-splendor-9-salvation-beam.webp" /></figure></td>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-splendor-9-overwhelming-aura-1tn65z7-660.webp" src="/rollwithhope/images/cards/card-splendor-9-overwhelming-aura-1tn65z7-330.webp" width="330" height="462" loading="lazy" alt="card-splendor-9-overwhelming-aura.webp" /></figure></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Domains/Splendor/card-splendor-9-salvation-beam-660.webp" src="/rollwithhope/images/Cards/Domains/Splendor/card-splendor-9-salvation-beam-330.webp" width="330" height="462" loading="lazy" alt="card-splendor-9-salvation-beam.webp" /></figure></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Domains/Splendor/card-splendor-9-overwhelming-aura-660.webp" src="/rollwithhope/images/Cards/Domains/Splendor/card-splendor-9-overwhelming-aura-330.webp" width="330" height="462" loading="lazy" alt="card-splendor-9-overwhelming-aura.webp" /></figure></td>
 </tr>
 <tr>
 <td><br><strong>🟢 Уровень 10</strong></td>
 <td></td>
 </tr>
 <tr>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-splendor-10-resurrection-24n11l-660.webp" src="/rollwithhope/images/cards/card-splendor-10-resurrection-24n11l-330.webp" width="330" height="462" loading="lazy" alt="card-splendor-10-resurrection.webp" /></figure></td>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-splendor-10-invigoration-1s6pjil-660.webp" src="/rollwithhope/images/cards/card-splendor-10-invigoration-1s6pjil-330.webp" width="330" height="462" loading="lazy" alt="card-splendor-10-invigoration.webp" /></figure></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Domains/Splendor/card-splendor-10-resurrection-660.webp" src="/rollwithhope/images/Cards/Domains/Splendor/card-splendor-10-resurrection-330.webp" width="330" height="462" loading="lazy" alt="card-splendor-10-resurrection.webp" /></figure></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Domains/Splendor/card-splendor-10-invigoration-660.webp" src="/rollwithhope/images/Cards/Domains/Splendor/card-splendor-10-invigoration-330.webp" width="330" height="462" loading="lazy" alt="card-splendor-10-invigoration.webp" /></figure></td>
 </tr>
 </tbody>
 </table></div>

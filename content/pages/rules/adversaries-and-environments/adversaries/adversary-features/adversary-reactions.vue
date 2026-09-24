@@ -1,6 +1,5 @@
 <template>
 <div class="prose" data-chapter="4" data-section="rules">
-<p><figure class="illustration" style="--dh-img-width:100%"><img src="/rollwithhope/images/media/adversaryReactions-7wbhs5.webp" width="1600" height="533" loading="lazy" alt="adversaryReactions.webp" /></figure></p>
 <p>Реакции противника срабатывают только тогда, когда происходит определённое условие (например, получение урона или получение определённого количества Ран). Когда условие выполняется, вы можете немедленно использовать реакцию без траты Страха и без перехвата инициативы у персонажей игроков, если не сказано иначе.</p>
 <blockquote>
 <p>[!example] Примеры реакций

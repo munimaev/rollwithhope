@@ -1,6 +1,5 @@
 <template>
 <div class="prose" data-chapter="2" data-section="rules">
-<p><figure class="illustration" style="--dh-img-width:100%"><img src="/rollwithhope/images/media/recomendationForPlayers-1lb94tl.webp" width="1600" height="533" loading="lazy" alt="recomendationForPlayers.webp" /></figure></p>
 <p>В этом разделе собраны рекомендации для игроков о том, как получить максимальную отдачу от Daggerheart! Когда вы будете рассматривать эти рекомендации, помните о разделе «Принципы игрока» во введении к этой книге.</p>
 <p>🔸 Примите опасность
 🔸 Используйте свои ресурсы

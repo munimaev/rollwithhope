@@ -1,9 +1,8 @@
 <template>
 <div class="prose" data-chapter="1" data-section="rules">
-<p><figure class="card-placeholder" style="aspect-ratio:2172/724" aria-label="Изображение пока не опубликовано"></figure></p>
 <p>Во время создания персонажа и по мере повышения его уровня вы будете получать все более мощные карточки доменов, которые предоставляют свойства, которые вы можете использовать во время своих приключений.</p>
 <p>Некоторые карточки доменов предоставляют вам ходы, которые вы можете совершать, такие как уникальная атака или заклинание. Другие дают пассивные эффекты (они действуют всегда, пока эта карточка у вас на руке), новые способности для использования во время привала или социальных столкновений, или даже одноразовые эффекты.</p>
-<p><figure class="illustration" style="--dh-img-width:100%"><img src="/rollwithhope/images/media/readingDomainCards-1u2uqjd.webp" width="1600" height="532" loading="lazy" alt="readingDomainCards.webp" /></figure>
+<p><figure class="illustration" style="--dh-img-width:100%"><img src="/rollwithhope/images/Illustration/Domains/readingDomainCards.webp" width="1600" height="532" loading="lazy" alt="readingDomainCards.webp" /></figure>
 Каждая карточка домена включает в себя пять элементов:</p>
 <ol>
 <li>

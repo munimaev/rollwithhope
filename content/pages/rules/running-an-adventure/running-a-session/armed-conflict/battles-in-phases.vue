@@ -1,6 +1,5 @@
 <template>
 <div class="prose" data-chapter="3" data-section="rules">
-<p><figure class="illustration" style="--dh-img-width:100%"><img src="/rollwithhope/images/media/phasedBattles-nzxl8h.webp" width="1600" height="533" loading="lazy" alt="phasedBattles.webp" /></figure></p>
 <p>Бои становятся запоминающимися, когда природа противников или границы пространства меняются прямо посреди столкновения — такие фазы создают ощущение эволюции и эскалации, усиливая напряжение.</p>
 <p>Вот несколько способов ввести фазы в бой.</p>
 <h2 id="измените-условия-столкновения"><span class="marker" data-marker="chapter"></span>Измените условия столкновения<a class="anchor" href="#измените-условия-столкновения" aria-label="Ссылка на раздел"></a></h2>

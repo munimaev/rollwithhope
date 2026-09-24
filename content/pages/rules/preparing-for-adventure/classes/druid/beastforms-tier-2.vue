@@ -3,18 +3,18 @@
 <div class="table-wrap"><table>
 <thead>
 <tr>
-<th><figure><img data-lightbox data-full="/rollwithhope/images/cards/beastform-2-armored-sentry-1t0gpmm-660.webp" src="/rollwithhope/images/cards/beastform-2-armored-sentry-1t0gpmm-330.webp" width="330" height="462" loading="lazy" alt="beastform-2-armored-sentry.webp" /></figure></th>
-<th><figure><img data-lightbox data-full="/rollwithhope/images/cards/beastform-2-powerful-beast-kprhfm-660.webp" src="/rollwithhope/images/cards/beastform-2-powerful-beast-kprhfm-330.webp" width="330" height="462" loading="lazy" alt="beastform-2-powerful-beast.webp" /></figure></th>
+<th><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Beastform/beastform-2-armored-sentry-660.webp" src="/rollwithhope/images/Cards/Beastform/beastform-2-armored-sentry-330.webp" width="330" height="462" loading="lazy" alt="beastform-2-armored-sentry.webp" /></figure></th>
+<th><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Beastform/beastform-2-powerful-beast-660.webp" src="/rollwithhope/images/Cards/Beastform/beastform-2-powerful-beast-330.webp" width="330" height="462" loading="lazy" alt="beastform-2-powerful-beast.webp" /></figure></th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/beastform-2-mighty-strider-1ayi8vy-660.webp" src="/rollwithhope/images/cards/beastform-2-mighty-strider-1ayi8vy-330.webp" width="330" height="462" loading="lazy" alt="beastform-2-mighty-strider.webp" /></figure><br></td>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/beastform-2-winged-beast-1bvjlps-660.webp" src="/rollwithhope/images/cards/beastform-2-winged-beast-1bvjlps-330.webp" width="330" height="462" loading="lazy" alt="beastform-2-winged-beast.webp" /></figure><br></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Beastform/beastform-2-mighty-strider-660.webp" src="/rollwithhope/images/Cards/Beastform/beastform-2-mighty-strider-330.webp" width="330" height="462" loading="lazy" alt="beastform-2-mighty-strider.webp" /></figure><br></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Beastform/beastform-2-winged-beast-660.webp" src="/rollwithhope/images/Cards/Beastform/beastform-2-winged-beast-330.webp" width="330" height="462" loading="lazy" alt="beastform-2-winged-beast.webp" /></figure><br></td>
 </tr>
 <tr>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/beastform-2-striking-serpent-1bbmr67-660.webp" src="/rollwithhope/images/cards/beastform-2-striking-serpent-1bbmr67-330.webp" width="330" height="462" loading="lazy" alt="beastform-2-striking-serpent.webp" /></figure><br></td>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/cards/beastform-2-pouncing-predator-11bqlx7-660.webp" src="/rollwithhope/images/cards/beastform-2-pouncing-predator-11bqlx7-330.webp" width="330" height="462" loading="lazy" alt="beastform-2-pouncing-predator.webp" /></figure><br></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Beastform/beastform-2-striking-serpent-660.webp" src="/rollwithhope/images/Cards/Beastform/beastform-2-striking-serpent-330.webp" width="330" height="462" loading="lazy" alt="beastform-2-striking-serpent.webp" /></figure><br></td>
+<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Beastform/beastform-2-pouncing-predator-660.webp" src="/rollwithhope/images/Cards/Beastform/beastform-2-pouncing-predator-330.webp" width="330" height="462" loading="lazy" alt="beastform-2-pouncing-predator.webp" /></figure><br></td>
 </tr>
 </tbody>
 </table></div>

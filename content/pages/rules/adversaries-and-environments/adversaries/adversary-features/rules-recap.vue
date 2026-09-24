@@ -1,6 +1,5 @@
 <template>
 <div class="prose" data-chapter="4" data-section="rules">
-<p><figure class="illustration" style="--dh-img-width:100%"><img src="/rollwithhope/images/media/returningRules-17csfpx.webp" width="1600" height="533" loading="lazy" alt="returningRules.webp" /></figure></p>
 <p>Этот раздел повторяет несколько правил из предыдущих глав, которые полезно помнить при игре за противников.</p>
 <h4 id="цели-и-группы"><span class="marker" data-marker="chapter"></span>Цели и группы<a class="anchor" href="#цели-и-группы" aria-label="Ссылка на раздел"></a></h4>
 <p>Часто эффект требует выбрать цель в пределах дистанции — тогда выбирается одно существо. Если это имеет смысл по сюжету, можно уточнить у мастера, нельзя ли вместо противника выбрать целью объект в пределах дистанции, скорректировав эффект.</p>

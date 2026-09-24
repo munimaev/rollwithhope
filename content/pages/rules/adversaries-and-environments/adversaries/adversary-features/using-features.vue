@@ -1,6 +1,5 @@
 <template>
 <div class="prose" data-chapter="4" data-section="rules">
-<p><figure class="illustration" style="--dh-img-width:100%"><img src="/rollwithhope/images/media/adversaryFeatures-1gy76js.webp" width="1600" height="533" loading="lazy" alt="adversaryFeatures.webp" /></figure></p>
 <p>В нижней части блока параметров перечислены свойства противника. Свойства бывают трёх видов: действия, реакции и пассивные. Ниже описаны правила и примеры их применения.</p>
 <blockquote>
 <p>[!tip] Совет
