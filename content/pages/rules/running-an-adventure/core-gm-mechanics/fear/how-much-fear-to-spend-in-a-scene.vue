@@ -1,0 +1,68 @@
+<template>
+<div class="prose" data-chapter="3" data-section="rules">
+<p><figure class="illustration" style="--dh-img-width:100%"><img src="/rollwithhope/images/media/howMuchFearShouldISpend-1vdzgym.webp" width="1600" height="533" loading="lazy" alt="howMuchFearShouldISpend.webp" /></figure></p>
+<p>Трата Страха — один из главных инструментов мастера для последствий и напряжения. Не каждая сцена требует одинакового драматизма: чем важнее сцена для сюжета, тем больше оснований тратить Страх, чтобы усложнить жизнь персонажам и поднять ставки.</p>
+<p>Регулируйте напряжение количеством потраченного Страха — больше для нагнетания, меньше для передышки. Можно удивить игроков неожиданной тратой Страха, превратив с виду незначительную сцену в опасную, или потратить немного в начале сцены, чтобы обозначить серьёзность происходящего, а затем либо тратить по мере накопления, либо сохранить Страх для важных сцен впереди.</p>
+<p>Вот примерное руководство, сколько Страха вы можете захотеть потратить в сцене в зависимости от её роли в сюжете:</p>
+<blockquote>
+<p>[!example]+ Второстепенная сцена
+<strong>Траты Страха:</strong> от <span style="background:#7050A0; padding:2px 8px; border-radius:4px; color: #fff; size:small;font-family: monospace;">0 💀</span> до <span style="background:#7050A0; padding:2px 8px; border-radius:4px; color: #fff; size:small;font-family: monospace;">1 💀</span></p>
+<p><strong>Примеры сцен:</strong></p>
+<ul>
+<li>разговор персонажей после эмоциональной сцены</li>
+<li>сбор информации</li>
+<li>пополнение припасов на рынке</li>
+<li>отдых во время привала</li>
+</ul>
+</blockquote>
+<blockquote>
+<p>[!example]+ Незначительная сцена
+<strong>Траты Страха:</strong> от <span style="background:#7050A0; padding:2px 8px; border-radius:4px; color: #fff; size:small;font-family: monospace;">1 💀</span> до <span style="background:#7050A0; padding:2px 8px; border-radius:4px; color: #fff; size:small;font-family: monospace;">3 💀</span></p>
+<p><strong>Примеры сцен:</strong></p>
+<ul>
+<li>путешествие</li>
+<li>небольшая стычка, представляющая новых врагов или намекающая на будущую угрозу</li>
+</ul>
+</blockquote>
+<blockquote>
+<p>[!example]+ Обычная сцена
+<strong>Траты Страха:</strong> от <span style="background:#7050A0; padding:2px 8px; border-radius:4px; color: #fff; size:small;font-family: monospace;">2 💀</span> до <span style="background:#7050A0; padding:2px 8px; border-radius:4px; color: #fff; size:small;font-family: monospace;">4 💀</span></p>
+<p><strong>Примеры сцен:</strong></p>
+<ul>
+<li>полноценный бой с важной целью</li>
+<li>опасное путешествие, бросающее вызов силе и смекалке</li>
+<li>напряжённая социальная сцена для получения важной информации или помощи</li>
+</ul>
+</blockquote>
+<blockquote>
+<p>[!example]+ Серьёзная сцена
+<strong>Траты Страха:</strong> от <span style="background:#7050A0; padding:2px 8px; border-radius:4px; color: #fff; size:small;font-family: monospace;">4 💀</span> до <span style="background:#7050A0; padding:2px 8px; border-radius:4px; color: #fff; size:small;font-family: monospace;">8 💀</span></p>
+<p><strong>Примеры сцен:</strong></p>
+<ul>
+<li>большое сражение с Одиночкой или Лидером</li>
+<li>сцена, переопределяющая характер персонажа и вносящая значительные изменения в его личную историю (например, откровение, рост, предательство).</li>
+</ul>
+</blockquote>
+<blockquote>
+<p>[!example]+ Кульминационная сцена
+<strong>Траты Страха:</strong> от <span style="background:#7050A0; padding:2px 8px; border-radius:4px; color: #fff; size:small;font-family: monospace;">6 💀</span> до <span style="background:#7050A0; padding:2px 8px; border-radius:4px; color: #fff; size:small;font-family: monospace;">12 💀</span>
+<strong>Примеры сцен:</strong></p>
+<ul>
+<li>финальное противостояние с антагонистом сюжетной арки</li>
+<li>эпическая запланированная битва</li>
+<li>судебный поединок, определяющий судьбу значимого персонажа мастера.</li>
+</ul>
+</blockquote>
+<h2 id="что-делать-со-всем-этим-страхом"><span class="marker" data-marker="chapter"></span>Что делать со всем этим Страхом?<a class="anchor" href="#что-делать-со-всем-этим-страхом" aria-label="Ссылка на раздел"></a></h2>
+<p>Если вы вступаете в бой с большим запасом Страха (особенно больше 10), рассмотрите следующие подходы:</p>
+<h4 id="ударить-первым"><span class="marker" data-marker="minor"></span>Ударить первым<a class="anchor" href="#ударить-первым" aria-label="Ссылка на раздел"></a></h4>
+<p>Потратьте 1 Страх сразу же, чтобы прервать персонажей игроков и активировать противника, начиная бой.</p>
+<h4 id="тратить-последовательно"><span class="marker" data-marker="minor"></span>Тратить последовательно<a class="anchor" href="#тратить-последовательно" aria-label="Ссылка на раздел"></a></h4>
+<p>В свою очередь совершайте ход мастера, а затем тратьте 1 Страх на дополнительный ход. Страх, полученный с броска персонажа, тоже тратьте — на дополнительный ход или свойство Страха. Запас будет истощаться медленно, но каждая ваша очередь будет ощутимо сильной.</p>
+<h4 id="начать-мощно"><span class="marker" data-marker="minor"></span>Начать мощно<a class="anchor" href="#начать-мощно" aria-label="Ссылка на раздел"></a></h4>
+<p>Потратьте достаточно Страха, чтобы активировать большинство противников за первую же очередь. Масштабный ход застаёт персонажей врасплох в начале боя — и даёт им потом почувствовать, что они переламывают сражение в свою пользу.</p>
+<h4 id="пустить-первую-кровь"><span class="marker" data-marker="minor"></span>Пустить первую кровь<a class="anchor" href="#пустить-первую-кровь" aria-label="Ссылка на раздел"></a></h4>
+<p>Каждый раз, когда противник промахивается, тратьте 1 Страх, чтобы активировать следующего — и так, пока кто-то не попадёт по персонажу. Это делает вашу очередь динамичной, даже если первая атака не удалась.</p>
+<hr>
+</div>
+</template>

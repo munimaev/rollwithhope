@@ -1,0 +1,16 @@
+/* extra.css — то немногое, чего нет в дизайн-системе templates/ (сама она не знает про
+   вставки sync — картинки с явным |N, плейсхолдеры исключённых карт). Слой components,
+   чтобы наследовать токены, но не спорить приоритетом с bundle.css дизайн-системы. */
+@layer components {
+  .illustration {
+    inline-size: var(--dh-img-width, 100%);
+  }
+
+  .card-placeholder {
+    margin: 0; padding: 6px; background: var(--dh-card-mat); border: var(--dh-border-hair) solid var(--dh-card-edge);
+    border-radius: calc(var(--dh-radius-lg) + 6px); box-shadow: var(--dh-shadow-card);
+    display: grid; place-items: center; color: var(--dh-color-text-subtle); font-size: var(--dh-text-sm);
+  }
+
+  .dataviewjs-block td a { font-weight: 600; }
+}

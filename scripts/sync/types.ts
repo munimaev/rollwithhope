@@ -34,6 +34,8 @@ export interface ResolvedPage {
   isIndex: boolean
   parentId: string | null
   sortKey: string
+  /** 0 — нейтральный (Introduction/Appendix), 1–5 — цвет главы книги (по префиксу пути в хранилище). */
+  chapter: number
   banner: string | null
   backlinks: string[]
 }

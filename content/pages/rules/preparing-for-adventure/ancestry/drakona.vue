@@ -1,0 +1,14 @@
+<template>
+<div class="prose" data-chapter="1" data-section="rules">
+<p><figure class="illustration" style="--dh-img-width:100%"><img src="/rollwithhope/images/media/ancestryDracona-19hgwou.webp" width="1600" height="533" loading="lazy" alt="ancestryDracona.webp" /></figure></p>
+<h2 id="описание"><span class="marker" data-marker="chapter"></span>Описание<a class="anchor" href="#описание" aria-label="Ссылка на раздел"></a></h2>
+<p>Дракониды — это гуманоиды, похожие на бескрылых драконов, обладающие мощным стихийным дыханием. Все дракониды покрыты толстой чешуёй, которая обеспечивают отличную естественную защиту как от физических атак, так и от природных воздействий. Их рост в среднем составляет от 5 до 7 футов, и они отличаются крупным телосложением и длинными острыми зубами. Новые зубы у драконидов отрастают на протяжении всей их жизни, которая длится примерно 350 лет, поэтому они никогда не боятся потерять резец. В отличие от своих драконьих предков, дракониды не имеют крыльев и не способны летать без помощи магии. Стихийное дыхание передаётся по наследству, хотя в редких случаях у драконида может проявиться иная стихия, чем у его семьи.</p>
+<h4 id="свойства-происхождения"><span class="marker" data-marker="minor"></span>Свойства происхождения<a class="anchor" href="#свойства-происхождения" aria-label="Ссылка на раздел"></a></h4>
+<p><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-dracona-6bc84q-660.webp" src="/rollwithhope/images/cards/card-dracona-6bc84q-330.webp" width="330" height="462" loading="lazy" alt="card-dracona.webp" /></figure></p>
+<h6 id="чешуя-scales">Чешуя - Scales<a class="anchor" href="#чешуя-scales" aria-label="Ссылка на раздел"></a></h6>
+<p>Ваша чешуя обеспечивает естественную защиту. При получении тяжёлого урона вы можете <strong>получить Стресс</strong>, чтобы получить на 1 Рану меньше.</p>
+<h6 id="стихийное-дыхание-elemental-breath">Стихийное дыхание - Elemental Breath<a class="anchor" href="#стихийное-дыхание-elemental-breath" aria-label="Ссылка на раздел"></a></h6>
+<p>Выберите элемент для своего дыхания (например, электричество, огонь или лёд). Вы можете использовать его как оружие (Чутьё, одна цель или группа целей, ближняя дистанция, <strong>d8</strong> маг урона), используя вашу сноровку.</p>
+<hr>
+</div>
+</template>

@@ -1,0 +1,8 @@
+/* Точка входа стилей: дизайн-система DaggerHeart · Правила.
+   Шрифты — самохостинг через @fontsource-variable (см. main.ts), не templates/css/fonts.css (Google Fonts). */
+@import './tokens.css';
+@import './base.css';
+@import './prose.css';
+@import './components.css';
+@import './extra.css';
+@import './utilities.css';

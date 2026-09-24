@@ -1,0 +1,102 @@
+/* base.css — reset, каркас документа, подключение цвета главы и раздела.
+   Слои: reset → tokens → base → prose → components → utilities (порядок объявлен в tokens.css). */
+
+@layer reset {
+  *, *::before, *::after { box-sizing: border-box; }
+  html { -webkit-text-size-adjust: 100%; text-size-adjust: 100%; tab-size: 4; }
+  body, h1, h2, h3, h4, h5, h6, p, figure, blockquote, dl, dd, ul, ol, pre { margin: 0; }
+  ul, ol { padding: 0; }
+  img, svg, video, canvas { display: block; max-inline-size: 100%; }
+  img, video { block-size: auto; }
+  button, input, select, textarea { font: inherit; color: inherit; letter-spacing: inherit; }
+  button { cursor: pointer; }
+  table { border-collapse: collapse; border-spacing: 0; }
+  hr { border: 0; margin-inline: 0; }
+  [hidden] { display: none !important; }
+}
+
+@layer tokens {
+  /* Шрифты: два семейства, оба с полной кириллицей, курсивом и жирным (SIL OFL). */
+  :root {
+    --dh-font-display: "Alegreya", "Iowan Old Style", "Palatino Linotype", Georgia, serif;
+    --dh-font-text: "Literata", "Iowan Old Style", Georgia, "Times New Roman", serif;
+  }
+
+  /* Цвет главы: страница выставляет data-chapter="1…5"; без него — нейтральный.
+     Один стиль, разные значения. Все оттенки зависят от темы через токены dh-chN-*. */
+  :root, [data-theme]:not([data-chapter]) {
+    --dh-chapter: var(--dh-ch0); --dh-chapter-bright: var(--dh-ch0-bright); --dh-chapter-strong: var(--dh-ch0-strong);
+    --dh-chapter-soft: var(--dh-ch0-soft); --dh-chapter-ink: var(--dh-ch0-ink); --dh-chapter-on: var(--dh-ch0-on);
+  }
+  [data-chapter="0"] {
+    --dh-chapter: var(--dh-ch0); --dh-chapter-bright: var(--dh-ch0-bright); --dh-chapter-strong: var(--dh-ch0-strong);
+    --dh-chapter-soft: var(--dh-ch0-soft); --dh-chapter-ink: var(--dh-ch0-ink); --dh-chapter-on: var(--dh-ch0-on);
+  }
+  [data-chapter="1"] {
+    --dh-chapter: var(--dh-ch1); --dh-chapter-bright: var(--dh-ch1-bright); --dh-chapter-strong: var(--dh-ch1-strong);
+    --dh-chapter-soft: var(--dh-ch1-soft); --dh-chapter-ink: var(--dh-ch1-ink); --dh-chapter-on: var(--dh-ch1-on);
+  }
+  [data-chapter="2"] {
+    --dh-chapter: var(--dh-ch2); --dh-chapter-bright: var(--dh-ch2-bright); --dh-chapter-strong: var(--dh-ch2-strong);
+    --dh-chapter-soft: var(--dh-ch2-soft); --dh-chapter-ink: var(--dh-ch2-ink); --dh-chapter-on: var(--dh-ch2-on);
+  }
+  [data-chapter="3"] {
+    --dh-chapter: var(--dh-ch3); --dh-chapter-bright: var(--dh-ch3-bright); --dh-chapter-strong: var(--dh-ch3-strong);
+    --dh-chapter-soft: var(--dh-ch3-soft); --dh-chapter-ink: var(--dh-ch3-ink); --dh-chapter-on: var(--dh-ch3-on);
+  }
+  [data-chapter="4"] {
+    --dh-chapter: var(--dh-ch4); --dh-chapter-bright: var(--dh-ch4-bright); --dh-chapter-strong: var(--dh-ch4-strong);
+    --dh-chapter-soft: var(--dh-ch4-soft); --dh-chapter-ink: var(--dh-ch4-ink); --dh-chapter-on: var(--dh-ch4-on);
+  }
+  [data-chapter="5"] {
+    --dh-chapter: var(--dh-ch5); --dh-chapter-bright: var(--dh-ch5-bright); --dh-chapter-strong: var(--dh-ch5-strong);
+    --dh-chapter-soft: var(--dh-ch5-soft); --dh-chapter-ink: var(--dh-ch5-ink); --dh-chapter-on: var(--dh-ch5-on);
+  }
+
+  /* Оттенок раздела сайта: data-section="rules|adversaries|environments|campaigns". */
+  :root, [data-theme]:not([data-section]) {
+    --dh-section: var(--dh-section-rules); --dh-section-soft: var(--dh-section-rules-soft); --dh-section-ink: var(--dh-section-rules-ink);
+  }
+  [data-section="rules"] { --dh-section: var(--dh-section-rules); --dh-section-soft: var(--dh-section-rules-soft); --dh-section-ink: var(--dh-section-rules-ink); }
+  [data-section="adversaries"] { --dh-section: var(--dh-section-adversaries); --dh-section-soft: var(--dh-section-adversaries-soft); --dh-section-ink: var(--dh-section-adversaries-ink); }
+  [data-section="environments"] { --dh-section: var(--dh-section-environments); --dh-section-soft: var(--dh-section-environments-soft); --dh-section-ink: var(--dh-section-environments-ink); }
+  [data-section="campaigns"] { --dh-section: var(--dh-section-campaigns); --dh-section-soft: var(--dh-section-campaigns-soft); --dh-section-ink: var(--dh-section-campaigns-ink); }
+}
+
+@layer base {
+  [data-theme="light"] { color-scheme: light; }
+  [data-theme="dark"] { color-scheme: dark; }
+
+  html { scroll-padding-block-start: calc(var(--dh-header-h) + var(--dh-space-4)); }
+
+  body {
+    background: var(--dh-color-bg);
+    color: var(--dh-color-text);
+    font-family: var(--dh-font-text);
+    font-size: var(--dh-text-base);
+    line-height: var(--dh-leading-body);
+    font-optical-sizing: auto;
+    font-kerning: normal;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+    overflow-wrap: break-word;
+  }
+
+  a { color: var(--dh-color-link); text-underline-offset: .18em; text-decoration-thickness: .08em; }
+  a:hover { color: var(--dh-color-link-hover); }
+
+  ::selection { background: var(--dh-color-selection-bg); color: var(--dh-color-selection-text); }
+
+  /* Фокус: сплошное кольцо 3px с отступом 2px. Работает на любой поверхности (см. usage у dh-color-focus). */
+  :focus-visible { outline: 3px solid var(--dh-color-focus); outline-offset: 2px; border-radius: var(--dh-radius-xs); }
+  :focus:not(:focus-visible) { outline: none; }
+
+  /* Полосы прокрутки: тонкие, тёплые. */
+  * { scrollbar-width: thin; scrollbar-color: var(--dh-color-border-strong) transparent; }
+  ::-webkit-scrollbar { inline-size: .75rem; block-size: .75rem; }
+  ::-webkit-scrollbar-track { background: transparent; }
+  ::-webkit-scrollbar-thumb { background: var(--dh-color-border-strong); border-radius: var(--dh-radius-pill); border: 3px solid transparent; background-clip: content-box; }
+  ::-webkit-scrollbar-thumb:hover { background-color: var(--dh-color-text-muted); }
+
+  .dh-desk { background-color: var(--dh-color-bg); }
+}

@@ -4,13 +4,13 @@ import { useRoute, useRouter } from 'vue-router'
 import HomeTopBar from './components/HomeTopBar.vue'
 import SidebarMenu from './components/SidebarMenu.vue'
 import CardLightbox from './components/CardLightbox.vue'
+import { tocState } from './composables/useToc'
 import { shouldInterceptClick } from './router/linkInterception'
 
 const route = useRoute()
 const router = useRouter()
 const isHomeRoute = computed(() => route.name === 'home' || route.meta.homeLayout === true)
 
-// Внутренние ссылки по всему приложению ...
 function onDocumentClick(e: MouseEvent) {
   const anchor = (e.target as HTMLElement | null)?.closest?.('a')
   const href = anchor?.getAttribute('href')
@@ -33,38 +33,26 @@ onBeforeUnmount(() => document.removeEventListener('click', onDocumentClick))
     <router-view />
   </template>
 
-  <div v-else class="site-shell">
+  <div v-else class="app-shell">
     <HomeTopBar />
-    <div class="layout">
-      <SidebarMenu />
-      <main class="content" data-pagefind-body>
+    <div class="app-main">
+      <nav class="app-col-side app-col-tree app-col-side--sticky">
+        <SidebarMenu />
+      </nav>
+      <main class="app-col-main" data-pagefind-body>
         <router-view />
       </main>
+      <aside class="app-col-side app-col-toc app-col-side--sticky" v-if="tocState.items.length">
+        <nav class="toc" aria-label="На этой странице">
+          <p class="toc-title">На этой странице</p>
+          <ol>
+            <li v-for="t in tocState.items" :key="t.id">
+              <a :href="`#${t.id}`" :aria-current="t.id === tocState.activeId ? 'true' : undefined">{{ t.text }}</a>
+            </li>
+          </ol>
+        </nav>
+      </aside>
     </div>
   </div>
   <CardLightbox v-if="!isHomeRoute" />
 </template>
-
-<style>
-.site-shell {
-  min-height: 100vh;
-  background: linear-gradient(90deg, rgba(255,255,255,.35), transparent 10%, transparent 90%, rgba(255,255,255,.25)), var(--paper, #f5edd9);
-}
-
-.layout {
-  display: grid;
-  grid-template-columns: 320px minmax(0, 1fr);
-  max-width: 1500px;
-  margin: 0 auto;
-}
-
-.content {
-  padding: 28px 28px 80px;
-  width: 100%;
-}
-
-@media (max-width: 760px) {
-  .layout { display: block; }
-  .content { padding: 20px 16px 50px; }
-}
-</style>

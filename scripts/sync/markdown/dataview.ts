@@ -34,7 +34,10 @@ export function remarkDataview(byTag: Map<string, TagRef[]>) {
           .join('')
         rows.push(`<tr>${cells}</tr>`)
       }
-      const html = `<table class="dh-tag-table dh-tag-table-${tag}"><tbody>${rows.join('')}</tbody></table>`
+      // Паттерн «dataviewjs-block» (см. .claude/skills/sync-content/patterns.md) — обобщённая
+      // теговая таблица ссылок, не только для #ancestry, для любого тега из tagLists.
+      // <table> без обёртки — pipeline.ts заворачивает все таблицы в .table-wrap единообразно.
+      const html = `<table class="dataviewjs-block" data-tag="${tag}"><tbody>${rows.join('')}</tbody></table>`
       const htmlNode = { type: 'html', value: html } as any
       if (parent && typeof index === 'number') parent.children[index] = htmlNode
     })

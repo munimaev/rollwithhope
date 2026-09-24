@@ -1,16 +1,17 @@
 import type { VaultIndex } from '../vault-index.js'
 import type { ImageEntry } from '../images.js'
 import { ImageExporter } from '../images.js'
+import { headingSlug } from './headings.js'
 
 const TOKEN_OPEN = 'WT'
 const TOKEN_CLOSE = ''
 
 interface WikiMatch {
   token: string
-  kind: 'embed' | 'link'
+  kind: 'embed' | 'link' | 'anchor'
   target: string
   sizeHint: number | null // для embed
-  alias: string | null // для link
+  alias: string | null // для link/anchor
 }
 
 /** Заменяет [[...]] и ![[...]] в исходном markdown на непрозрачные токены —
@@ -24,6 +25,13 @@ export function extractWikiTokens(markdown: string): { tokenized: string; matche
   let tokenized = markdown.replace(/!\[\[([^\]|]+?)(?:\|(\d+))?\]\]/g, (_m, target, size) => {
     const token = `${TOKEN_OPEN}${i++}${TOKEN_CLOSE}`
     matches.push({ token, kind: 'embed', target: target.trim().replace(/\\+$/, ''), sizeHint: size ? Number(size) : null, alias: null })
+    return token
+  })
+
+  // Внутристатейный якорь [[#Заголовок]] / [[#Заголовок|текст]] — target пуст, есть только #часть.
+  tokenized = tokenized.replace(/\[\[#([^\]|]+)(?:\|([^\]]+))?\]\]/g, (_m, heading, alias) => {
+    const token = `${TOKEN_OPEN}${i++}${TOKEN_CLOSE}`
+    matches.push({ token, kind: 'anchor', target: heading.trim(), sizeHint: null, alias: alias ? alias.trim() : null })
     return token
   })
 
@@ -53,7 +61,10 @@ export async function resolveWikiTokens(
   const out = new Map<string, string>()
 
   for (const m of matches) {
-    if (m.kind === 'link') {
+    if (m.kind === 'anchor') {
+      const label = escapeHtml(m.alias ?? m.target)
+      out.set(m.token, `<a href="#${headingSlug(m.target)}">${label}</a>`)
+    } else if (m.kind === 'link') {
       out.set(m.token, resolveLink(m, ctx))
     } else {
       out.set(m.token, await resolveEmbed(m, ctx))
@@ -67,17 +78,17 @@ function resolveLink(m: WikiMatch, ctx: WikiResolveContext): string {
   const label = escapeHtml(m.alias ?? m.target.split('/').pop() ?? m.target)
   if (!note) {
     ctx.warnings.push(`Ссылка на несуществующую заметку: [[${m.target}]] (в ${ctx.currentUrl})`)
-    return label
+    return `<span class="wikilink wikilink--dead">${label}</span>`
   }
   const url = ctx.urlMap.get(note.vaultRelPath)
   if (!url || !note.isPublic) {
     ctx.warnings.push(`Ссылка на неопубликованную заметку: [[${m.target}]] (в ${ctx.currentUrl})`)
-    return label
+    return `<span class="wikilink wikilink--dead">${label}</span>`
   }
   const set = ctx.backlinks.get(url) ?? new Set<string>()
   set.add(ctx.currentUrl)
   ctx.backlinks.set(url, set)
-  return `<a href="${url}">${label}</a>`
+  return `<a class="wikilink" href="${url}">${label}</a>`
 }
 
 const IMAGE_EXT = /\.(webp|png|jpe?g|svg|gif)$/i
@@ -101,20 +112,23 @@ async function resolveEmbed(m: WikiMatch, ctx: WikiResolveContext): Promise<stri
 
   if (entry.excluded) {
     const { width, height } = await ctx.imageExporter.originalAspect(entry)
-    return `<span class="dh-image-placeholder dh-card" style="--dh-ph-ratio:${(height / width).toFixed(4)}" aria-label="Изображение пока не опубликовано"></span>`
+    return `<figure class="card-placeholder" style="aspect-ratio:${width}/${height}" aria-label="Изображение пока не опубликовано"></figure>`
   }
 
   if (entry.isCard) {
     const { url330, url660, width, height } = await ctx.imageExporter.exportCard(entry)
     return (
-      `<button type="button" class="dh-card" data-full="${url660}" data-w="${width}" data-h="${height}">` +
-      `<img src="${url330}" width="330" height="${Math.round((330 * height) / width)}" loading="lazy" alt="${escapeHtml(basename)}" /></button>`
+      `<figure><img data-lightbox data-full="${url660}" src="${url330}" width="330" ` +
+      `height="${Math.round((330 * height) / width)}" loading="lazy" alt="${escapeHtml(basename)}" /></figure>`
     )
   }
 
-  const { url } = await ctx.imageExporter.exportMedia(entry)
+  const { url, width, height } = await ctx.imageExporter.exportMedia(entry)
   const widthPct = m.sizeHint ? Math.min(100, Math.round((m.sizeHint / 800) * 100)) : 100
-  return `<img class="dh-inline-image" style="--dh-img-width:${widthPct}%" src="${url}" loading="lazy" alt="${escapeHtml(basename)}" />`
+  return (
+    `<figure class="illustration" style="--dh-img-width:${widthPct}%">` +
+    `<img src="${url}" width="${width}" height="${height}" loading="lazy" alt="${escapeHtml(basename)}" /></figure>`
+  )
 }
 
 function escapeHtml(s: string): string {

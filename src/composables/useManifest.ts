@@ -12,6 +12,7 @@ export interface ManifestPage {
   isIndex: boolean;
   parentId: string | null;
   sortKey: string;
+  chapter: number;
   banner: string | null;
   backlinks: string[];
 }

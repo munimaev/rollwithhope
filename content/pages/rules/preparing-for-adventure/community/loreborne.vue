@@ -1,0 +1,21 @@
+<template>
+<div class="prose" data-chapter="1" data-section="rules">
+<p><figure class="illustration" style="--dh-img-width:100%"><img src="/rollwithhope/images/media/commLoreborne-131cben.webp" width="1600" height="533" loading="lazy" alt="commLoreborne.webp" /></figure></p>
+<h2 id="описание"><span class="marker" data-marker="chapter"></span>Описание<a class="anchor" href="#описание" aria-label="Ссылка на раздел"></a></h2>
+<p>Принадлежность к этому сообществу означает, что вы родом из общества, где больше всего ценятся академические или политические достижения. Здесь ценят знание во всех его формах: сохранение истории, политическое развитие, научные исследования, совершенствование навыков, систематизацию преданий и мифологии. Большинство представителей таких сообществ занимаются исследованиями в учреждениях, расположенных в оплотах цивилизации, но некоторые черпают знания из самой природы. Они могут быть изоляционистами, действуя в небольших анклавах, школах или гильдиях и следуя собственному кодексу. А могут широко применять свои знания, умело маневрируя в политическом поле и на уровне государственных структур.</p>
+<p>Представители научного сообщества часто бывают</p>
+<ol>
+<li>прямолинейны,</li>
+<li>красноречивы,</li>
+<li>пытливы,</li>
+<li>терпеливы,</li>
+<li>восторженны</li>
+<li>и остроумны.</li>
+</ol>
+<h4 id="свойства-сообщества"><span class="marker" data-marker="minor"></span>Свойства сообщества<a class="anchor" href="#свойства-сообщества" aria-label="Ссылка на раздел"></a></h4>
+<p><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-loreborne-yuxlhq-660.webp" src="/rollwithhope/images/cards/card-loreborne-yuxlhq-330.webp" width="330" height="462" loading="lazy" alt="card-loreborne.webp" /></figure></p>
+<h6 id="начитанность">Начитанность<a class="anchor" href="#начитанность" aria-label="Ссылка на раздел"></a></h6>
+<p>Вы получаете преимущество на любые броски, связанные с историей, культурой или политикой значимых мест или личностей.</p>
+<hr>
+</div>
+</template>

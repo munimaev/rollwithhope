@@ -8,7 +8,10 @@ const base = process.env.SITE_BASE ?? '/rollwithhope/'
 
 export default defineConfig({
   base,
-  plugins: [vue()],
+  // content/pages/**/*.vue приходят с уже готовыми абсолютными URL картинок (запечены
+  // в sync с учётом base, см. scripts/sync/images.ts) — не нужно, чтобы Vite пытался
+  // резолвить их как локальные файлы/модули через встроенный transformAssetUrls.
+  plugins: [vue({ template: { transformAssetUrls: false } })],
   resolve: {
     alias: {
       '@': fileURLToPath(new URL('./src', import.meta.url)),

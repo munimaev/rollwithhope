@@ -1,0 +1,121 @@
+/* prose.css — оформление длинного текста статьи (.prose).
+   Сетка статьи: узкая колонка текста (dh-measure) посередине, «широкие» блоки (панорама, таблицы,
+   галереи, картинки) выходят по бокам до dh-wide. */
+
+@layer prose {
+  .prose {
+    display: grid;
+    grid-template-columns:
+      [wide-start] minmax(0, 1fr)
+      [text-start] min(var(--dh-measure), 100%)
+      [text-end] minmax(0, 1fr) [wide-end];
+    max-inline-size: var(--dh-wide);
+    margin-inline: auto;
+    font-size: var(--dh-text-base);
+    line-height: var(--dh-leading-body);
+    color: var(--dh-color-text);
+    hyphens: manual;
+  }
+  .prose > * { grid-column: text; min-inline-size: 0; }
+  .prose > :where(* + *) { margin-block-start: 1.15em; }
+
+  /* ---- заголовки: Alegreya, значок-самоцвет перед текстом ---- */
+  .prose :is(h1, h2, h3, h4, h5, h6) {
+    font-family: var(--dh-font-display);
+    line-height: var(--dh-leading-heading);
+    letter-spacing: 0;
+    text-wrap: balance;
+    color: var(--dh-color-text);
+    scroll-margin-block-start: calc(var(--dh-header-h) + var(--dh-space-4));
+    border-radius: var(--dh-radius-xs);
+  }
+  .prose h2 {
+    font-size: var(--dh-text-3xl); font-weight: 800;
+    margin-block-start: 2.2em; padding-block-end: .28em;
+    border-block-end: var(--dh-border-hair) solid var(--dh-color-border);
+  }
+  .prose h3 { font-size: var(--dh-text-2xl); font-weight: 700; margin-block-start: 1.9em; }
+  .prose :is(h4, h5, h6) { font-size: var(--dh-text-xl); font-weight: 700; margin-block-start: 1.7em; }
+  .prose > :where(h2, h3, h4, h5, h6) + * { margin-block-start: .7em; }
+  .prose > :where(h2, h3, h4, h5, h6) + :where(h2, h3, h4, h5, h6) { margin-block-start: 1.1em; }
+
+  /* якорь-ссылка на раздел: виден при наведении и фокусе */
+  .prose .anchor {
+    display: inline-flex; align-items: center; margin-inline-start: .4em;
+    color: var(--dh-color-text-subtle); text-decoration: none; opacity: 0;
+    transition: opacity var(--dh-duration-fast) var(--dh-ease-standard), color var(--dh-duration-fast);
+    vertical-align: .05em;
+  }
+  .prose .anchor::before {
+    content: ""; inline-size: .62em; block-size: .62em; background: currentColor;
+    -webkit-mask: var(--dh-icon-link) center / contain no-repeat; mask: var(--dh-icon-link) center / contain no-repeat;
+  }
+  .prose :is(h2, h3, h4):is(:hover, :focus-within) .anchor, .prose .anchor:focus-visible { opacity: 1; }
+  .prose .anchor:hover { color: var(--dh-chapter-ink); }
+  @media (hover: none) { .prose .anchor { opacity: .55; } }
+
+  /* при переходе по якорю целевой заголовок коротко подсвечивается */
+  .prose :is(h2, h3, h4):target { animation: dh-target 2.6s var(--dh-ease-out); }
+  @keyframes dh-target { 0%, 35% { background-color: var(--dh-chapter-soft); box-shadow: 0 0 0 .3em var(--dh-chapter-soft); } 100% { background-color: transparent; box-shadow: 0 0 0 .3em transparent; } }
+
+  /* ---- вводный абзац ---- */
+  .prose .lead {
+    font-family: var(--dh-font-display); font-weight: 500;
+    font-size: var(--dh-text-xl); line-height: var(--dh-leading-lead);
+    text-wrap: pretty;
+  }
+
+  /* ---- абзацы, акценты ---- */
+  .prose p { text-wrap: pretty; }
+  .prose strong, .prose b { font-weight: 700; }
+  .prose em, .prose i { font-style: italic; }
+  .prose small { font-size: var(--dh-text-sm); color: var(--dh-color-text-muted); }
+
+  /* ---- списки ---- */
+  .prose :is(ul, ol):not(.option-list) { list-style: none; padding-inline-start: 1.55rem; }
+  .prose :is(ul, ol):not(.option-list) > li { position: relative; margin-block-start: .4em; }
+  .prose :is(ul, ol):not(.option-list) > li:first-child { margin-block-start: 0; }
+  .prose ul:not(.option-list) > li::before {
+    content: ""; position: absolute; inset-inline-start: -1.05rem; inset-block-start: .78em;
+    inline-size: .34em; block-size: .34em; border-radius: 50%; background: var(--dh-chapter);
+  }
+  .prose ol { counter-reset: dh-item; }
+  .prose ol > li { counter-increment: dh-item; }
+  .prose ol > li::before {
+    content: counter(dh-item) "."; position: absolute; inset-inline-start: -1.65rem; inline-size: 1.35rem; text-align: end;
+    font-family: var(--dh-font-display); font-weight: 800; color: var(--dh-chapter-ink);
+    font-variant-numeric: lining-nums;
+  }
+  .prose li > :where(ul, ol) { margin-block-start: .4em; }
+  .prose li > p + p { margin-block-start: .5em; }
+
+  /* ---- цитата-эпиграф ---- */
+  .prose blockquote {
+    position: relative; padding-block: .4rem; padding-inline: 3.6rem 1rem;
+    font-family: var(--dh-font-display); font-style: italic; font-weight: 500;
+    font-size: var(--dh-text-lg); line-height: var(--dh-leading-lead);
+  }
+  .prose blockquote::before {
+    content: "\00AB"; position: absolute; inset-inline-start: 0; inset-block-start: -.18em;
+    font-family: var(--dh-font-display); font-style: normal; font-weight: 800;
+    font-size: 4.6rem; line-height: 1; color: var(--dh-chapter);
+  }
+  .prose blockquote > * + * { margin-block-start: .45em; }
+
+  /* ---- ссылки ---- */
+  .prose a {
+    color: var(--dh-chapter-ink);
+    text-decoration-line: underline; text-decoration-color: var(--dh-chapter); text-decoration-thickness: .09em; text-underline-offset: .2em;
+    border-radius: 2px;
+    transition: background-color var(--dh-duration-fast) var(--dh-ease-standard), text-decoration-thickness var(--dh-duration-fast) var(--dh-ease-standard);
+  }
+  .prose a:visited { color: var(--dh-color-link-visited); }
+  .prose a:hover { background-color: var(--dh-chapter-soft); color: var(--dh-chapter-ink); text-decoration-thickness: .16em; }
+  .prose a:visited:hover { color: var(--dh-color-link-visited); }
+
+  /* мёртвая ссылка: обычный текст, ни намёка на переход */
+  .wikilink--dead, .prose .wikilink--dead { color: inherit; text-decoration: none; cursor: text; background: none; }
+
+  .prose > figure { grid-column: wide; }
+  .prose > :where(.table-wrap, .card-gallery, .hero) { grid-column: wide; }
+}

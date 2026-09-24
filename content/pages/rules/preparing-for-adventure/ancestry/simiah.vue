@@ -1,0 +1,14 @@
+<template>
+<div class="prose" data-chapter="1" data-section="rules">
+<p><figure class="illustration" style="--dh-img-width:100%"><img src="/rollwithhope/images/media/ancestrySimiah-1voh14b.webp" width="1600" height="533" loading="lazy" alt="ancestrySimiah.webp" /></figure></p>
+<h2 id="описание"><span class="marker" data-marker="chapter"></span>Описание<a class="anchor" href="#описание" aria-label="Ссылка на раздел"></a></h2>
+<p>Симианы — антропоморфные обезьяны с длинными конечностями и цепкими ступнями. В их облике можно увидеть черты всех человекообразных обезьян — от могучих горилл до крошечных игрунок — однако их размеры не соответствуют животным аналогам: рост симианов может колебаться от 2 до 6 футов. Все симианы могут использовать ступни в работе, общении и даже бою — так же ловко, как руки. Некоторые из них также обладают цепким хвостом, которым можно хватать предметы или сохранять равновесие в сложных ситуациях. Эти особенности наделяют симианов исключительной ловкостью, которая особенно полезна при выполнении физических задач. Они превосходно лазают и с лёгкостью переходят от ходьбы на двух ногах к передвижению на костяшках пальцев и обратно. В среднем симианы живут около 100 лет.</p>
+<h4 id="свойства-происхождения"><span class="marker" data-marker="minor"></span>Свойства происхождения<a class="anchor" href="#свойства-происхождения" aria-label="Ссылка на раздел"></a></h4>
+<p><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-simiah-1yzyk73-660.webp" src="/rollwithhope/images/cards/card-simiah-1yzyk73-330.webp" width="330" height="462" loading="lazy" alt="card-simiah.webp" /></figure></p>
+<h6 id="прирождённый-скалолаз-natural-climber">Прирождённый скалолаз - Natural Climber<a class="anchor" href="#прирождённый-скалолаз-natural-climber" aria-label="Ссылка на раздел"></a></h6>
+<p>Вы получаете преимущество на броски Проворности, связанные с лазанием и удержанием равновесия.</p>
+<h6 id="проворный-nimble">Проворный - Nimble<a class="anchor" href="#проворный-nimble" aria-label="Ссылка на раздел"></a></h6>
+<p>При создании персонажа вы получаете бонус +1 к Уклонению.</p>
+<hr>
+</div>
+</template>

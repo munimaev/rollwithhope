@@ -1,6 +1,5 @@
 import fs from 'node:fs'
 import path from 'node:path'
-import matter from 'gray-matter'
 import { loadConfig } from './config.js'
 import { walkVault, VaultIndex } from './vault-index.js'
 import { indexImages, ImageExporter } from './images.js'
@@ -18,6 +17,10 @@ async function main() {
 
   const outDir = path.resolve('content')
   fs.mkdirSync(path.join(outDir, 'pages'), { recursive: true })
+  // Картинки — в public/, не в content/: это статика, Vite копирует public/ в dist/ как
+  // есть и не пытается резолвить src внутри .vue-шаблонов, начинающийся с "/" (см. images.ts).
+  const publicDir = path.resolve('public')
+  const siteBase = process.env.SITE_BASE ?? '/rollwithhope/'
 
   const config = loadConfig(vaultPath)
   console.log(`Разделов в конфиге: ${config.sections.length}, записей в словаре слагов: ${Object.keys(config.slugs).length}`)
@@ -48,7 +51,7 @@ async function main() {
 
   // --- картинки ---
   const imageIndex = indexImages(vaultPath)
-  const imageExporter = new ImageExporter(outDir)
+  const imageExporter = new ImageExporter(publicDir, siteBase)
 
   // --- проход 2: рендер тела каждой страницы ---
   const backlinks = new Map<string, Set<string>>()
@@ -56,7 +59,7 @@ async function main() {
   const added: string[] = []
 
   for (const page of allPages) {
-    const outFile = path.join(outDir, 'pages', `${page.id}.html`)
+    const outFile = path.join(outDir, 'pages', `${page.id}.vue`)
     const existed = fs.existsSync(outFile)
 
     let html: string
@@ -70,6 +73,7 @@ async function main() {
         warnings,
         backlinks,
         tagLists,
+        siteBase,
       })
     } catch (e) {
       console.error(`\n✗ Ошибка при сборке "${page.vaultRelPath}":`)
@@ -77,16 +81,15 @@ async function main() {
       process.exit(1)
     }
 
-    const fm = matter.read(page.absPath).data
-    const cssclasses = Array.isArray(fm.cssclasses) ? (fm.cssclasses as string[]) : []
-    if (cssclasses.includes('white-table')) {
-      html = `<div class="dh-white-table">${html}</div>`
-    }
+    // content/pages/**/*.vue — настоящий SFC, не строка HTML (решение 2026-09-23, см. CLAUDE.md).
+    // <template> — просто семантический HTML из renderMarkdown, без директив Vue.
+    // data-chapter/data-section — цвет главы/раздела (см. src/styles/base.css), каскадом на .marker и др.
+    const vueSfc = `<template>\n<div class="prose" data-chapter="${page.chapter}" data-section="${page.sectionId}">\n${html}\n</div>\n</template>\n`
 
     fs.mkdirSync(path.dirname(outFile), { recursive: true })
     const prev = existed ? fs.readFileSync(outFile, 'utf8') : null
-    if (prev !== html) {
-      fs.writeFileSync(outFile, html, 'utf8')
+    if (prev !== vueSfc) {
+      fs.writeFileSync(outFile, vueSfc, 'utf8')
       ;(existed ? changed : added).push(page.url)
     }
   }
@@ -97,12 +100,12 @@ async function main() {
   function pruneRemoved(dir: string, idPrefix: string) {
     if (!fs.existsSync(dir)) return
     for (const entry of fs.readdirSync(dir, { withFileTypes: true })) {
-      const id = idPrefix ? `${idPrefix}/${entry.name.replace(/\.html$/, '')}` : entry.name.replace(/\.html$/, '')
+      const id = idPrefix ? `${idPrefix}/${entry.name.replace(/\.vue$/, '')}` : entry.name.replace(/\.vue$/, '')
       const abs = path.join(dir, entry.name)
       if (entry.isDirectory()) {
         pruneRemoved(abs, id)
         if (fs.readdirSync(abs).length === 0) fs.rmdirSync(abs)
-      } else if (entry.isFile() && entry.name.endsWith('.html')) {
+      } else if (entry.isFile() && entry.name.endsWith('.vue')) {
         if (!currentIds.has(id)) {
           fs.unlinkSync(abs)
           removed.push(id)
@@ -125,6 +128,7 @@ async function main() {
     isIndex: p.isIndex,
     parentId: p.parentId,
     sortKey: p.sortKey,
+    chapter: p.chapter,
     banner: p.banner,
     backlinks: [...(backlinks.get(p.url) ?? [])],
   }))

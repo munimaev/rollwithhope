@@ -1,0 +1,21 @@
+<template>
+<div class="prose" data-chapter="1" data-section="rules">
+<p><figure class="illustration" style="--dh-img-width:100%"><img src="/rollwithhope/images/media/commWildborne-1s4cd5f.webp" width="1600" height="533" loading="lazy" alt="commWildborne.webp" /></figure></p>
+<h2 id="описание"><span class="marker" data-marker="chapter"></span>Описание<a class="anchor" href="#описание" aria-label="Ссылка на раздел"></a></h2>
+<p>Принадлежность к лесному сообществу означает, что вы жили в глубине лесных чащоб. Такие общины прежде всего берегут свои земли и нередко связаны с местной фауной религиозными или культурными узами. Это приводит к уникальным архитектурным и технологическим решениям, отдающим приоритет долговечности и устойчивости, а не быстрой выгоде. Лесные сообщества стремятся интегрировать поселения в природную среду и стремление не тревожить жизнь растений и животных. Одни строят жилища высоко на ветвях, другие — на земле под кронами леса. Нередко лесные сообщества держатся обособленно и остаются скрытыми.</p>
+<p>Представители лесного сообщества часто бывают</p>
+<ol>
+<li>выносливыми,</li>
+<li>верными,</li>
+<li>заботливыми,</li>
+<li>замкнутыми,</li>
+<li>мудрыми</li>
+<li>и полными жизненных сил.</li>
+</ol>
+<h4 id="свойства-сообщества"><span class="marker" data-marker="minor"></span>Свойства сообщества<a class="anchor" href="#свойства-сообщества" aria-label="Ссылка на раздел"></a></h4>
+<p><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-wildborne-1nxxn8i-660.webp" src="/rollwithhope/images/cards/card-wildborne-1nxxn8i-330.webp" width="330" height="462" loading="lazy" alt="card-wildborne.webp" /></figure></p>
+<h6 id="лёгкая-поступь">Лёгкая поступь<a class="anchor" href="#лёгкая-поступь" aria-label="Ссылка на раздел"></a></h6>
+<p>Ваше передвижение от природы бесшумно. Вы получаете преимущество на броски для тихого перемещения.</p>
+<hr>
+</div>
+</template>

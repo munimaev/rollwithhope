@@ -1,0 +1,21 @@
+<template>
+<div class="prose" data-chapter="1" data-section="rules">
+<p><figure class="illustration" style="--dh-img-width:100%"><img src="/rollwithhope/images/media/commWanderborne-1xm2x2u.webp" width="1600" height="533" loading="lazy" alt="commWanderborne.webp" /></figure></p>
+<h2 id="описание"><span class="marker" data-marker="chapter"></span>Описание<a class="anchor" href="#описание" aria-label="Ссылка на раздел"></a></h2>
+<p>Принадлежность к кочевому сообществу означает, что вы вели кочевой образ жизни, не имея постоянного дома, но познакомились с множеством разных культур. В отличие от многих сообществ, привязанных к месту, кочевников определяет жизнь в дороге. Из-за частых перемещений они меньше ценят накопление вещей, отдавая предпочтение знаниям, умениям и связям. Одни объединяются вокруг общего кодекса — веры, политических или экономических взглядов, а других сплачивает общая трагедия, вроде утраты родины. Какова бы ни была причина, опасности дороги и осознанное решение продолжать путь вместе воспитывают в кочевниках непоколебимую верность.</p>
+<p>Представители кочевого сообщества часто бывают</p>
+<ol>
+<li>непроницаемыми,</li>
+<li>великодушными,</li>
+<li>весёлыми,</li>
+<li>надёжными,</li>
+<li>смышлёными</li>
+<li>и нестандартными.</li>
+</ol>
+<h4 id="свойства-сообщества"><span class="marker" data-marker="minor"></span>Свойства сообщества<a class="anchor" href="#свойства-сообщества" aria-label="Ссылка на раздел"></a></h4>
+<p><figure><img data-lightbox data-full="/rollwithhope/images/cards/card-wanderborne-w9g805-660.webp" src="/rollwithhope/images/cards/card-wanderborne-w9g805-330.webp" width="330" height="462" loading="lazy" alt="card-wanderborne.webp" /></figure></p>
+<h6 id="сумка-кочевника">Сумка кочевника<a class="anchor" href="#сумка-кочевника" aria-label="Ссылка на раздел"></a></h6>
+<p>Добавьте сумку кочевника в инвентарь. Один раз за сессию вы можете потратить Надежду, чтобы извлечь из сумки обычный предмет, полезный в текущей ситуации.</p>
+<hr>
+</div>
+</template>

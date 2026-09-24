@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T16:20:20.623Z",
+  "generatedAt": "2026-09-24T07:06:33.328Z",
   "sections": [
     {
       "id": "rules",
@@ -24,6 +24,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d000.000",
+      "chapter": 0,
       "banner": null,
       "backlinks": [
         "/rules/running-an-adventure/intro"
@@ -44,6 +45,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d000.001",
+      "chapter": 0,
       "banner": null,
       "backlinks": []
     },
@@ -62,6 +64,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d001.d001.000",
+      "chapter": 1,
       "banner": null,
       "backlinks": [
         "/rules/preparing-for-adventure/character-creation/step-1-class-and-subclass"
@@ -79,6 +82,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d001.d001.001",
+      "chapter": 1,
       "banner": null,
       "backlinks": [
         "/rules/preparing-for-adventure/character-creation/character-creation",
@@ -97,6 +101,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d001.d001.002",
+      "chapter": 1,
       "banner": null,
       "backlinks": [
         "/rules/preparing-for-adventure/character-creation/step-1-class-and-subclass",
@@ -115,6 +120,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d001.d001.003",
+      "chapter": 1,
       "banner": null,
       "backlinks": [
         "/rules/preparing-for-adventure/character-creation/step-2-choose-your-heritage",
@@ -133,6 +139,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d001.d001.004",
+      "chapter": 1,
       "banner": null,
       "backlinks": [
         "/rules/preparing-for-adventure/character-creation/step-3-assign-your-traits",
@@ -151,6 +158,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d001.d001.005",
+      "chapter": 1,
       "banner": null,
       "backlinks": [
         "/rules/preparing-for-adventure/character-creation/step-4-additional-character-info",
@@ -169,6 +177,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d001.d001.006",
+      "chapter": 1,
       "banner": null,
       "backlinks": [
         "/rules/preparing-for-adventure/character-creation/step-5-choose-starting-equipment",
@@ -187,10 +196,12 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d001.d001.007",
+      "chapter": 1,
       "banner": null,
       "backlinks": [
         "/rules/preparing-for-adventure/character-creation/step-6-create-your-background",
-        "/rules/preparing-for-adventure/character-creation/step-8-choose-your-domain-cards"
+        "/rules/preparing-for-adventure/character-creation/step-8-choose-your-domain-cards",
+        "/rules/playing-an-adventure/character-advancement/leveling-up"
       ]
     },
     {
@@ -205,6 +216,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d001.d001.008",
+      "chapter": 1,
       "banner": null,
       "backlinks": [
         "/rules/preparing-for-adventure/character-creation/step-7-determine-your-experience",
@@ -223,6 +235,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d001.d001.009",
+      "chapter": 1,
       "banner": null,
       "backlinks": [
         "/rules/preparing-for-adventure/character-creation/step-8-choose-your-domain-cards",
@@ -241,6 +254,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d001.d002.000",
+      "chapter": 1,
       "banner": null,
       "backlinks": [
         "/rules/preparing-for-adventure/character-creation/step-9-create-your-connections",
@@ -261,6 +275,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d001.d002.d000.000",
+      "chapter": 1,
       "banner": null,
       "backlinks": [
         "/rules/preparing-for-adventure/character-creation/step-1-class-and-subclass",
@@ -283,6 +298,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d001.d002.d000.001",
+      "chapter": 1,
       "banner": null,
       "backlinks": [
         "/rules/preparing-for-adventure/character-creation/step-1-class-and-subclass",
@@ -304,6 +320,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d001.d002.d000.002",
+      "chapter": 1,
       "banner": null,
       "backlinks": [
         "/rules/preparing-for-adventure/classes/bard/troubadour",
@@ -324,6 +341,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d001.d002.d001.000",
+      "chapter": 1,
       "banner": null,
       "backlinks": [
         "/rules/preparing-for-adventure/character-creation/step-1-class-and-subclass",
@@ -346,6 +364,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d001.d002.d001.001",
+      "chapter": 1,
       "banner": null,
       "backlinks": [
         "/rules/preparing-for-adventure/character-creation/step-1-class-and-subclass",
@@ -367,6 +386,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d001.d002.d001.002",
+      "chapter": 1,
       "banner": null,
       "backlinks": [
         "/rules/preparing-for-adventure/classes/warrior/call-of-the-slayer",
@@ -387,6 +407,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d001.d002.d002.000",
+      "chapter": 1,
       "banner": null,
       "backlinks": [
         "/rules/preparing-for-adventure/character-creation/step-1-class-and-subclass",
@@ -409,6 +430,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d001.d002.d002.001",
+      "chapter": 1,
       "banner": null,
       "backlinks": [
         "/rules/preparing-for-adventure/character-creation/step-1-class-and-subclass",
@@ -430,6 +452,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d001.d002.d002.002",
+      "chapter": 1,
       "banner": null,
       "backlinks": [
         "/rules/preparing-for-adventure/classes/wizard/school-of-knowledge",
@@ -450,6 +473,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d001.d002.d003.000",
+      "chapter": 1,
       "banner": null,
       "backlinks": [
         "/rules/preparing-for-adventure/character-creation/step-1-class-and-subclass",
@@ -472,6 +496,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d001.d002.d003.001",
+      "chapter": 1,
       "banner": null,
       "backlinks": [
         "/rules/preparing-for-adventure/character-creation/step-1-class-and-subclass",
@@ -493,6 +518,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d001.d002.d003.002",
+      "chapter": 1,
       "banner": null,
       "backlinks": [
         "/rules/preparing-for-adventure/classes/druid/warden-of-the-elements",
@@ -511,6 +537,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d001.d002.d003.003",
+      "chapter": 1,
       "banner": null,
       "backlinks": [
         "/rules/preparing-for-adventure/classes/druid/druid",
@@ -532,6 +559,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d001.d002.d003.004",
+      "chapter": 1,
       "banner": null,
       "backlinks": [
         "/rules/preparing-for-adventure/classes/druid/beastforms-tier-1",
@@ -552,6 +580,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d001.d002.d003.005",
+      "chapter": 1,
       "banner": null,
       "backlinks": [
         "/rules/preparing-for-adventure/classes/druid/beastforms-tier-1",
@@ -572,6 +601,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d001.d002.d003.006",
+      "chapter": 1,
       "banner": null,
       "backlinks": [
         "/rules/preparing-for-adventure/classes/druid/beastforms-tier-1",
@@ -592,6 +622,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d001.d002.d003.007",
+      "chapter": 1,
       "banner": null,
       "backlinks": [
         "/rules/preparing-for-adventure/classes/druid/beastforms-tier-4",
@@ -612,6 +643,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d001.d002.d004.000",
+      "chapter": 1,
       "banner": null,
       "backlinks": [
         "/rules/preparing-for-adventure/character-creation/step-1-class-and-subclass",
@@ -634,6 +666,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d001.d002.d004.001",
+      "chapter": 1,
       "banner": null,
       "backlinks": [
         "/rules/preparing-for-adventure/character-creation/step-1-class-and-subclass",
@@ -655,6 +688,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d001.d002.d004.002",
+      "chapter": 1,
       "banner": null,
       "backlinks": [
         "/rules/preparing-for-adventure/classes/rogue/syndicate",
@@ -675,6 +709,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d001.d002.d005.000",
+      "chapter": 1,
       "banner": null,
       "backlinks": [
         "/rules/preparing-for-adventure/character-creation/step-1-class-and-subclass",
@@ -697,6 +732,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d001.d002.d005.001",
+      "chapter": 1,
       "banner": null,
       "backlinks": [
         "/rules/preparing-for-adventure/character-creation/step-1-class-and-subclass",
@@ -718,6 +754,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d001.d002.d005.002",
+      "chapter": 1,
       "banner": null,
       "backlinks": [
         "/rules/preparing-for-adventure/classes/seraph/winged-sentinel",
@@ -736,6 +773,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d001.d002.d006.000",
+      "chapter": 1,
       "banner": null,
       "backlinks": [
         "/rules/preparing-for-adventure/classes/seraph/seraph",
@@ -755,6 +793,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d001.d002.d006.001",
+      "chapter": 1,
       "banner": null,
       "backlinks": [
         "/rules/preparing-for-adventure/classes/ranger/interacting-with-your-companion",
@@ -775,6 +814,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d001.d002.d006.002",
+      "chapter": 1,
       "banner": null,
       "backlinks": [
         "/rules/preparing-for-adventure/character-creation/step-1-class-and-subclass",
@@ -797,6 +837,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d001.d002.d006.003",
+      "chapter": 1,
       "banner": null,
       "backlinks": [
         "/rules/preparing-for-adventure/character-creation/step-1-class-and-subclass",
@@ -818,6 +859,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d001.d002.d006.004",
+      "chapter": 1,
       "banner": null,
       "backlinks": [
         "/rules/preparing-for-adventure/classes/ranger/wayfinder",
@@ -838,6 +880,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d001.d002.d007.000",
+      "chapter": 1,
       "banner": null,
       "backlinks": [
         "/rules/preparing-for-adventure/character-creation/step-1-class-and-subclass",
@@ -860,6 +903,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d001.d002.d007.001",
+      "chapter": 1,
       "banner": null,
       "backlinks": [
         "/rules/preparing-for-adventure/character-creation/step-1-class-and-subclass",
@@ -881,6 +925,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d001.d002.d007.002",
+      "chapter": 1,
       "banner": null,
       "backlinks": [
         "/rules/preparing-for-adventure/classes/guardian/stalwart",
@@ -901,6 +946,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d001.d002.d008.000",
+      "chapter": 1,
       "banner": null,
       "backlinks": [
         "/rules/preparing-for-adventure/character-creation/step-1-class-and-subclass",
@@ -923,6 +969,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d001.d002.d008.001",
+      "chapter": 1,
       "banner": null,
       "backlinks": [
         "/rules/preparing-for-adventure/character-creation/step-1-class-and-subclass",
@@ -944,6 +991,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d001.d002.d008.002",
+      "chapter": 1,
       "banner": null,
       "backlinks": [
         "/rules/preparing-for-adventure/classes/sorcerer/elemental-origin",
@@ -962,6 +1010,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d001.d003.000",
+      "chapter": 1,
       "banner": null,
       "backlinks": [
         "/rules/preparing-for-adventure/classes/sorcerer/sorcerer",
@@ -980,6 +1029,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d001.d003.001",
+      "chapter": 1,
       "banner": null,
       "backlinks": [
         "/rules/preparing-for-adventure/domains/domains",
@@ -1000,6 +1050,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d001.d003.002",
+      "chapter": 1,
       "banner": null,
       "backlinks": [
         "/rules/preparing-for-adventure/classes/druid/druid",
@@ -1023,6 +1074,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d001.d003.003",
+      "chapter": 1,
       "banner": null,
       "backlinks": [
         "/rules/preparing-for-adventure/classes/wizard/wizard",
@@ -1046,6 +1098,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d001.d003.004",
+      "chapter": 1,
       "banner": null,
       "backlinks": [
         "/rules/preparing-for-adventure/classes/seraph/seraph",
@@ -1069,6 +1122,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d001.d003.005",
+      "chapter": 1,
       "banner": null,
       "backlinks": [
         "/rules/preparing-for-adventure/classes/bard/bard",
@@ -1092,6 +1146,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d001.d003.006",
+      "chapter": 1,
       "banner": null,
       "backlinks": [
         "/rules/preparing-for-adventure/classes/warrior/warrior",
@@ -1115,6 +1170,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d001.d003.007",
+      "chapter": 1,
       "banner": null,
       "backlinks": [
         "/rules/preparing-for-adventure/classes/bard/bard",
@@ -1138,6 +1194,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d001.d003.008",
+      "chapter": 1,
       "banner": null,
       "backlinks": [
         "/rules/preparing-for-adventure/classes/warrior/warrior",
@@ -1161,6 +1218,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d001.d003.009",
+      "chapter": 1,
       "banner": null,
       "backlinks": [
         "/rules/preparing-for-adventure/classes/druid/druid",
@@ -1184,6 +1242,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d001.d003.010",
+      "chapter": 1,
       "banner": null,
       "backlinks": [
         "/rules/preparing-for-adventure/classes/rogue/rogue",
@@ -1206,6 +1265,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d001.d004.000",
+      "chapter": 1,
       "banner": null,
       "backlinks": [
         "/rules/preparing-for-adventure/ancestry/giant"
@@ -1225,6 +1285,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d001.d004.001",
+      "chapter": 1,
       "banner": null,
       "backlinks": [
         "/rules/preparing-for-adventure/ancestry/ancestry",
@@ -1245,6 +1306,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d001.d004.002",
+      "chapter": 1,
       "banner": null,
       "backlinks": [
         "/rules/preparing-for-adventure/ancestry/ancestry",
@@ -1266,6 +1328,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d001.d004.003",
+      "chapter": 1,
       "banner": null,
       "backlinks": [
         "/rules/preparing-for-adventure/ancestry/ancestry",
@@ -1288,6 +1351,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d001.d004.004",
+      "chapter": 1,
       "banner": null,
       "backlinks": [
         "/rules/preparing-for-adventure/ancestry/ancestry",
@@ -1309,6 +1373,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d001.d004.005",
+      "chapter": 1,
       "banner": null,
       "backlinks": [
         "/rules/preparing-for-adventure/ancestry/ancestry",
@@ -1330,6 +1395,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d001.d004.006",
+      "chapter": 1,
       "banner": null,
       "backlinks": [
         "/rules/preparing-for-adventure/ancestry/ancestry",
@@ -1351,6 +1417,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d001.d004.007",
+      "chapter": 1,
       "banner": null,
       "backlinks": [
         "/rules/preparing-for-adventure/ancestry/ancestry",
@@ -1372,6 +1439,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d001.d004.008",
+      "chapter": 1,
       "banner": null,
       "backlinks": [
         "/rules/preparing-for-adventure/ancestry/ancestry",
@@ -1393,6 +1461,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d001.d004.009",
+      "chapter": 1,
       "banner": null,
       "backlinks": [
         "/rules/preparing-for-adventure/ancestry/ancestry",
@@ -1414,6 +1483,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d001.d004.010",
+      "chapter": 1,
       "banner": null,
       "backlinks": [
         "/rules/preparing-for-adventure/ancestry/ancestry",
@@ -1436,6 +1506,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d001.d004.011",
+      "chapter": 1,
       "banner": null,
       "backlinks": [
         "/rules/preparing-for-adventure/ancestry/ancestry",
@@ -1457,6 +1528,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d001.d004.012",
+      "chapter": 1,
       "banner": null,
       "backlinks": [
         "/rules/preparing-for-adventure/ancestry/ancestry",
@@ -1478,6 +1550,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d001.d004.013",
+      "chapter": 1,
       "banner": null,
       "backlinks": [
         "/rules/preparing-for-adventure/ancestry/ancestry",
@@ -1499,6 +1572,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d001.d004.014",
+      "chapter": 1,
       "banner": null,
       "backlinks": [
         "/rules/preparing-for-adventure/ancestry/ancestry",
@@ -1520,6 +1594,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d001.d004.015",
+      "chapter": 1,
       "banner": null,
       "backlinks": [
         "/rules/preparing-for-adventure/ancestry/ancestry",
@@ -1541,6 +1616,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d001.d004.016",
+      "chapter": 1,
       "banner": null,
       "backlinks": [
         "/rules/preparing-for-adventure/ancestry/ancestry",
@@ -1562,6 +1638,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d001.d004.017",
+      "chapter": 1,
       "banner": null,
       "backlinks": [
         "/rules/preparing-for-adventure/ancestry/ancestry",
@@ -1583,6 +1660,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d001.d004.018",
+      "chapter": 1,
       "banner": null,
       "backlinks": [
         "/rules/preparing-for-adventure/ancestry/ancestry",
@@ -1604,6 +1682,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d001.d004.019",
+      "chapter": 1,
       "banner": null,
       "backlinks": [
         "/rules/preparing-for-adventure/ancestry/ancestry",
@@ -1623,6 +1702,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d001.d005.000",
+      "chapter": 1,
       "banner": null,
       "backlinks": [
         "/rules/preparing-for-adventure/ancestry/mixed-ancestry",
@@ -1643,6 +1723,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d001.d005.001",
+      "chapter": 1,
       "banner": null,
       "backlinks": [
         "/rules/preparing-for-adventure/community/community",
@@ -1663,6 +1744,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d001.d005.002",
+      "chapter": 1,
       "banner": null,
       "backlinks": [
         "/rules/preparing-for-adventure/community/highborne",
@@ -1683,6 +1765,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d001.d005.003",
+      "chapter": 1,
       "banner": null,
       "backlinks": [
         "/rules/preparing-for-adventure/community/ridgeborne",
@@ -1703,6 +1786,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d001.d005.004",
+      "chapter": 1,
       "banner": null,
       "backlinks": [
         "/rules/preparing-for-adventure/community/orderborne",
@@ -1723,6 +1807,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d001.d005.005",
+      "chapter": 1,
       "banner": null,
       "backlinks": [
         "/rules/preparing-for-adventure/community/wanderborne",
@@ -1743,6 +1828,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d001.d005.006",
+      "chapter": 1,
       "banner": null,
       "backlinks": [
         "/rules/preparing-for-adventure/community/slyborne",
@@ -1763,6 +1849,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d001.d005.007",
+      "chapter": 1,
       "banner": null,
       "backlinks": [
         "/rules/preparing-for-adventure/community/wildborne",
@@ -1783,6 +1870,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d001.d005.008",
+      "chapter": 1,
       "banner": null,
       "backlinks": [
         "/rules/preparing-for-adventure/community/seaborne",
@@ -1803,6 +1891,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d001.d005.009",
+      "chapter": 1,
       "banner": null,
       "backlinks": [
         "/rules/preparing-for-adventure/community/loreborne"
@@ -1820,6 +1909,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d002.000",
+      "chapter": 2,
       "banner": null,
       "backlinks": [
         "/rules/playing-an-adventure/on-your-turn",
@@ -1838,6 +1928,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d002.001",
+      "chapter": 2,
       "banner": null,
       "backlinks": [
         "/rules/playing-an-adventure/damage-rolls",
@@ -1856,8 +1947,10 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d002.002",
+      "chapter": 2,
       "banner": null,
       "backlinks": [
+        "/rules/introduction/what-is-this",
         "/rules/playing-an-adventure/duality-dice",
         "/rules/playing-an-adventure/evasion"
       ]
@@ -1874,9 +1967,12 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d002.003",
+      "chapter": 2,
       "banner": null,
       "backlinks": [
         "/rules/playing-an-adventure/reaction-rolls",
+        "/rules/playing-an-adventure/hope-and-fear",
+        "/rules/playing-an-adventure/action-rolls/step-4-resolve-the-roll",
         "/rules/playing-an-adventure/action-rolls/special-action-rolls"
       ]
     },
@@ -1892,6 +1988,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d002.004",
+      "chapter": 2,
       "banner": null,
       "backlinks": [
         "/rules/playing-an-adventure/spotlight",
@@ -1910,6 +2007,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d002.005",
+      "chapter": 2,
       "banner": null,
       "backlinks": [
         "/rules/playing-an-adventure/cards",
@@ -1928,9 +2026,11 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d002.006",
+      "chapter": 2,
       "banner": null,
       "backlinks": [
         "/rules/playing-an-adventure/advice-for-players",
+        "/rules/playing-an-adventure/stress",
         "/rules/playing-an-adventure/death/revival"
       ]
     },
@@ -1946,6 +2046,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d002.007",
+      "chapter": 2,
       "banner": null,
       "backlinks": [
         "/rules/playing-an-adventure/cover-line-of-sight-and-darkness",
@@ -1964,8 +2065,10 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d002.008",
+      "chapter": 2,
       "banner": null,
       "backlinks": [
+        "/rules/preparing-for-adventure/domains/reading-a-domain-card",
         "/rules/playing-an-adventure/conditions",
         "/rules/playing-an-adventure/battling-adversaries"
       ]
@@ -1982,6 +2085,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d002.009",
+      "chapter": 2,
       "banner": null,
       "backlinks": [
         "/rules/playing-an-adventure/ranges",
@@ -2000,10 +2104,12 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d002.010",
+      "chapter": 2,
       "banner": null,
       "backlinks": [
         "/rules/playing-an-adventure/hope-and-fear",
-        "/rules/playing-an-adventure/on-your-turn"
+        "/rules/playing-an-adventure/on-your-turn",
+        "/rules/playing-an-adventure/action-rolls/step-4-resolve-the-roll"
       ]
     },
     {
@@ -2018,6 +2124,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d002.011",
+      "chapter": 2,
       "banner": null,
       "backlinks": [
         "/rules/playing-an-adventure/ranges",
@@ -2036,6 +2143,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d002.012",
+      "chapter": 2,
       "banner": null,
       "backlinks": [
         "/rules/playing-an-adventure/consumables",
@@ -2054,10 +2162,12 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d002.013",
+      "chapter": 2,
       "banner": null,
       "backlinks": [
         "/rules/playing-an-adventure/reaction-rolls",
-        "/rules/playing-an-adventure/battling-adversaries"
+        "/rules/playing-an-adventure/battling-adversaries",
+        "/rules/playing-an-adventure/action-rolls/step-2-add-dice-and-modifiers"
       ]
     },
     {
@@ -2072,8 +2182,10 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d002.014",
+      "chapter": 2,
       "banner": null,
       "backlinks": [
+        "/rules/preparing-for-adventure/character-creation/step-5-choose-starting-equipment",
         "/rules/playing-an-adventure/stress",
         "/rules/playing-an-adventure/evasion"
       ]
@@ -2090,6 +2202,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d002.015",
+      "chapter": 2,
       "banner": null,
       "backlinks": [
         "/rules/playing-an-adventure/items"
@@ -2107,6 +2220,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d002.016",
+      "chapter": 2,
       "banner": null,
       "backlinks": [
         "/rules/playing-an-adventure/additional-rules",
@@ -2125,9 +2239,11 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d002.017",
+      "chapter": 2,
       "banner": null,
       "backlinks": [
         "/rules/playing-an-adventure/domain-cards",
+        "/rules/playing-an-adventure/stress",
         "/rules/playing-an-adventure/countdowns"
       ]
     },
@@ -2143,6 +2259,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d002.018",
+      "chapter": 2,
       "banner": null,
       "backlinks": [
         "/rules/playing-an-adventure/domain-cards",
@@ -2161,6 +2278,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d002.019",
+      "chapter": 2,
       "banner": null,
       "backlinks": [
         "/rules/playing-an-adventure/wounds-and-damage-thresholds",
@@ -2179,6 +2297,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d002.020",
+      "chapter": 2,
       "banner": null,
       "backlinks": [
         "/rules/playing-an-adventure/cards",
@@ -2197,6 +2316,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d002.021",
+      "chapter": 2,
       "banner": null,
       "backlinks": [
         "/rules/playing-an-adventure/spotlight"
@@ -2214,6 +2334,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d002.022",
+      "chapter": 2,
       "banner": null,
       "backlinks": [
         "/rules/playing-an-adventure/hope-and-fear",
@@ -2232,6 +2353,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d002.023",
+      "chapter": 2,
       "banner": null,
       "backlinks": [
         "/rules/playing-an-adventure/gold",
@@ -2250,6 +2372,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d002.024",
+      "chapter": 2,
       "banner": null,
       "backlinks": [
         "/rules/playing-an-adventure/movement",
@@ -2268,6 +2391,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d002.d000.000",
+      "chapter": 2,
       "banner": null,
       "backlinks": [
         "/rules/playing-an-adventure/armor/tier-2",
@@ -2286,6 +2410,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d002.d000.001",
+      "chapter": 2,
       "banner": null,
       "backlinks": [
         "/rules/playing-an-adventure/armor/tier-1",
@@ -2304,6 +2429,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d002.d000.002",
+      "chapter": 2,
       "banner": null,
       "backlinks": [
         "/rules/playing-an-adventure/armor/tier-2",
@@ -2322,6 +2448,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d002.d000.003",
+      "chapter": 2,
       "banner": null,
       "backlinks": [
         "/rules/playing-an-adventure/items",
@@ -2340,6 +2467,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d002.d001.000",
+      "chapter": 2,
       "banner": null,
       "backlinks": [
         "/rules/playing-an-adventure/stress",
@@ -2358,6 +2486,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d002.d001.001",
+      "chapter": 2,
       "banner": null,
       "backlinks": [
         "/rules/playing-an-adventure/action-rolls/action-rolls",
@@ -2376,6 +2505,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d002.d001.002",
+      "chapter": 2,
       "banner": null,
       "backlinks": [
         "/rules/playing-an-adventure/action-rolls/step-1-choose-a-trait",
@@ -2394,6 +2524,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d002.d001.003",
+      "chapter": 2,
       "banner": null,
       "backlinks": [
         "/rules/playing-an-adventure/action-rolls/step-2-add-dice-and-modifiers",
@@ -2412,6 +2543,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d002.d001.004",
+      "chapter": 2,
       "banner": null,
       "backlinks": [
         "/rules/playing-an-adventure/action-rolls/step-3-roll-the-dice",
@@ -2430,6 +2562,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d002.d001.005",
+      "chapter": 2,
       "banner": null,
       "backlinks": [
         "/rules/playing-an-adventure/action-rolls/step-4-resolve-the-roll",
@@ -2448,8 +2581,10 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d002.d001.006",
+      "chapter": 2,
       "banner": null,
       "backlinks": [
+        "/rules/playing-an-adventure/hope-and-fear",
         "/rules/playing-an-adventure/damage-rolls",
         "/rules/playing-an-adventure/action-rolls/story-through-consequences"
       ]
@@ -2466,6 +2601,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d002.d002.000",
+      "chapter": 2,
       "banner": null,
       "backlinks": [
         "/rules/playing-an-adventure/secondary-weapons/tier-2",
@@ -2484,6 +2620,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d002.d002.001",
+      "chapter": 2,
       "banner": null,
       "backlinks": [
         "/rules/playing-an-adventure/secondary-weapons/tier-1",
@@ -2502,6 +2639,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d002.d002.002",
+      "chapter": 2,
       "banner": null,
       "backlinks": [
         "/rules/playing-an-adventure/secondary-weapons/tier-2",
@@ -2520,6 +2658,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d002.d002.003",
+      "chapter": 2,
       "banner": null,
       "backlinks": [
         "/rules/playing-an-adventure/armor/tier-1",
@@ -2538,6 +2677,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d002.d003.000",
+      "chapter": 2,
       "banner": null,
       "backlinks": [
         "/rules/playing-an-adventure/primary-weapons/magic-weapons-tier-1",
@@ -2556,6 +2696,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d002.d003.001",
+      "chapter": 2,
       "banner": null,
       "backlinks": [
         "/rules/playing-an-adventure/primary-weapons/combat-wheelchairs",
@@ -2574,6 +2715,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d002.d003.002",
+      "chapter": 2,
       "banner": null,
       "backlinks": [
         "/rules/playing-an-adventure/primary-weapons/magic-weapons-tier-1"
@@ -2591,6 +2733,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d002.d003.004",
+      "chapter": 2,
       "banner": null,
       "backlinks": [
         "/rules/playing-an-adventure/primary-weapons/physical-weapons-tier-1"
@@ -2608,6 +2751,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d002.d003.005",
+      "chapter": 2,
       "banner": null,
       "backlinks": [
         "/rules/playing-an-adventure/primary-weapons/magic-weapons-tier-4",
@@ -2626,6 +2770,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d002.d003.006",
+      "chapter": 2,
       "banner": null,
       "backlinks": [
         "/rules/playing-an-adventure/primary-weapons/physical-weapons-tier-1",
@@ -2644,6 +2789,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d002.d003.007",
+      "chapter": 2,
       "banner": null,
       "backlinks": [
         "/rules/playing-an-adventure/primary-weapons/physical-weapons-tier-2",
@@ -2662,6 +2808,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d002.d003.008",
+      "chapter": 2,
       "banner": null,
       "backlinks": [
         "/rules/playing-an-adventure/secondary-weapons/tier-1",
@@ -2680,9 +2827,11 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d002.d004.000",
+      "chapter": 2,
       "banner": null,
       "backlinks": [
         "/rules/playing-an-adventure/gold",
+        "/rules/playing-an-adventure/wounds-and-damage-thresholds",
         "/rules/playing-an-adventure/rest/short-rest"
       ]
     },
@@ -2698,6 +2847,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d002.d004.001",
+      "chapter": 2,
       "banner": null,
       "backlinks": [
         "/rules/playing-an-adventure/rest/rest",
@@ -2716,6 +2866,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d002.d004.002",
+      "chapter": 2,
       "banner": null,
       "backlinks": [
         "/rules/playing-an-adventure/rest/short-rest",
@@ -2734,6 +2885,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d002.d004.003",
+      "chapter": 2,
       "banner": null,
       "backlinks": [
         "/rules/playing-an-adventure/rest/long-rest",
@@ -2752,6 +2904,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d002.d004.004",
+      "chapter": 2,
       "banner": null,
       "backlinks": [
         "/rules/playing-an-adventure/rest/working-on-a-project-during-rest",
@@ -2770,6 +2923,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d002.d004.005",
+      "chapter": 2,
       "banner": null,
       "backlinks": [
         "/rules/playing-an-adventure/rest/rest-outcomes"
@@ -2787,10 +2941,12 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d002.d005.000",
+      "chapter": 2,
       "banner": null,
       "backlinks": [
         "/rules/playing-an-adventure/advice-for-players",
-        "/rules/playing-an-adventure/character-advancement/choosing-advancements"
+        "/rules/playing-an-adventure/character-advancement/choosing-advancements",
+        "/rules/running-an-adventure/running-a-session/party-level-up"
       ]
     },
     {
@@ -2805,6 +2961,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d002.d005.001",
+      "chapter": 2,
       "banner": null,
       "backlinks": [
         "/rules/playing-an-adventure/character-advancement/leveling-up",
@@ -2823,6 +2980,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d002.d005.002",
+      "chapter": 2,
       "banner": null,
       "backlinks": [
         "/rules/playing-an-adventure/character-advancement/choosing-advancements",
@@ -2841,6 +2999,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d002.d005.003",
+      "chapter": 2,
       "banner": null,
       "backlinks": [
         "/rules/playing-an-adventure/character-advancement/raising-damage-thresholds",
@@ -2859,8 +3018,10 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d002.d005.004",
+      "chapter": 2,
       "banner": null,
       "backlinks": [
+        "/rules/playing-an-adventure/character-advancement/choosing-advancements",
         "/rules/playing-an-adventure/character-advancement/gaining-domain-cards",
         "/rules/playing-an-adventure/equipment/equipping-storing-and-swapping-gear"
       ]
@@ -2877,8 +3038,10 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d002.d006.000",
+      "chapter": 2,
       "banner": null,
       "backlinks": [
+        "/rules/playing-an-adventure/wounds-and-damage-thresholds",
         "/rules/playing-an-adventure/death/death-move"
       ]
     },
@@ -2894,6 +3057,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d002.d006.001",
+      "chapter": 2,
       "banner": null,
       "backlinks": [
         "/rules/playing-an-adventure/death/death",
@@ -2912,6 +3076,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d002.d006.002",
+      "chapter": 2,
       "banner": null,
       "backlinks": [
         "/rules/playing-an-adventure/death/death-move",
@@ -2930,6 +3095,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d002.d006.003",
+      "chapter": 2,
       "banner": null,
       "backlinks": [
         "/rules/playing-an-adventure/additional-rules",
@@ -2948,8 +3114,10 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d002.d007.000",
+      "chapter": 2,
       "banner": null,
       "backlinks": [
+        "/rules/playing-an-adventure/action-rolls/special-action-rolls",
         "/rules/playing-an-adventure/character-advancement/multiclassing",
         "/rules/playing-an-adventure/equipment/using-weapons"
       ]
@@ -2966,6 +3134,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d002.d007.001",
+      "chapter": 2,
       "banner": null,
       "backlinks": [
         "/rules/playing-an-adventure/equipment/equipping-storing-and-swapping-gear",
@@ -2984,6 +3153,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d002.d007.002",
+      "chapter": 2,
       "banner": null,
       "backlinks": [
         "/rules/playing-an-adventure/equipment/using-weapons",
@@ -3002,8 +3172,10 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d002.d007.003",
+      "chapter": 2,
       "banner": null,
       "backlinks": [
+        "/rules/playing-an-adventure/wounds-and-damage-thresholds",
         "/rules/playing-an-adventure/primary-weapons/combat-wheelchairs",
         "/rules/playing-an-adventure/equipment/weapon-traits"
       ]
@@ -3020,6 +3192,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d003.000",
+      "chapter": 3,
       "banner": null,
       "backlinks": [
         "/rules/running-an-adventure/gm-principles/gm-principles"
@@ -3037,6 +3210,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d003.d002.000",
+      "chapter": 3,
       "banner": null,
       "backlinks": [
         "/rules/running-an-adventure/core-gm-mechanics/calling-for-action-rolls"
@@ -3054,9 +3228,12 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d003.d002.001",
+      "chapter": 3,
       "banner": null,
       "backlinks": [
-        "/rules/running-an-adventure/core-gm-mechanics/advantages-and-disadvantages"
+        "/rules/playing-an-adventure/reaction-rolls",
+        "/rules/running-an-adventure/core-gm-mechanics/advantages-and-disadvantages",
+        "/rules/adversaries-and-environments/adversaries/adversary-features/adversary-actions"
       ]
     },
     {
@@ -3071,6 +3248,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d003.d002.002",
+      "chapter": 3,
       "banner": null,
       "backlinks": [
         "/rules/running-an-adventure/core-gm-mechanics/gm-rolls",
@@ -3089,6 +3267,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d003.d002.004",
+      "chapter": 3,
       "banner": null,
       "backlinks": [
         "/rules/running-an-adventure/core-gm-mechanics/difficulty-examples",
@@ -3107,8 +3286,10 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d003.d002.005",
+      "chapter": 3,
       "banner": null,
       "backlinks": [
+        "/rules/playing-an-adventure/advantage-and-disadvantage",
         "/rules/running-an-adventure/core-gm-mechanics/adversary-rolls",
         "/rules/running-an-adventure/core-gm-mechanics/difficulty-examples"
       ]
@@ -3125,6 +3306,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d003.d002.006",
+      "chapter": 3,
       "banner": null,
       "backlinks": [
         "/rules/running-an-adventure/core-gm-mechanics/determining-a-rolls-difficulty",
@@ -3143,6 +3325,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d003.d002.d000.000",
+      "chapter": 3,
       "banner": null,
       "backlinks": [
         "/rules/running-an-adventure/core-gm-mechanics/gold-loot-and-supplies/your-worlds-economy",
@@ -3161,6 +3344,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d003.d002.d000.001",
+      "chapter": 3,
       "banner": null,
       "backlinks": [
         "/rules/running-an-adventure/core-gm-mechanics/gold-loot-and-supplies/gold-loot-and-supplies",
@@ -3179,6 +3363,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d003.d002.d001.000",
+      "chapter": 3,
       "banner": null,
       "backlinks": [
         "/rules/running-an-adventure/core-gm-mechanics/optional-gm-mechanics/fate-rolls",
@@ -3197,6 +3382,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d003.d002.d001.001",
+      "chapter": 3,
       "banner": null,
       "backlinks": [
         "/rules/running-an-adventure/core-gm-mechanics/optional-gm-mechanics/optional-gm-mechanics",
@@ -3215,6 +3401,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d003.d002.d001.002",
+      "chapter": 3,
       "banner": null,
       "backlinks": [
         "/rules/running-an-adventure/core-gm-mechanics/optional-gm-mechanics/fate-rolls",
@@ -3233,6 +3420,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d003.d002.d001.003",
+      "chapter": 3,
       "banner": null,
       "backlinks": [
         "/rules/running-an-adventure/core-gm-mechanics/optional-gm-mechanics/falling-and-collision-damage",
@@ -3251,6 +3439,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d003.d002.d001.004",
+      "chapter": 3,
       "banner": null,
       "backlinks": [
         "/rules/running-an-adventure/core-gm-mechanics/optional-gm-mechanics/underwater-movement-and-combat"
@@ -3268,8 +3457,11 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d003.d002.d002.000",
+      "chapter": 3,
       "banner": null,
       "backlinks": [
+        "/rules/playing-an-adventure/hope-and-fear",
+        "/rules/playing-an-adventure/on-your-turn",
         "/rules/running-an-adventure/core-gm-mechanics/fear/how-much-fear-to-spend-in-a-scene",
         "/rules/running-an-adventure/core-gm-mechanics/gm-moves/examples-of-gm-moves"
       ]
@@ -3286,6 +3478,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d003.d002.d002.001",
+      "chapter": 3,
       "banner": null,
       "backlinks": [
         "/rules/running-an-adventure/core-gm-mechanics/fear/fear",
@@ -3304,6 +3497,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d003.d002.d002.002",
+      "chapter": 3,
       "banner": null,
       "backlinks": [
         "/rules/running-an-adventure/core-gm-mechanics/fear/fear",
@@ -3322,8 +3516,11 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d003.d002.d003.000",
+      "chapter": 3,
       "banner": null,
       "backlinks": [
+        "/rules/playing-an-adventure/countdowns",
+        "/rules/playing-an-adventure/rest/working-on-a-project-during-rest",
         "/rules/running-an-adventure/core-gm-mechanics/countdowns/countdown-die",
         "/rules/running-an-adventure/gm-principles/advice-for-gms",
         "/rules/running-an-adventure/running-a-session/think-in-moments",
@@ -3342,6 +3539,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d003.d002.d003.001",
+      "chapter": 3,
       "banner": null,
       "backlinks": [
         "/rules/running-an-adventure/core-gm-mechanics/countdowns/countdowns"
@@ -3359,6 +3557,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d003.d002.d003.003",
+      "chapter": 3,
       "banner": null,
       "backlinks": [
         "/rules/running-an-adventure/core-gm-mechanics/countdowns/dynamic-countdown",
@@ -3377,6 +3576,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d003.d002.d003.004",
+      "chapter": 3,
       "banner": null,
       "backlinks": [
         "/rules/running-an-adventure/core-gm-mechanics/countdowns/standard-countdown",
@@ -3396,6 +3596,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d003.d002.d003.005",
+      "chapter": 3,
       "banner": null,
       "backlinks": [
         "/rules/running-an-adventure/core-gm-mechanics/countdowns/dynamic-countdown"
@@ -3413,6 +3614,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d003.d002.d003.007",
+      "chapter": 3,
       "banner": null,
       "backlinks": [
         "/rules/running-an-adventure/core-gm-mechanics/gold-loot-and-supplies/gold-loot-and-supplies"
@@ -3430,6 +3632,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d003.d002.d004.000",
+      "chapter": 3,
       "banner": null,
       "backlinks": [
         "/rules/running-an-adventure/core-gm-mechanics/gold-loot-and-supplies/your-worlds-economy",
@@ -3448,6 +3651,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d003.d002.d004.001",
+      "chapter": 3,
       "banner": null,
       "backlinks": [
         "/rules/running-an-adventure/core-gm-mechanics/managing-npcs/managing-npcs",
@@ -3466,6 +3670,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d003.d002.d004.002",
+      "chapter": 3,
       "banner": null,
       "backlinks": [
         "/rules/running-an-adventure/core-gm-mechanics/optional-gm-mechanics/optional-gm-mechanics",
@@ -3484,8 +3689,11 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d003.d002.d005.000",
+      "chapter": 3,
       "banner": null,
       "backlinks": [
+        "/rules/playing-an-adventure/on-your-turn",
+        "/rules/playing-an-adventure/action-rolls/step-4-resolve-the-roll",
         "/rules/running-an-adventure/core-gm-mechanics/calling-for-action-rolls",
         "/rules/running-an-adventure/core-gm-mechanics/gm-moves/when-to-make-a-move"
       ]
@@ -3502,6 +3710,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d003.d002.d005.001",
+      "chapter": 3,
       "banner": null,
       "backlinks": [
         "/rules/running-an-adventure/core-gm-mechanics/gm-moves/gm-moves",
@@ -3520,27 +3729,10 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d003.d002.d005.002",
+      "chapter": 3,
       "banner": null,
       "backlinks": [
         "/rules/running-an-adventure/core-gm-mechanics/gm-moves/when-to-make-a-move"
-      ]
-    },
-    {
-      "id": "rules/running-an-adventure/core-gm-mechanics/gm-moves/soft-and-hard-moves",
-      "url": "/rules/running-an-adventure/core-gm-mechanics/gm-moves/soft-and-hard-moves",
-      "sectionId": "rules",
-      "title": "Мягкие и жёсткие ходы",
-      "layout": "article",
-      "tags": [],
-      "original": null,
-      "vaultRelPath": "01︱📚︱Правила/03︱📓︱Создавая приключение/03︱📓︱Основные механики мастера/04︱Ходы мастера/05︱Мягкие и жёсткие ходы.md",
-      "isIndex": false,
-      "parentId": null,
-      "sortKey": ".d003.d002.d005.004",
-      "banner": null,
-      "backlinks": [
-        "/rules/running-an-adventure/core-gm-mechanics/gm-moves/when-to-make-a-move",
-        "/rules/running-an-adventure/core-gm-mechanics/gm-moves/examples-of-gm-moves"
       ]
     },
     {
@@ -3554,13 +3746,13 @@
       "vaultRelPath": "01︱📚︱Правила/03︱📓︱Создавая приключение/03︱📓︱Основные механики мастера/04︱Ходы мастера/06︱Примеры ходов мастера.md",
       "isIndex": false,
       "parentId": null,
-      "sortKey": ".d003.d002.d005.005",
+      "sortKey": ".d003.d002.d005.004",
+      "chapter": 3,
       "banner": null,
       "backlinks": [
         "/rules/running-an-adventure/core-gm-mechanics/fear/fear",
         "/rules/running-an-adventure/core-gm-mechanics/gm-moves/gm-moves",
-        "/rules/running-an-adventure/core-gm-mechanics/gm-moves/choosing-a-move",
-        "/rules/running-an-adventure/core-gm-mechanics/gm-moves/soft-and-hard-moves"
+        "/rules/running-an-adventure/core-gm-mechanics/gm-moves/choosing-a-move"
       ]
     },
     {
@@ -3575,6 +3767,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d003.d003.000",
+      "chapter": 3,
       "banner": null,
       "backlinks": [
         "/rules/running-an-adventure/intro",
@@ -3593,6 +3786,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d003.d003.001",
+      "chapter": 3,
       "banner": null,
       "backlinks": [
         "/rules/running-an-adventure/intro",
@@ -3612,6 +3806,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d003.d003.002",
+      "chapter": 3,
       "banner": null,
       "backlinks": [
         "/rules/running-an-adventure/intro",
@@ -3630,6 +3825,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d003.d004.000",
+      "chapter": 3,
       "banner": null,
       "backlinks": [
         "/rules/running-an-adventure/running-a-session/preparing-battles/preparing-battles"
@@ -3647,6 +3843,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d003.d004.003",
+      "chapter": 3,
       "banner": null,
       "backlinks": [
         "/rules/running-an-adventure/running-a-session/character-death/introducing-a-new-character"
@@ -3664,6 +3861,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d003.d004.005",
+      "chapter": 3,
       "banner": null,
       "backlinks": [
         "/rules/running-an-adventure/running-a-session/creating-scenes"
@@ -3681,6 +3879,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d003.d004.006",
+      "chapter": 3,
       "banner": null,
       "backlinks": [
         "/rules/running-an-adventure/running-a-session/divided-attention"
@@ -3698,6 +3897,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d003.d004.d000.001",
+      "chapter": 3,
       "banner": null,
       "backlinks": []
     },
@@ -3713,6 +3913,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d003.d004.d000.003",
+      "chapter": 3,
       "banner": null,
       "backlinks": [
         "/rules/running-an-adventure/running-a-session/using-rest/using-rest"
@@ -3730,8 +3931,10 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d003.d004.d001.000",
+      "chapter": 3,
       "banner": null,
       "backlinks": [
+        "/rules/playing-an-adventure/rest/working-on-a-project-during-rest",
         "/rules/running-an-adventure/running-a-session/armed-conflict/battles-in-phases",
         "/rules/running-an-adventure/running-a-session/using-rest/projects-during-downtime"
       ]
@@ -3748,6 +3951,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d003.d004.d001.001",
+      "chapter": 3,
       "banner": null,
       "backlinks": [
         "/rules/running-an-adventure/running-a-session/using-rest/using-rest",
@@ -3766,6 +3970,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d003.d004.d001.002",
+      "chapter": 3,
       "banner": null,
       "backlinks": [
         "/rules/running-an-adventure/running-a-session/using-rest/projects-during-downtime",
@@ -3784,6 +3989,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d003.d004.d001.003",
+      "chapter": 3,
       "banner": null,
       "backlinks": [
         "/rules/running-an-adventure/running-a-session/using-rest/gm-and-rest",
@@ -3802,10 +4008,12 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d003.d004.d002.000",
+      "chapter": 3,
       "banner": null,
       "backlinks": [
         "/rules/running-an-adventure/running-a-session/think-in-moments",
-        "/rules/running-an-adventure/running-a-session/preparing-battles/battles-and-narrative"
+        "/rules/running-an-adventure/running-a-session/preparing-battles/battles-and-narrative",
+        "/rules/adversaries-and-environments/adversaries/anatomy-of-an-adversary"
       ]
     },
     {
@@ -3820,6 +4028,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d003.d004.d002.001",
+      "chapter": 3,
       "banner": null,
       "backlinks": [
         "/rules/running-an-adventure/running-a-session/preparing-battles/preparing-battles",
@@ -3838,6 +4047,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d003.d004.d002.002",
+      "chapter": 3,
       "banner": null,
       "backlinks": [
         "/rules/running-an-adventure/running-a-session/preparing-battles/battles-and-narrative"
@@ -3855,6 +4065,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d003.d004.d003.000",
+      "chapter": 3,
       "banner": null,
       "backlinks": [
         "/rules/running-an-adventure/running-a-session/using-rest/extended-downtime-simple",
@@ -3873,6 +4084,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d003.d004.d003.001",
+      "chapter": 3,
       "banner": null,
       "backlinks": [
         "/rules/running-an-adventure/running-a-session/character-death/character-death",
@@ -3891,6 +4103,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d003.d004.d003.002",
+      "chapter": 3,
       "banner": null,
       "backlinks": [
         "/rules/running-an-adventure/running-a-session/character-death/avoid-death"
@@ -3908,6 +4121,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d003.d004.d003.005",
+      "chapter": 3,
       "banner": null,
       "backlinks": [
         "/rules/running-an-adventure/running-a-session/party-level-up"
@@ -3925,8 +4139,11 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d004.d000.000",
+      "chapter": 4,
       "banner": null,
-      "backlinks": []
+      "backlinks": [
+        "/rules/adversaries-and-environments/adversaries/anatomy-of-an-adversary"
+      ]
     },
     {
       "id": "rules/adversaries-and-environments/adversaries/anatomy-of-an-adversary",
@@ -3940,6 +4157,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d004.d000.001",
+      "chapter": 4,
       "banner": null,
       "backlinks": []
     },
@@ -3955,8 +4173,11 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d004.d000.002",
+      "chapter": 4,
       "banner": null,
-      "backlinks": []
+      "backlinks": [
+        "/rules/adversaries-and-environments/adversaries/anatomy-of-an-adversary"
+      ]
     },
     {
       "id": "rules/adversaries-and-environments/adversaries/adversary-features/adversary-actions",
@@ -3970,6 +4191,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d004.d000.d000.000",
+      "chapter": 4,
       "banner": null,
       "backlinks": []
     },
@@ -3985,6 +4207,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d004.d000.d000.001",
+      "chapter": 4,
       "banner": null,
       "backlinks": []
     },
@@ -4000,6 +4223,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d004.d000.d000.002",
+      "chapter": 4,
       "banner": null,
       "backlinks": []
     },
@@ -4015,8 +4239,11 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d004.d000.d000.003",
+      "chapter": 4,
       "banner": null,
-      "backlinks": []
+      "backlinks": [
+        "/rules/adversaries-and-environments/adversaries/anatomy-of-an-adversary"
+      ]
     },
     {
       "id": "rules/adversaries-and-environments/adversaries/adversary-features/adversary-reactions",
@@ -4030,6 +4257,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d004.d000.d000.004",
+      "chapter": 4,
       "banner": null,
       "backlinks": []
     },
@@ -4045,6 +4273,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d004.d000.d000.005",
+      "chapter": 4,
       "banner": null,
       "backlinks": []
     },
@@ -4060,6 +4289,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d004.d000.d000.007",
+      "chapter": 4,
       "banner": null,
       "backlinks": []
     },
@@ -4075,6 +4305,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d004.d001.000",
+      "chapter": 4,
       "banner": null,
       "backlinks": []
     },
@@ -4090,8 +4321,12 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d004.d001.001",
+      "chapter": 4,
       "banner": null,
-      "backlinks": []
+      "backlinks": [
+        "/rules/running-an-adventure/core-gm-mechanics/managing-npcs/managing-npcs",
+        "/rules/adversaries-and-environments/adversaries/anatomy-of-an-adversary"
+      ]
     },
     {
       "id": "rules/adversaries-and-environments/choosing-adversaries/leader",
@@ -4105,6 +4340,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d004.d001.002",
+      "chapter": 4,
       "banner": null,
       "backlinks": []
     },
@@ -4120,6 +4356,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d004.d001.003",
+      "chapter": 4,
       "banner": null,
       "backlinks": []
     },
@@ -4135,6 +4372,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d004.d001.004",
+      "chapter": 4,
       "banner": null,
       "backlinks": []
     },
@@ -4150,6 +4388,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d004.d001.006",
+      "chapter": 4,
       "banner": null,
       "backlinks": []
     },
@@ -4165,6 +4404,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d004.d001.007",
+      "chapter": 4,
       "banner": null,
       "backlinks": []
     },
@@ -4180,6 +4420,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d004.d001.008",
+      "chapter": 4,
       "banner": null,
       "backlinks": []
     },
@@ -4195,6 +4436,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d004.d001.009",
+      "chapter": 4,
       "banner": null,
       "backlinks": []
     },
@@ -4210,6 +4452,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d004.d001.010",
+      "chapter": 4,
       "banner": null,
       "backlinks": []
     },
@@ -4225,6 +4468,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d004.d001.011",
+      "chapter": 4,
       "banner": null,
       "backlinks": []
     },
@@ -4240,6 +4484,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d004.d001.012",
+      "chapter": 4,
       "banner": null,
       "backlinks": []
     },
@@ -4255,6 +4500,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d004.d002.000",
+      "chapter": 4,
       "banner": null,
       "backlinks": []
     },
@@ -4270,8 +4516,11 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d004.d002.001",
+      "chapter": 4,
       "banner": null,
-      "backlinks": []
+      "backlinks": [
+        "/rules/adversaries-and-environments/environments/environments-by-tier"
+      ]
     },
     {
       "id": "rules/adversaries-and-environments/environments/environments-by-tier",
@@ -4285,6 +4534,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d004.d002.002",
+      "chapter": 4,
       "banner": null,
       "backlinks": []
     },
@@ -4300,6 +4550,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d004.d002.003",
+      "chapter": 4,
       "banner": null,
       "backlinks": []
     },
@@ -4315,6 +4566,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d004.d002.004",
+      "chapter": 4,
       "banner": null,
       "backlinks": []
     },
@@ -4330,6 +4582,7 @@
       "isIndex": false,
       "parentId": null,
       "sortKey": ".d004.d002.005",
+      "chapter": 4,
       "banner": null,
       "backlinks": []
     }

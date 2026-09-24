@@ -40,7 +40,14 @@ export function buildSectionPages(
   const pages: PageSkeleton[] = []
   const sectionRoot = path.join(vaultPath, section.vaultPath)
 
-  function walk(absDir: string, urlPrefix: string, idPrefix: string, parentId: string | null, sortKeyPrefix: string) {
+  function chapterOf(dirName: string): number {
+    const m = /^(\d{2})/.exec(dirName)
+    if (!m) return 0 // Appendix и прочее без числового префикса — нейтральная глава
+    const n = Number(m[1])
+    return n >= 1 && n <= 5 ? n : 0 // 00 Introduction -> 0
+  }
+
+  function walk(absDir: string, urlPrefix: string, idPrefix: string, parentId: string | null, sortKeyPrefix: string, chapter: number) {
     const entries = fs.readdirSync(absDir, { withFileTypes: true }).filter((e) => !e.name.startsWith('.'))
     const hasSortspec = entries.some((e) => e.isFile() && e.name === 'sortspec.md')
 
@@ -64,7 +71,7 @@ export function buildSectionPages(
         ownIndexIsPublic = true
         pages.push(makePage({
           absPath: abs, urlPrefix, idPrefix, parentId, sortKeyPrefix, order: 0,
-          section, slugs, warnings, raw: parsed, isIndex: true,
+          section, slugs, warnings, raw: parsed, isIndex: true, chapter,
         }))
       }
     }
@@ -89,7 +96,7 @@ export function buildSectionPages(
         parentId: ownIndexIsPublic ? ownId : parentId,
         sortKeyPrefix: `${sortKeyPrefix}.${String(i).padStart(3, '0')}`,
         order: i,
-        section, slugs, warnings, raw: parsed, isIndex: false,
+        section, slugs, warnings, raw: parsed, isIndex: false, chapter,
       }))
     })
 
@@ -97,17 +104,19 @@ export function buildSectionPages(
       const abs = path.join(absDir, d.name)
       if (!hasPublicDescendant(abs)) return
       const slug = resolveSlug(d.name, slugs)
+      const childChapter = absDir === sectionRoot ? chapterOf(d.name) : chapter
       walk(
         abs,
         `${ownUrl}/${slug}`,
         `${ownId}/${slug}`,
         ownIndexIsPublic ? ownId : parentId,
         `${sortKeyPrefix}.d${String(i).padStart(3, '0')}`,
+        childChapter,
       )
     })
   }
 
-  walk(sectionRoot, section.urlPrefix, section.id, null, '')
+  walk(sectionRoot, section.urlPrefix, section.id, null, '', 0)
   return pages
 }
 
@@ -123,8 +132,9 @@ function makePage(args: {
   warnings: string[]
   raw: matter.GrayMatterFile<string>
   isIndex: boolean
+  chapter: number
 }): PageSkeleton {
-  const { absPath, urlPrefix, idPrefix, parentId, sortKeyPrefix, order, section, warnings, raw, isIndex } = args
+  const { absPath, urlPrefix, idPrefix, parentId, sortKeyPrefix, order, section, warnings, raw, isIndex, chapter } = args
   const fm = raw.data
   const layout = (fm.layout as string) ?? section.defaultLayout ?? 'article'
   if (!KNOWN_LAYOUTS.has(layout)) {
@@ -143,6 +153,7 @@ function makePage(args: {
     isIndex,
     parentId,
     sortKey: sortKeyPrefix,
+    chapter,
     banner: null,
     backlinks: [],
     absPath,

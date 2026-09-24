@@ -42,10 +42,15 @@ export function indexImages(vaultPath: string): Map<string, ImageEntry[]> {
 }
 
 export class ImageExporter {
-  private cardCache = new Map<string, string>() // absPath -> output relPath (content/images/...)
+  private cardCache = new Map<string, string>() // absPath -> output relPath (public/images/...)
   private mediaCache = new Map<string, string>()
 
-  constructor(private outDir: string) {
+  /** outDir — папка public/ (не content/!): картинки — статика, отдаётся как есть, без
+   * обработки Vite; content/pages/**\/*.vue — настоящие SFC, и относительный src там
+   * Vite попытался бы резолвить как модуль-импорт. base — префикс сайта (SITE_BASE,
+   * по умолчанию "/rollwithhope/"), запекается в URL на этапе sync, т.к. src в шаблоне —
+   * статическая строка, не может прочитать import.meta.env.BASE_URL в рантайме. */
+  constructor(private outDir: string, private base: string) {
     fs.mkdirSync(path.join(outDir, 'images', 'cards'), { recursive: true })
     fs.mkdirSync(path.join(outDir, 'images', 'media'), { recursive: true })
   }
@@ -73,7 +78,7 @@ export class ImageExporter {
     }
 
     const meta660 = await sharp(out660Abs).metadata()
-    return { url330: out330Rel, url660: out660Rel, width: meta660.width ?? 660, height: meta660.height ?? 922 }
+    return { url330: this.base + out330Rel, url660: this.base + out660Rel, width: meta660.width ?? 660, height: meta660.height ?? 922 }
   }
 
   /** Баннер/иллюстрация: копия с пережатием в WebP q85, ограничение по ширине 1600px
@@ -90,7 +95,7 @@ export class ImageExporter {
       await img.resize({ width: targetW, withoutEnlargement: true }).webp({ quality: 85 }).toFile(outAbs)
     }
     const meta = await sharp(outAbs).metadata()
-    return { url: outRel, width: meta.width ?? 0, height: meta.height ?? 0 }
+    return { url: this.base + outRel, width: meta.width ?? 0, height: meta.height ?? 0 }
   }
 
   /** Пропорции оригинала — для плейсхолдера исключённой картинки (не публикуем сам файл,
