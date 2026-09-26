@@ -26,7 +26,7 @@
 </blockquote>
 <hr>
 <h4 id="свойство-надежды-воина"><span class="marker" data-marker="chapter"></span>Свойство надежды воина<a class="anchor" href="#свойство-надежды-воина" aria-label="Ссылка на раздел"></a></h4>
-<h5 id="без-пощады"><span class="marker" data-marker="minor"></span>Без пощады<a class="anchor" href="#без-пощады" aria-label="Ссылка на раздел"></a></h5>
+<h6 id="без-пощады"><span class="marker" data-marker="minor"></span>Без пощады<a class="anchor" href="#без-пощады" aria-label="Ссылка на раздел"></a></h6>
 <p><strong>Потратьте 3 Надежды</strong>, чтобы получить бонус +1 к вашим броскам атаки до конца следующего отдыха.</p>
 <hr>
 <h4 id="свойства-класса"><span class="marker" data-marker="chapter"></span>Свойства класса<a class="anchor" href="#свойства-класса" aria-label="Ссылка на раздел"></a></h4>

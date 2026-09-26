@@ -3,17 +3,17 @@
 <p>В этом разделе вы можете найти описания всех классов Daggerheart.</p>
 <hr>
 <p>Выбранный вами класс предоставляет следующее:</p>
-<h6 id="section"><span class="marker" data-marker="minor"></span><strong>Домены</strong><a class="anchor" href="#section" aria-label="Ссылка на раздел"></a></h6>
+<h6 id="домены"><span class="marker" data-marker="minor"></span>Домены<a class="anchor" href="#домены" aria-label="Ссылка на раздел"></a></h6>
 <p>Каждый класс указывает, какие два домена лежат в основе его способностей. Это определяет, из каких колод доменов вы можете выбирать карточки при создании персонажа и при повышении уровня.</p>
-<h6 id="section-2"><span class="marker" data-marker="minor"></span><strong>Стартовое уклонение</strong><a class="anchor" href="#section-2" aria-label="Ссылка на раздел"></a></h6>
+<h6 id="стартовое-уклонение"><span class="marker" data-marker="minor"></span>Стартовое уклонение<a class="anchor" href="#стартовое-уклонение" aria-label="Ссылка на раздел"></a></h6>
 <p>У каждого класса свой стартовый показатель Уклонения.</p>
-<h6 id="section-3"><span class="marker" data-marker="minor"></span><strong>Стартовый максимум Ран</strong><a class="anchor" href="#section-3" aria-label="Ссылка на раздел"></a></h6>
+<h6 id="стартовый-максимум-ран"><span class="marker" data-marker="minor"></span>Стартовый максимум Ран<a class="anchor" href="#стартовый-максимум-ран" aria-label="Ссылка на раздел"></a></h6>
 <p>У каждого класса свой стартовый максимум Ран, которые он может получить.</p>
-<h6 id="section-4"><span class="marker" data-marker="minor"></span><strong>Предметы класса</strong><a class="anchor" href="#section-4" aria-label="Ссылка на раздел"></a></h6>
+<h6 id="предметы-класса"><span class="marker" data-marker="minor"></span>Предметы класса<a class="anchor" href="#предметы-класса" aria-label="Ссылка на раздел"></a></h6>
 <p>У каждого класса есть уникальный набор предметов, с которыми он начинает игру.</p>
-<h6 id="section-5"><span class="marker" data-marker="minor"></span><strong>Свойство класса</strong><a class="anchor" href="#section-5" aria-label="Ссылка на раздел"></a></h6>
+<h6 id="свойство-класса"><span class="marker" data-marker="minor"></span>Свойство класса<a class="anchor" href="#свойство-класса" aria-label="Ссылка на раздел"></a></h6>
 <p>У каждого класса есть уникальное свойство класса (или набор свойств).</p>
-<h6 id="section-6"><span class="marker" data-marker="minor"></span><strong>Свойство Надежды класса</strong><a class="anchor" href="#section-6" aria-label="Ссылка на раздел"></a></h6>
+<h6 id="свойство-надежды-класса"><span class="marker" data-marker="minor"></span>Свойство Надежды класса<a class="anchor" href="#свойство-надежды-класса" aria-label="Ссылка на раздел"></a></h6>
 <p>У каждого класса есть особый ход, который можно использовать, потратив три Надежды.</p>
 <hr>
 <p>Выбранный вами <strong>подкласс</strong> дает следующее:</p>

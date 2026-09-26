@@ -1,12 +1,11 @@
 <template>
 <div class="prose" data-chapter="1" data-section="rules">
-<h2 id="описание"><span class="marker" data-marker="chapter"></span>Описание<a class="anchor" href="#описание" aria-label="Ссылка на раздел"></a></h2>
 <p>Фунгрилы напоминают по внешнему виду гуманоидные грибы. Их внешность варьируется от почти человеческой до ярко выраженной грибной. Окраска кожи и тканей — от землистых тонов до ярко-красных, жёлтых, фиолетовых и синих. У фунгрилов нет стандартной формы: их тела, лица и конечности поражают разнообразием. Даже рост у них колеблется от миниатюрных 2 фута до внушительных 7 футов. Хотя средняя продолжительность жизни фунгрила составляет около 300 лет, некоторые из них доживают и до гораздо более почтенного возраста. Они способны к невербальной коммуникации, и многие представители этого происхождения используют мицелиальную сеть для химического обмена информацией с другими фунгрилами на больших расстояниях.</p>
-<h4 id="свойства-происхождения"><span class="marker" data-marker="minor"></span>Свойства происхождения<a class="anchor" href="#свойства-происхождения" aria-label="Ссылка на раздел"></a></h4>
+<h4 id="свойства-происхождения"><span class="marker" data-marker="chapter"></span>Свойства происхождения<a class="anchor" href="#свойства-происхождения" aria-label="Ссылка на раздел"></a></h4>
 <p><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Ancestry/card-fungril-660.webp" src="/rollwithhope/images/Cards/Ancestry/card-fungril-330.webp" width="330" height="462" loading="lazy" alt="card-fungril.webp" /></figure></p>
-<h6 id="мицелиальная-сеть-fungril-network">Мицелиальная сеть - Fungril Network<a class="anchor" href="#мицелиальная-сеть-fungril-network" aria-label="Ссылка на раздел"></a></h6>
+<h6 id="мицелиальная-сеть-fungril-network"><span class="marker" data-marker="minor"></span>Мицелиальная сеть - Fungril Network<a class="anchor" href="#мицелиальная-сеть-fungril-network" aria-label="Ссылка на раздел"></a></h6>
 <p>Соверши <strong>бросок Чутья (12)</strong>, чтобы использовать мицелиальную сеть для связи с сородичами. При успехе вы можете общаться на любом расстоянии.</p>
-<h6 id="связь-с-умершими-death-connection">Связь с умершими - Death Connection<a class="anchor" href="#связь-с-умершими-death-connection" aria-label="Ссылка на раздел"></a></h6>
+<h6 id="связь-с-умершими-death-connection"><span class="marker" data-marker="minor"></span>Связь с умершими - Death Connection<a class="anchor" href="#связь-с-умершими-death-connection" aria-label="Ссылка на раздел"></a></h6>
 <p>Касаясь недавно умершего тела, вы можете <strong>получить Стресс</strong>, чтобы извлечь одно воспоминание, связанное с выбранной вами эмоцией или ощущением.</p>
 <hr>
 </div>

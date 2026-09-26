@@ -26,7 +26,7 @@
 </blockquote>
 <hr>
 <h4 id="свойство-надежды-друида"><span class="marker" data-marker="chapter"></span>Свойство надежды друида<a class="anchor" href="#свойство-надежды-друида" aria-label="Ссылка на раздел"></a></h4>
-<h5 id="эволюция"><span class="marker" data-marker="minor"></span>Эволюция<a class="anchor" href="#эволюция" aria-label="Ссылка на раздел"></a></h5>
+<h6 id="эволюция"><span class="marker" data-marker="minor"></span>Эволюция<a class="anchor" href="#эволюция" aria-label="Ссылка на раздел"></a></h6>
 <p><strong>Потратьте 3 Надежды</strong>, чтобы принять звериную форму, не получая Стресс. При этом выберите один атрибут, который получит +1 до конца действия формы.</p>
 <hr>
 <h4 id="свойства-класса"><span class="marker" data-marker="chapter"></span>Свойства класса<a class="anchor" href="#свойства-класса" aria-label="Ссылка на раздел"></a></h4>

@@ -1,7 +1,7 @@
 <template>
 <div class="prose" data-chapter="3" data-section="rules">
 <p>В следующей таблице приведены примеры средней стоимости базовых товаров и услуг. Однако экономика вашего мира должна отражать то, насколько золото важно в вашей кампании, так что смело корректируйте эти цены при необходимости.</p>
-<h2 id="средняя-стоимость"><span class="marker" data-marker="chapter"></span>Средняя стоимость<a class="anchor" href="#средняя-стоимость" aria-label="Ссылка на раздел"></a></h2>
+<h4 id="средняя-стоимость"><span class="marker" data-marker="chapter"></span>Средняя стоимость<a class="anchor" href="#средняя-стоимость" aria-label="Ссылка на раздел"></a></h4>
 <div class="table-wrap"><table>
 <thead>
 <tr>

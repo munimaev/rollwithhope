@@ -35,7 +35,12 @@
     border-block-end: var(--dh-border-hair) solid var(--dh-color-border);
   }
   .prose h3 { font-size: var(--dh-text-2xl); font-weight: 700; margin-block-start: 1.9em; }
-  .prose :is(h4, h5, h6) { font-size: var(--dh-text-xl); font-weight: 700; margin-block-start: 1.7em; }
+  .prose h4 { font-size: var(--dh-text-xl); font-weight: 700; margin-block-start: 1.7em; }
+  .prose h5 { font-size: var(--dh-text-lg); font-weight: 700; margin-block-start: 1.5em; }
+  .prose h6 {
+    font-size: var(--dh-text-base); font-weight: 700; margin-block-start: 1.4em;
+    text-transform: uppercase; letter-spacing: .03em;
+  }
   .prose > :where(h2, h3, h4, h5, h6) + * { margin-block-start: .7em; }
   .prose > :where(h2, h3, h4, h5, h6) + :where(h2, h3, h4, h5, h6) { margin-block-start: 1.1em; }
 
@@ -93,7 +98,7 @@
   .prose blockquote {
     position: relative; padding-block: .4rem; padding-inline: 3.6rem 1rem;
     font-family: var(--dh-font-display); font-style: italic; font-weight: 500;
-    font-size: var(--dh-text-lg); line-height: var(--dh-leading-lead);
+    font-size: var(--dh-text-base); line-height: var(--dh-leading-lead);
   }
   .prose blockquote::before {
     content: "\00AB"; position: absolute; inset-inline-start: 0; inset-block-start: -.18em;
@@ -117,5 +122,5 @@
   .wikilink--dead, .prose .wikilink--dead { color: inherit; text-decoration: none; cursor: text; background: none; }
 
   .prose > figure { grid-column: wide; }
-  .prose > :where(.table-wrap, .card-gallery, .hero) { grid-column: wide; }
+  .prose > :where(.table-wrap, .card-gallery, .card-row, .hero, .subclass-cards) { grid-column: wide; }
 }

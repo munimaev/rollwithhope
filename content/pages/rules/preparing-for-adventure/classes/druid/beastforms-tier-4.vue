@@ -1,27 +1,6 @@
 <template>
 <div class="prose" data-chapter="1" data-section="rules">
-<div class="table-wrap"><table>
-<thead>
-<tr>
-<th><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Beastform/beastform-4-mythic-aerial-hunter-660.webp" src="/rollwithhope/images/Cards/Beastform/beastform-4-mythic-aerial-hunter-330.webp" width="330" height="462" loading="lazy" alt="beastform-4-mythic-aerial-hunter.webp" /></figure></th>
-<th><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Beastform/beastform-4-massive-behemoth-660.webp" src="/rollwithhope/images/Cards/Beastform/beastform-4-massive-behemoth-330.webp" width="330" height="462" loading="lazy" alt="beastform-4-massive-behemoth.webp" /></figure></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Beastform/beastform-4-terrible-lizard-660.webp" src="/rollwithhope/images/Cards/Beastform/beastform-4-terrible-lizard-330.webp" width="330" height="462" loading="lazy" alt="beastform-4-terrible-lizard.webp" /></figure></td>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Beastform/beastform-4-epic-aquatic-beast-660.webp" src="/rollwithhope/images/Cards/Beastform/beastform-4-epic-aquatic-beast-330.webp" width="330" height="462" loading="lazy" alt="beastform-4-epic-aquatic-beast.webp" /></figure></td>
-</tr>
-<tr>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Beastform/beastform-4-mythic-beast-660.webp" src="/rollwithhope/images/Cards/Beastform/beastform-4-mythic-beast-330.webp" width="330" height="462" loading="lazy" alt="beastform-4-mythic-beast.webp" /></figure></td>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Beastform/beastform-4-mythic-hybrid-660.webp" src="/rollwithhope/images/Cards/Beastform/beastform-4-mythic-hybrid-330.webp" width="330" height="462" loading="lazy" alt="beastform-4-mythic-hybrid.webp" /></figure></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table></div>
+<div class="card-row"><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Beastform/beastform-4-mythic-aerial-hunter-660.webp" src="/rollwithhope/images/Cards/Beastform/beastform-4-mythic-aerial-hunter-330.webp" width="330" height="462" loading="lazy" alt="beastform-4-mythic-aerial-hunter.webp" /></figure><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Beastform/beastform-4-massive-behemoth-660.webp" src="/rollwithhope/images/Cards/Beastform/beastform-4-massive-behemoth-330.webp" width="330" height="462" loading="lazy" alt="beastform-4-massive-behemoth.webp" /></figure><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Beastform/beastform-4-terrible-lizard-660.webp" src="/rollwithhope/images/Cards/Beastform/beastform-4-terrible-lizard-330.webp" width="330" height="462" loading="lazy" alt="beastform-4-terrible-lizard.webp" /></figure><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Beastform/beastform-4-epic-aquatic-beast-660.webp" src="/rollwithhope/images/Cards/Beastform/beastform-4-epic-aquatic-beast-330.webp" width="330" height="462" loading="lazy" alt="beastform-4-epic-aquatic-beast.webp" /></figure><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Beastform/beastform-4-mythic-beast-660.webp" src="/rollwithhope/images/Cards/Beastform/beastform-4-mythic-beast-330.webp" width="330" height="462" loading="lazy" alt="beastform-4-mythic-beast.webp" /></figure><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Beastform/beastform-4-mythic-hybrid-660.webp" src="/rollwithhope/images/Cards/Beastform/beastform-4-mythic-hybrid-330.webp" width="330" height="462" loading="lazy" alt="beastform-4-mythic-hybrid.webp" /></figure></div>
 <h4 id="мифический-воздушный-охотник-mythic-aerial-hunter"><span class="marker" data-marker="chapter"></span>Мифический воздушный охотник - Mythic Aerial Hunter<a class="anchor" href="#мифический-воздушный-охотник-mythic-aerial-hunter" aria-label="Ссылка на раздел"></a></h4>
 <p>🐾 <strong>︱ Примеры животных:</strong> дракон, птеродактиль, рух, виверна и др.</p>
 <p>🏵 <strong>︱ Атрибут персонажа:</strong> Искусность +3 и Уклонение +4</p>

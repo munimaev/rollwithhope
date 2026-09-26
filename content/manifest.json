@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T20:02:09.938Z",
+  "generatedAt": "2026-09-26T10:22:05.226Z",
   "sections": [
     {
       "id": "rules",
@@ -10,10 +10,10 @@
   ],
   "pages": [
     {
-      "id": "rules/introduction",
+      "id": "rules/preface",
       "url": null,
       "sectionId": "rules",
-      "title": "Introduction",
+      "title": "Вступление",
       "layout": "article",
       "tags": [],
       "original": null,
@@ -27,45 +27,45 @@
       "isVirtual": true
     },
     {
-      "id": "rules/introduction/the-basics",
-      "url": "/rules/introduction/the-basics",
+      "id": "rules/preface/what-is-this",
+      "url": "/rules/preface/what-is-this",
       "sectionId": "rules",
-      "title": "The Basics",
+      "title": "Что это такое",
       "layout": "article",
       "tags": [
         "rules",
         "introduction"
       ],
       "original": null,
-      "vaultRelPath": "01︱📚︱Правила/00︱Introduction/The Basics.md",
+      "vaultRelPath": "01︱📚︱Правила/00︱Вступление/01︱Что это такое.md",
       "isIndex": false,
-      "parentId": "rules/introduction",
+      "parentId": "rules/preface",
       "sortKey": ".d000.000",
+      "chapter": 0,
+      "banner": null,
+      "backlinks": [],
+      "isVirtual": false
+    },
+    {
+      "id": "rules/preface/basics",
+      "url": "/rules/preface/basics",
+      "sectionId": "rules",
+      "title": "Основы",
+      "layout": "article",
+      "tags": [
+        "rules",
+        "introduction"
+      ],
+      "original": null,
+      "vaultRelPath": "01︱📚︱Правила/00︱Вступление/02︱Основы.md",
+      "isIndex": false,
+      "parentId": "rules/preface",
+      "sortKey": ".d000.001",
       "chapter": 0,
       "banner": null,
       "backlinks": [
         "/rules/running-an-adventure/intro"
       ],
-      "isVirtual": false
-    },
-    {
-      "id": "rules/introduction/what-is-this",
-      "url": "/rules/introduction/what-is-this",
-      "sectionId": "rules",
-      "title": "What Is This",
-      "layout": "article",
-      "tags": [
-        "rules",
-        "introduction"
-      ],
-      "original": null,
-      "vaultRelPath": "01︱📚︱Правила/00︱Introduction/What Is This.md",
-      "isIndex": false,
-      "parentId": "rules/introduction",
-      "sortKey": ".d000.001",
-      "chapter": 0,
-      "banner": null,
-      "backlinks": [],
       "isVirtual": false
     },
     {
@@ -118,7 +118,7 @@
       "parentId": "rules/preparing-for-adventure/character-creation",
       "sortKey": ".d001.d001.000",
       "chapter": 1,
-      "banner": null,
+      "banner": "/rollwithhope/images/Banners/Preparing/prepWorld.webp",
       "backlinks": [
         "/rules/preparing-for-adventure/character-creation/step-1-class-and-subclass"
       ],
@@ -360,6 +360,28 @@
       "isVirtual": true
     },
     {
+      "id": "rules/preparing-for-adventure/classes/bard/bard",
+      "url": "/rules/preparing-for-adventure/classes/bard/bard",
+      "sectionId": "rules",
+      "title": "Бард",
+      "layout": "article",
+      "tags": [
+        "class"
+      ],
+      "original": "Bard",
+      "vaultRelPath": "01︱📚︱Правила/01︱📗︱Подготовка к приключениям/03︱📗︱Классы/02︱Бард/Бард.md",
+      "isIndex": false,
+      "parentId": "rules/preparing-for-adventure/classes/bard",
+      "sortKey": ".d001.d002.d000.000",
+      "chapter": 1,
+      "banner": "/rollwithhope/images/Banners/Class/classBard.webp",
+      "backlinks": [
+        "/rules/preparing-for-adventure/classes/bard/troubadour",
+        "/rules/preparing-for-adventure/classes/warrior/call-of-the-brave"
+      ],
+      "isVirtual": false
+    },
+    {
       "id": "rules/preparing-for-adventure/classes/bard/wordsmith",
       "url": "/rules/preparing-for-adventure/classes/bard/wordsmith",
       "sectionId": "rules",
@@ -372,14 +394,14 @@
       "vaultRelPath": "01︱📚︱Правила/01︱📗︱Подготовка к приключениям/03︱📗︱Классы/02︱Бард/Бард — Мастер слова.md",
       "isIndex": false,
       "parentId": "rules/preparing-for-adventure/classes/bard",
-      "sortKey": ".d001.d002.d000.000",
+      "sortKey": ".d001.d002.d000.001",
       "chapter": 1,
       "banner": "/rollwithhope/images/Banners/Subclasses/classBardWordsmith.webp",
       "backlinks": [
         "/rules/preparing-for-adventure/character-creation/step-1-class-and-subclass",
         "/rules/preparing-for-adventure/classes/classes",
-        "/rules/preparing-for-adventure/classes/bard/troubadour",
-        "/rules/preparing-for-adventure/classes/bard/bard"
+        "/rules/preparing-for-adventure/classes/bard/bard",
+        "/rules/preparing-for-adventure/classes/bard/troubadour"
       ],
       "isVirtual": false
     },
@@ -396,35 +418,13 @@
       "vaultRelPath": "01︱📚︱Правила/01︱📗︱Подготовка к приключениям/03︱📗︱Классы/02︱Бард/Бард — Трубадур.md",
       "isIndex": false,
       "parentId": "rules/preparing-for-adventure/classes/bard",
-      "sortKey": ".d001.d002.d000.001",
+      "sortKey": ".d001.d002.d000.002",
       "chapter": 1,
       "banner": "/rollwithhope/images/Banners/Subclasses/classBardTroubadour.webp",
       "backlinks": [
         "/rules/preparing-for-adventure/character-creation/step-1-class-and-subclass",
-        "/rules/preparing-for-adventure/classes/bard/wordsmith",
-        "/rules/preparing-for-adventure/classes/bard/bard"
-      ],
-      "isVirtual": false
-    },
-    {
-      "id": "rules/preparing-for-adventure/classes/bard/bard",
-      "url": "/rules/preparing-for-adventure/classes/bard/bard",
-      "sectionId": "rules",
-      "title": "Бард",
-      "layout": "article",
-      "tags": [
-        "class"
-      ],
-      "original": "Bard",
-      "vaultRelPath": "01︱📚︱Правила/01︱📗︱Подготовка к приключениям/03︱📗︱Классы/02︱Бард/Бард.md",
-      "isIndex": false,
-      "parentId": "rules/preparing-for-adventure/classes/bard",
-      "sortKey": ".d001.d002.d000.002",
-      "chapter": 1,
-      "banner": "/rollwithhope/images/Banners/Class/classBard.webp",
-      "backlinks": [
-        "/rules/preparing-for-adventure/classes/bard/troubadour",
-        "/rules/preparing-for-adventure/classes/warrior/call-of-the-brave"
+        "/rules/preparing-for-adventure/classes/bard/bard",
+        "/rules/preparing-for-adventure/classes/bard/wordsmith"
       ],
       "isVirtual": false
     },
@@ -446,6 +446,28 @@
       "isVirtual": true
     },
     {
+      "id": "rules/preparing-for-adventure/classes/warrior/warrior",
+      "url": "/rules/preparing-for-adventure/classes/warrior/warrior",
+      "sectionId": "rules",
+      "title": "Воин",
+      "layout": "article",
+      "tags": [
+        "class"
+      ],
+      "original": "Warrior",
+      "vaultRelPath": "01︱📚︱Правила/01︱📗︱Подготовка к приключениям/03︱📗︱Классы/02︱Воин/Воин.md",
+      "isIndex": false,
+      "parentId": "rules/preparing-for-adventure/classes/warrior",
+      "sortKey": ".d001.d002.d001.000",
+      "chapter": 1,
+      "banner": "/rollwithhope/images/Banners/Class/classWarrior.webp",
+      "backlinks": [
+        "/rules/preparing-for-adventure/classes/warrior/call-of-the-slayer",
+        "/rules/preparing-for-adventure/classes/wizard/school-of-war"
+      ],
+      "isVirtual": false
+    },
+    {
       "id": "rules/preparing-for-adventure/classes/warrior/call-of-the-brave",
       "url": "/rules/preparing-for-adventure/classes/warrior/call-of-the-brave",
       "sectionId": "rules",
@@ -458,14 +480,14 @@
       "vaultRelPath": "01︱📚︱Правила/01︱📗︱Подготовка к приключениям/03︱📗︱Классы/02︱Воин/Воин — Зов Отваги.md",
       "isIndex": false,
       "parentId": "rules/preparing-for-adventure/classes/warrior",
-      "sortKey": ".d001.d002.d001.000",
+      "sortKey": ".d001.d002.d001.001",
       "chapter": 1,
       "banner": "/rollwithhope/images/Banners/Subclasses/classWarriorCallOfTheBrave.webp",
       "backlinks": [
         "/rules/preparing-for-adventure/character-creation/step-1-class-and-subclass",
         "/rules/preparing-for-adventure/classes/bard/bard",
-        "/rules/preparing-for-adventure/classes/warrior/call-of-the-slayer",
-        "/rules/preparing-for-adventure/classes/warrior/warrior"
+        "/rules/preparing-for-adventure/classes/warrior/warrior",
+        "/rules/preparing-for-adventure/classes/warrior/call-of-the-slayer"
       ],
       "isVirtual": false
     },
@@ -482,35 +504,13 @@
       "vaultRelPath": "01︱📚︱Правила/01︱📗︱Подготовка к приключениям/03︱📗︱Классы/02︱Воин/Воин — Зов Резни.md",
       "isIndex": false,
       "parentId": "rules/preparing-for-adventure/classes/warrior",
-      "sortKey": ".d001.d002.d001.001",
+      "sortKey": ".d001.d002.d001.002",
       "chapter": 1,
       "banner": "/rollwithhope/images/Banners/Subclasses/classWarriorCallOfTheSlayer.webp",
       "backlinks": [
         "/rules/preparing-for-adventure/character-creation/step-1-class-and-subclass",
-        "/rules/preparing-for-adventure/classes/warrior/call-of-the-brave",
-        "/rules/preparing-for-adventure/classes/warrior/warrior"
-      ],
-      "isVirtual": false
-    },
-    {
-      "id": "rules/preparing-for-adventure/classes/warrior/warrior",
-      "url": "/rules/preparing-for-adventure/classes/warrior/warrior",
-      "sectionId": "rules",
-      "title": "Воин",
-      "layout": "article",
-      "tags": [
-        "class"
-      ],
-      "original": "Warrior",
-      "vaultRelPath": "01︱📚︱Правила/01︱📗︱Подготовка к приключениям/03︱📗︱Классы/02︱Воин/Воин.md",
-      "isIndex": false,
-      "parentId": "rules/preparing-for-adventure/classes/warrior",
-      "sortKey": ".d001.d002.d001.002",
-      "chapter": 1,
-      "banner": "/rollwithhope/images/Banners/Class/classWarrior.webp",
-      "backlinks": [
-        "/rules/preparing-for-adventure/classes/warrior/call-of-the-slayer",
-        "/rules/preparing-for-adventure/classes/wizard/school-of-war"
+        "/rules/preparing-for-adventure/classes/warrior/warrior",
+        "/rules/preparing-for-adventure/classes/warrior/call-of-the-brave"
       ],
       "isVirtual": false
     },
@@ -532,6 +532,28 @@
       "isVirtual": true
     },
     {
+      "id": "rules/preparing-for-adventure/classes/wizard/wizard",
+      "url": "/rules/preparing-for-adventure/classes/wizard/wizard",
+      "sectionId": "rules",
+      "title": "Волшебник",
+      "layout": "article",
+      "tags": [
+        "class"
+      ],
+      "original": "Wizard",
+      "vaultRelPath": "01︱📚︱Правила/01︱📗︱Подготовка к приключениям/03︱📗︱Классы/02︱Волшебник/Волшебник.md",
+      "isIndex": false,
+      "parentId": "rules/preparing-for-adventure/classes/wizard",
+      "sortKey": ".d001.d002.d002.000",
+      "chapter": 1,
+      "banner": "/rollwithhope/images/Banners/Class/classWizard.webp",
+      "backlinks": [
+        "/rules/preparing-for-adventure/classes/wizard/school-of-knowledge",
+        "/rules/preparing-for-adventure/classes/druid/warden-of-renewal"
+      ],
+      "isVirtual": false
+    },
+    {
       "id": "rules/preparing-for-adventure/classes/wizard/school-of-war",
       "url": "/rules/preparing-for-adventure/classes/wizard/school-of-war",
       "sectionId": "rules",
@@ -544,14 +566,14 @@
       "vaultRelPath": "01︱📚︱Правила/01︱📗︱Подготовка к приключениям/03︱📗︱Классы/02︱Волшебник/Волшебник — Школа Войны.md",
       "isIndex": false,
       "parentId": "rules/preparing-for-adventure/classes/wizard",
-      "sortKey": ".d001.d002.d002.000",
+      "sortKey": ".d001.d002.d002.001",
       "chapter": 1,
       "banner": "/rollwithhope/images/Banners/Subclasses/classWizardSchoolOfWar.webp",
       "backlinks": [
         "/rules/preparing-for-adventure/character-creation/step-1-class-and-subclass",
         "/rules/preparing-for-adventure/classes/warrior/warrior",
-        "/rules/preparing-for-adventure/classes/wizard/school-of-knowledge",
-        "/rules/preparing-for-adventure/classes/wizard/wizard"
+        "/rules/preparing-for-adventure/classes/wizard/wizard",
+        "/rules/preparing-for-adventure/classes/wizard/school-of-knowledge"
       ],
       "isVirtual": false
     },
@@ -568,35 +590,13 @@
       "vaultRelPath": "01︱📚︱Правила/01︱📗︱Подготовка к приключениям/03︱📗︱Классы/02︱Волшебник/Волшебник — Школа Знания.md",
       "isIndex": false,
       "parentId": "rules/preparing-for-adventure/classes/wizard",
-      "sortKey": ".d001.d002.d002.001",
+      "sortKey": ".d001.d002.d002.002",
       "chapter": 1,
       "banner": "/rollwithhope/images/Banners/Subclasses/classWizardSchoolOfKnowledge.webp",
       "backlinks": [
         "/rules/preparing-for-adventure/character-creation/step-1-class-and-subclass",
-        "/rules/preparing-for-adventure/classes/wizard/school-of-war",
-        "/rules/preparing-for-adventure/classes/wizard/wizard"
-      ],
-      "isVirtual": false
-    },
-    {
-      "id": "rules/preparing-for-adventure/classes/wizard/wizard",
-      "url": "/rules/preparing-for-adventure/classes/wizard/wizard",
-      "sectionId": "rules",
-      "title": "Волшебник",
-      "layout": "article",
-      "tags": [
-        "class"
-      ],
-      "original": "Wizard",
-      "vaultRelPath": "01︱📚︱Правила/01︱📗︱Подготовка к приключениям/03︱📗︱Классы/02︱Волшебник/Волшебник.md",
-      "isIndex": false,
-      "parentId": "rules/preparing-for-adventure/classes/wizard",
-      "sortKey": ".d001.d002.d002.002",
-      "chapter": 1,
-      "banner": "/rollwithhope/images/Banners/Class/classWizard.webp",
-      "backlinks": [
-        "/rules/preparing-for-adventure/classes/wizard/school-of-knowledge",
-        "/rules/preparing-for-adventure/classes/druid/warden-of-renewal"
+        "/rules/preparing-for-adventure/classes/wizard/wizard",
+        "/rules/preparing-for-adventure/classes/wizard/school-of-war"
       ],
       "isVirtual": false
     },
@@ -618,6 +618,28 @@
       "isVirtual": true
     },
     {
+      "id": "rules/preparing-for-adventure/classes/druid/druid",
+      "url": "/rules/preparing-for-adventure/classes/druid/druid",
+      "sectionId": "rules",
+      "title": "Друид",
+      "layout": "article",
+      "tags": [
+        "class"
+      ],
+      "original": "Druid",
+      "vaultRelPath": "01︱📚︱Правила/01︱📗︱Подготовка к приключениям/03︱📗︱Классы/02︱Друид/Друид.md",
+      "isIndex": false,
+      "parentId": "rules/preparing-for-adventure/classes/druid",
+      "sortKey": ".d001.d002.d003.000",
+      "chapter": 1,
+      "banner": "/rollwithhope/images/Banners/Class/classDruid.webp",
+      "backlinks": [
+        "/rules/preparing-for-adventure/classes/druid/warden-of-the-elements",
+        "/rules/preparing-for-adventure/classes/druid/beastforms-tier-1"
+      ],
+      "isVirtual": false
+    },
+    {
       "id": "rules/preparing-for-adventure/classes/druid/warden-of-renewal",
       "url": "/rules/preparing-for-adventure/classes/druid/warden-of-renewal",
       "sectionId": "rules",
@@ -630,14 +652,14 @@
       "vaultRelPath": "01︱📚︱Правила/01︱📗︱Подготовка к приключениям/03︱📗︱Классы/02︱Друид/Друид — Хранитель жизни.md",
       "isIndex": false,
       "parentId": "rules/preparing-for-adventure/classes/druid",
-      "sortKey": ".d001.d002.d003.000",
+      "sortKey": ".d001.d002.d003.001",
       "chapter": 1,
       "banner": "/rollwithhope/images/Banners/Subclasses/classDruidWardenOfRenewal.webp",
       "backlinks": [
         "/rules/preparing-for-adventure/character-creation/step-1-class-and-subclass",
         "/rules/preparing-for-adventure/classes/wizard/wizard",
-        "/rules/preparing-for-adventure/classes/druid/warden-of-the-elements",
-        "/rules/preparing-for-adventure/classes/druid/druid"
+        "/rules/preparing-for-adventure/classes/druid/druid",
+        "/rules/preparing-for-adventure/classes/druid/warden-of-the-elements"
       ],
       "isVirtual": false
     },
@@ -654,124 +676,13 @@
       "vaultRelPath": "01︱📚︱Правила/01︱📗︱Подготовка к приключениям/03︱📗︱Классы/02︱Друид/Друид — Хранитель стихий.md",
       "isIndex": false,
       "parentId": "rules/preparing-for-adventure/classes/druid",
-      "sortKey": ".d001.d002.d003.001",
+      "sortKey": ".d001.d002.d003.002",
       "chapter": 1,
       "banner": "/rollwithhope/images/Banners/Subclasses/classDruidWardenOfTheElements.webp",
       "backlinks": [
         "/rules/preparing-for-adventure/character-creation/step-1-class-and-subclass",
-        "/rules/preparing-for-adventure/classes/druid/warden-of-renewal",
-        "/rules/preparing-for-adventure/classes/druid/druid"
-      ],
-      "isVirtual": false
-    },
-    {
-      "id": "rules/preparing-for-adventure/classes/druid/druid",
-      "url": "/rules/preparing-for-adventure/classes/druid/druid",
-      "sectionId": "rules",
-      "title": "Друид",
-      "layout": "article",
-      "tags": [
-        "class"
-      ],
-      "original": "Druid",
-      "vaultRelPath": "01︱📚︱Правила/01︱📗︱Подготовка к приключениям/03︱📗︱Классы/02︱Друид/Друид.md",
-      "isIndex": false,
-      "parentId": "rules/preparing-for-adventure/classes/druid",
-      "sortKey": ".d001.d002.d003.002",
-      "chapter": 1,
-      "banner": "/rollwithhope/images/Banners/Class/classDruid.webp",
-      "backlinks": [
-        "/rules/preparing-for-adventure/classes/druid/warden-of-the-elements",
-        "/rules/preparing-for-adventure/classes/druid/beastforms-tier-1"
-      ],
-      "isVirtual": false
-    },
-    {
-      "id": "rules/preparing-for-adventure/classes/druid/beastforms-tier-1",
-      "url": "/rules/preparing-for-adventure/classes/druid/beastforms-tier-1",
-      "sectionId": "rules",
-      "title": "Звериные формы — Тир 1",
-      "layout": "article",
-      "tags": [],
-      "original": null,
-      "vaultRelPath": "01︱📚︱Правила/01︱📗︱Подготовка к приключениям/03︱📗︱Классы/02︱Друид/Звериные формы — Тир 1.md",
-      "isIndex": false,
-      "parentId": "rules/preparing-for-adventure/classes/druid",
-      "sortKey": ".d001.d002.d003.003",
-      "chapter": 1,
-      "banner": null,
-      "backlinks": [
         "/rules/preparing-for-adventure/classes/druid/druid",
-        "/rules/preparing-for-adventure/classes/druid/beastforms-tier-2",
-        "/rules/preparing-for-adventure/classes/druid/beastforms-tier-3",
-        "/rules/preparing-for-adventure/classes/druid/beastforms-tier-4",
-        "/rules/preparing-for-adventure/classes/druid/beastforms"
-      ],
-      "isVirtual": false
-    },
-    {
-      "id": "rules/preparing-for-adventure/classes/druid/beastforms-tier-2",
-      "url": "/rules/preparing-for-adventure/classes/druid/beastforms-tier-2",
-      "sectionId": "rules",
-      "title": "Звериные формы — Тир 2",
-      "layout": "article",
-      "tags": [],
-      "original": null,
-      "vaultRelPath": "01︱📚︱Правила/01︱📗︱Подготовка к приключениям/03︱📗︱Классы/02︱Друид/Звериные формы — Тир 2.md",
-      "isIndex": false,
-      "parentId": "rules/preparing-for-adventure/classes/druid",
-      "sortKey": ".d001.d002.d003.004",
-      "chapter": 1,
-      "banner": null,
-      "backlinks": [
-        "/rules/preparing-for-adventure/classes/druid/beastforms-tier-1",
-        "/rules/preparing-for-adventure/classes/druid/beastforms-tier-3",
-        "/rules/preparing-for-adventure/classes/druid/beastforms-tier-4",
-        "/rules/preparing-for-adventure/classes/druid/beastforms"
-      ],
-      "isVirtual": false
-    },
-    {
-      "id": "rules/preparing-for-adventure/classes/druid/beastforms-tier-3",
-      "url": "/rules/preparing-for-adventure/classes/druid/beastforms-tier-3",
-      "sectionId": "rules",
-      "title": "Звериные формы — Тир 3",
-      "layout": "article",
-      "tags": [],
-      "original": null,
-      "vaultRelPath": "01︱📚︱Правила/01︱📗︱Подготовка к приключениям/03︱📗︱Классы/02︱Друид/Звериные формы — Тир 3.md",
-      "isIndex": false,
-      "parentId": "rules/preparing-for-adventure/classes/druid",
-      "sortKey": ".d001.d002.d003.005",
-      "chapter": 1,
-      "banner": null,
-      "backlinks": [
-        "/rules/preparing-for-adventure/classes/druid/beastforms-tier-1",
-        "/rules/preparing-for-adventure/classes/druid/beastforms-tier-2",
-        "/rules/preparing-for-adventure/classes/druid/beastforms-tier-4",
-        "/rules/preparing-for-adventure/classes/druid/beastforms"
-      ],
-      "isVirtual": false
-    },
-    {
-      "id": "rules/preparing-for-adventure/classes/druid/beastforms-tier-4",
-      "url": "/rules/preparing-for-adventure/classes/druid/beastforms-tier-4",
-      "sectionId": "rules",
-      "title": "Звериные формы — Тир 4",
-      "layout": "article",
-      "tags": [],
-      "original": null,
-      "vaultRelPath": "01︱📚︱Правила/01︱📗︱Подготовка к приключениям/03︱📗︱Классы/02︱Друид/Звериные формы — Тир 4.md",
-      "isIndex": false,
-      "parentId": "rules/preparing-for-adventure/classes/druid",
-      "sortKey": ".d001.d002.d003.006",
-      "chapter": 1,
-      "banner": null,
-      "backlinks": [
-        "/rules/preparing-for-adventure/classes/druid/beastforms-tier-1",
-        "/rules/preparing-for-adventure/classes/druid/beastforms-tier-2",
-        "/rules/preparing-for-adventure/classes/druid/beastforms-tier-3",
-        "/rules/preparing-for-adventure/classes/druid/beastforms"
+        "/rules/preparing-for-adventure/classes/druid/warden-of-renewal"
       ],
       "isVirtual": false
     },
@@ -786,12 +697,101 @@
       "vaultRelPath": "01︱📚︱Правила/01︱📗︱Подготовка к приключениям/03︱📗︱Классы/02︱Друид/Звериные формы.md",
       "isIndex": false,
       "parentId": "rules/preparing-for-adventure/classes/druid",
-      "sortKey": ".d001.d002.d003.007",
+      "sortKey": ".d001.d002.d003.003",
       "chapter": 1,
       "banner": null,
       "backlinks": [
         "/rules/preparing-for-adventure/classes/druid/beastforms-tier-4",
         "/rules/preparing-for-adventure/classes/rogue/nightwalker"
+      ],
+      "isVirtual": false
+    },
+    {
+      "id": "rules/preparing-for-adventure/classes/druid/beastforms-tier-1",
+      "url": "/rules/preparing-for-adventure/classes/druid/beastforms-tier-1",
+      "sectionId": "rules",
+      "title": "Звериные формы — Тир 1",
+      "layout": "article",
+      "tags": [],
+      "original": null,
+      "vaultRelPath": "01︱📚︱Правила/01︱📗︱Подготовка к приключениям/03︱📗︱Классы/02︱Друид/Звериные формы — Тир 1.md",
+      "isIndex": false,
+      "parentId": "rules/preparing-for-adventure/classes/druid",
+      "sortKey": ".d001.d002.d003.004",
+      "chapter": 1,
+      "banner": null,
+      "backlinks": [
+        "/rules/preparing-for-adventure/classes/druid/druid",
+        "/rules/preparing-for-adventure/classes/druid/beastforms",
+        "/rules/preparing-for-adventure/classes/druid/beastforms-tier-2",
+        "/rules/preparing-for-adventure/classes/druid/beastforms-tier-3",
+        "/rules/preparing-for-adventure/classes/druid/beastforms-tier-4"
+      ],
+      "isVirtual": false
+    },
+    {
+      "id": "rules/preparing-for-adventure/classes/druid/beastforms-tier-2",
+      "url": "/rules/preparing-for-adventure/classes/druid/beastforms-tier-2",
+      "sectionId": "rules",
+      "title": "Звериные формы — Тир 2",
+      "layout": "article",
+      "tags": [],
+      "original": null,
+      "vaultRelPath": "01︱📚︱Правила/01︱📗︱Подготовка к приключениям/03︱📗︱Классы/02︱Друид/Звериные формы — Тир 2.md",
+      "isIndex": false,
+      "parentId": "rules/preparing-for-adventure/classes/druid",
+      "sortKey": ".d001.d002.d003.005",
+      "chapter": 1,
+      "banner": null,
+      "backlinks": [
+        "/rules/preparing-for-adventure/classes/druid/beastforms",
+        "/rules/preparing-for-adventure/classes/druid/beastforms-tier-1",
+        "/rules/preparing-for-adventure/classes/druid/beastforms-tier-3",
+        "/rules/preparing-for-adventure/classes/druid/beastforms-tier-4"
+      ],
+      "isVirtual": false
+    },
+    {
+      "id": "rules/preparing-for-adventure/classes/druid/beastforms-tier-3",
+      "url": "/rules/preparing-for-adventure/classes/druid/beastforms-tier-3",
+      "sectionId": "rules",
+      "title": "Звериные формы — Тир 3",
+      "layout": "article",
+      "tags": [],
+      "original": null,
+      "vaultRelPath": "01︱📚︱Правила/01︱📗︱Подготовка к приключениям/03︱📗︱Классы/02︱Друид/Звериные формы — Тир 3.md",
+      "isIndex": false,
+      "parentId": "rules/preparing-for-adventure/classes/druid",
+      "sortKey": ".d001.d002.d003.006",
+      "chapter": 1,
+      "banner": null,
+      "backlinks": [
+        "/rules/preparing-for-adventure/classes/druid/beastforms",
+        "/rules/preparing-for-adventure/classes/druid/beastforms-tier-1",
+        "/rules/preparing-for-adventure/classes/druid/beastforms-tier-2",
+        "/rules/preparing-for-adventure/classes/druid/beastforms-tier-4"
+      ],
+      "isVirtual": false
+    },
+    {
+      "id": "rules/preparing-for-adventure/classes/druid/beastforms-tier-4",
+      "url": "/rules/preparing-for-adventure/classes/druid/beastforms-tier-4",
+      "sectionId": "rules",
+      "title": "Звериные формы — Тир 4",
+      "layout": "article",
+      "tags": [],
+      "original": null,
+      "vaultRelPath": "01︱📚︱Правила/01︱📗︱Подготовка к приключениям/03︱📗︱Классы/02︱Друид/Звериные формы — Тир 4.md",
+      "isIndex": false,
+      "parentId": "rules/preparing-for-adventure/classes/druid",
+      "sortKey": ".d001.d002.d003.007",
+      "chapter": 1,
+      "banner": null,
+      "backlinks": [
+        "/rules/preparing-for-adventure/classes/druid/beastforms",
+        "/rules/preparing-for-adventure/classes/druid/beastforms-tier-1",
+        "/rules/preparing-for-adventure/classes/druid/beastforms-tier-2",
+        "/rules/preparing-for-adventure/classes/druid/beastforms-tier-3"
       ],
       "isVirtual": false
     },
@@ -813,6 +813,28 @@
       "isVirtual": true
     },
     {
+      "id": "rules/preparing-for-adventure/classes/rogue/rogue",
+      "url": "/rules/preparing-for-adventure/classes/rogue/rogue",
+      "sectionId": "rules",
+      "title": "Плут",
+      "layout": "article",
+      "tags": [
+        "class"
+      ],
+      "original": "Rogue",
+      "vaultRelPath": "01︱📚︱Правила/01︱📗︱Подготовка к приключениям/03︱📗︱Классы/02︱Плут/Плут.md",
+      "isIndex": false,
+      "parentId": "rules/preparing-for-adventure/classes/rogue",
+      "sortKey": ".d001.d002.d004.000",
+      "chapter": 1,
+      "banner": "/rollwithhope/images/Banners/Class/classRogue.webp",
+      "backlinks": [
+        "/rules/preparing-for-adventure/classes/rogue/syndicate",
+        "/rules/preparing-for-adventure/classes/seraph/divine-wielder"
+      ],
+      "isVirtual": false
+    },
+    {
       "id": "rules/preparing-for-adventure/classes/rogue/nightwalker",
       "url": "/rules/preparing-for-adventure/classes/rogue/nightwalker",
       "sectionId": "rules",
@@ -825,14 +847,14 @@
       "vaultRelPath": "01︱📚︱Правила/01︱📗︱Подготовка к приключениям/03︱📗︱Классы/02︱Плут/Плут — Ночной странник.md",
       "isIndex": false,
       "parentId": "rules/preparing-for-adventure/classes/rogue",
-      "sortKey": ".d001.d002.d004.000",
+      "sortKey": ".d001.d002.d004.001",
       "chapter": 1,
       "banner": "/rollwithhope/images/Banners/Subclasses/classRogueNightwalker.webp",
       "backlinks": [
         "/rules/preparing-for-adventure/character-creation/step-1-class-and-subclass",
         "/rules/preparing-for-adventure/classes/druid/beastforms",
-        "/rules/preparing-for-adventure/classes/rogue/syndicate",
-        "/rules/preparing-for-adventure/classes/rogue/rogue"
+        "/rules/preparing-for-adventure/classes/rogue/rogue",
+        "/rules/preparing-for-adventure/classes/rogue/syndicate"
       ],
       "isVirtual": false
     },
@@ -849,35 +871,13 @@
       "vaultRelPath": "01︱📚︱Правила/01︱📗︱Подготовка к приключениям/03︱📗︱Классы/02︱Плут/Плут — Синдикат.md",
       "isIndex": false,
       "parentId": "rules/preparing-for-adventure/classes/rogue",
-      "sortKey": ".d001.d002.d004.001",
+      "sortKey": ".d001.d002.d004.002",
       "chapter": 1,
       "banner": "/rollwithhope/images/Banners/Subclasses/classRogueSyndicate.webp",
       "backlinks": [
         "/rules/preparing-for-adventure/character-creation/step-1-class-and-subclass",
-        "/rules/preparing-for-adventure/classes/rogue/nightwalker",
-        "/rules/preparing-for-adventure/classes/rogue/rogue"
-      ],
-      "isVirtual": false
-    },
-    {
-      "id": "rules/preparing-for-adventure/classes/rogue/rogue",
-      "url": "/rules/preparing-for-adventure/classes/rogue/rogue",
-      "sectionId": "rules",
-      "title": "Плут",
-      "layout": "article",
-      "tags": [
-        "class"
-      ],
-      "original": "Rogue",
-      "vaultRelPath": "01︱📚︱Правила/01︱📗︱Подготовка к приключениям/03︱📗︱Классы/02︱Плут/Плут.md",
-      "isIndex": false,
-      "parentId": "rules/preparing-for-adventure/classes/rogue",
-      "sortKey": ".d001.d002.d004.002",
-      "chapter": 1,
-      "banner": "/rollwithhope/images/Banners/Class/classRogue.webp",
-      "backlinks": [
-        "/rules/preparing-for-adventure/classes/rogue/syndicate",
-        "/rules/preparing-for-adventure/classes/seraph/divine-wielder"
+        "/rules/preparing-for-adventure/classes/rogue/rogue",
+        "/rules/preparing-for-adventure/classes/rogue/nightwalker"
       ],
       "isVirtual": false
     },
@@ -899,6 +899,28 @@
       "isVirtual": true
     },
     {
+      "id": "rules/preparing-for-adventure/classes/seraph/seraph",
+      "url": "/rules/preparing-for-adventure/classes/seraph/seraph",
+      "sectionId": "rules",
+      "title": "Серафим",
+      "layout": "article",
+      "tags": [
+        "class"
+      ],
+      "original": "Seraph",
+      "vaultRelPath": "01︱📚︱Правила/01︱📗︱Подготовка к приключениям/03︱📗︱Классы/02︱Серафим/Серафим.md",
+      "isIndex": false,
+      "parentId": "rules/preparing-for-adventure/classes/seraph",
+      "sortKey": ".d001.d002.d005.000",
+      "chapter": 1,
+      "banner": "/rollwithhope/images/Banners/Class/classSeraph.webp",
+      "backlinks": [
+        "/rules/preparing-for-adventure/classes/seraph/winged-sentinel",
+        "/rules/preparing-for-adventure/classes/ranger/interacting-with-your-companion"
+      ],
+      "isVirtual": false
+    },
+    {
       "id": "rules/preparing-for-adventure/classes/seraph/divine-wielder",
       "url": "/rules/preparing-for-adventure/classes/seraph/divine-wielder",
       "sectionId": "rules",
@@ -911,14 +933,14 @@
       "vaultRelPath": "01︱📚︱Правила/01︱📗︱Подготовка к приключениям/03︱📗︱Классы/02︱Серафим/Серафим — Божественный воитель.md",
       "isIndex": false,
       "parentId": "rules/preparing-for-adventure/classes/seraph",
-      "sortKey": ".d001.d002.d005.000",
+      "sortKey": ".d001.d002.d005.001",
       "chapter": 1,
       "banner": "/rollwithhope/images/Banners/Subclasses/classSeraphDivineWielder.webp",
       "backlinks": [
         "/rules/preparing-for-adventure/character-creation/step-1-class-and-subclass",
         "/rules/preparing-for-adventure/classes/rogue/rogue",
-        "/rules/preparing-for-adventure/classes/seraph/winged-sentinel",
-        "/rules/preparing-for-adventure/classes/seraph/seraph"
+        "/rules/preparing-for-adventure/classes/seraph/seraph",
+        "/rules/preparing-for-adventure/classes/seraph/winged-sentinel"
       ],
       "isVirtual": false
     },
@@ -935,35 +957,13 @@
       "vaultRelPath": "01︱📚︱Правила/01︱📗︱Подготовка к приключениям/03︱📗︱Классы/02︱Серафим/Серафим — Крылатый страж.md",
       "isIndex": false,
       "parentId": "rules/preparing-for-adventure/classes/seraph",
-      "sortKey": ".d001.d002.d005.001",
+      "sortKey": ".d001.d002.d005.002",
       "chapter": 1,
       "banner": "/rollwithhope/images/Banners/Subclasses/classSerpahWingedSentinel.webp",
       "backlinks": [
         "/rules/preparing-for-adventure/character-creation/step-1-class-and-subclass",
-        "/rules/preparing-for-adventure/classes/seraph/divine-wielder",
-        "/rules/preparing-for-adventure/classes/seraph/seraph"
-      ],
-      "isVirtual": false
-    },
-    {
-      "id": "rules/preparing-for-adventure/classes/seraph/seraph",
-      "url": "/rules/preparing-for-adventure/classes/seraph/seraph",
-      "sectionId": "rules",
-      "title": "Серафим",
-      "layout": "article",
-      "tags": [
-        "class"
-      ],
-      "original": "Seraph",
-      "vaultRelPath": "01︱📚︱Правила/01︱📗︱Подготовка к приключениям/03︱📗︱Классы/02︱Серафим/Серафим.md",
-      "isIndex": false,
-      "parentId": "rules/preparing-for-adventure/classes/seraph",
-      "sortKey": ".d001.d002.d005.002",
-      "chapter": 1,
-      "banner": "/rollwithhope/images/Banners/Class/classSeraph.webp",
-      "backlinks": [
-        "/rules/preparing-for-adventure/classes/seraph/winged-sentinel",
-        "/rules/preparing-for-adventure/classes/ranger/interacting-with-your-companion"
+        "/rules/preparing-for-adventure/classes/seraph/seraph",
+        "/rules/preparing-for-adventure/classes/seraph/divine-wielder"
       ],
       "isVirtual": false
     },
@@ -1026,6 +1026,28 @@
       "isVirtual": false
     },
     {
+      "id": "rules/preparing-for-adventure/classes/ranger/ranger",
+      "url": "/rules/preparing-for-adventure/classes/ranger/ranger",
+      "sectionId": "rules",
+      "title": "Следопыт",
+      "layout": "article",
+      "tags": [
+        "class"
+      ],
+      "original": "Ranger",
+      "vaultRelPath": "01︱📚︱Правила/01︱📗︱Подготовка к приключениям/03︱📗︱Классы/02︱Следопыт/Следопыт.md",
+      "isIndex": false,
+      "parentId": "rules/preparing-for-adventure/classes/ranger",
+      "sortKey": ".d001.d002.d006.002",
+      "chapter": 1,
+      "banner": "/rollwithhope/images/Banners/Class/classRanger.webp",
+      "backlinks": [
+        "/rules/preparing-for-adventure/classes/ranger/wayfinder",
+        "/rules/preparing-for-adventure/classes/guardian/vengeance"
+      ],
+      "isVirtual": false
+    },
+    {
       "id": "rules/preparing-for-adventure/classes/ranger/beastbound",
       "url": "/rules/preparing-for-adventure/classes/ranger/beastbound",
       "sectionId": "rules",
@@ -1038,14 +1060,14 @@
       "vaultRelPath": "01︱📚︱Правила/01︱📗︱Подготовка к приключениям/03︱📗︱Классы/02︱Следопыт/Следопыт — Звериные узы.md",
       "isIndex": false,
       "parentId": "rules/preparing-for-adventure/classes/ranger",
-      "sortKey": ".d001.d002.d006.002",
+      "sortKey": ".d001.d002.d006.003",
       "chapter": 1,
       "banner": "/rollwithhope/images/Banners/Subclasses/classRangerBeastbound.webp",
       "backlinks": [
         "/rules/preparing-for-adventure/character-creation/step-1-class-and-subclass",
         "/rules/preparing-for-adventure/classes/ranger/rangers-companion",
-        "/rules/preparing-for-adventure/classes/ranger/wayfinder",
-        "/rules/preparing-for-adventure/classes/ranger/ranger"
+        "/rules/preparing-for-adventure/classes/ranger/ranger",
+        "/rules/preparing-for-adventure/classes/ranger/wayfinder"
       ],
       "isVirtual": false
     },
@@ -1062,35 +1084,13 @@
       "vaultRelPath": "01︱📚︱Правила/01︱📗︱Подготовка к приключениям/03︱📗︱Классы/02︱Следопыт/Следопыт — Охотник.md",
       "isIndex": false,
       "parentId": "rules/preparing-for-adventure/classes/ranger",
-      "sortKey": ".d001.d002.d006.003",
+      "sortKey": ".d001.d002.d006.004",
       "chapter": 1,
       "banner": "/rollwithhope/images/Banners/Subclasses/classRangerWayfinder.webp",
       "backlinks": [
         "/rules/preparing-for-adventure/character-creation/step-1-class-and-subclass",
-        "/rules/preparing-for-adventure/classes/ranger/beastbound",
-        "/rules/preparing-for-adventure/classes/ranger/ranger"
-      ],
-      "isVirtual": false
-    },
-    {
-      "id": "rules/preparing-for-adventure/classes/ranger/ranger",
-      "url": "/rules/preparing-for-adventure/classes/ranger/ranger",
-      "sectionId": "rules",
-      "title": "Следопыт",
-      "layout": "article",
-      "tags": [
-        "class"
-      ],
-      "original": "Ranger",
-      "vaultRelPath": "01︱📚︱Правила/01︱📗︱Подготовка к приключениям/03︱📗︱Классы/02︱Следопыт/Следопыт.md",
-      "isIndex": false,
-      "parentId": "rules/preparing-for-adventure/classes/ranger",
-      "sortKey": ".d001.d002.d006.004",
-      "chapter": 1,
-      "banner": "/rollwithhope/images/Banners/Class/classRanger.webp",
-      "backlinks": [
-        "/rules/preparing-for-adventure/classes/ranger/wayfinder",
-        "/rules/preparing-for-adventure/classes/guardian/vengeance"
+        "/rules/preparing-for-adventure/classes/ranger/ranger",
+        "/rules/preparing-for-adventure/classes/ranger/beastbound"
       ],
       "isVirtual": false
     },
@@ -1112,6 +1112,28 @@
       "isVirtual": true
     },
     {
+      "id": "rules/preparing-for-adventure/classes/guardian/guardian",
+      "url": "/rules/preparing-for-adventure/classes/guardian/guardian",
+      "sectionId": "rules",
+      "title": "Страж",
+      "layout": "article",
+      "tags": [
+        "class"
+      ],
+      "original": "Guardian",
+      "vaultRelPath": "01︱📚︱Правила/01︱📗︱Подготовка к приключениям/03︱📗︱Классы/02︱Страж/Страж.md",
+      "isIndex": false,
+      "parentId": "rules/preparing-for-adventure/classes/guardian",
+      "sortKey": ".d001.d002.d007.000",
+      "chapter": 1,
+      "banner": "/rollwithhope/images/Banners/Class/classGuardian.webp",
+      "backlinks": [
+        "/rules/preparing-for-adventure/classes/guardian/stalwart",
+        "/rules/preparing-for-adventure/classes/sorcerer/primal-origin"
+      ],
+      "isVirtual": false
+    },
+    {
       "id": "rules/preparing-for-adventure/classes/guardian/vengeance",
       "url": "/rules/preparing-for-adventure/classes/guardian/vengeance",
       "sectionId": "rules",
@@ -1124,14 +1146,14 @@
       "vaultRelPath": "01︱📚︱Правила/01︱📗︱Подготовка к приключениям/03︱📗︱Классы/02︱Страж/Страж — Мститель.md",
       "isIndex": false,
       "parentId": "rules/preparing-for-adventure/classes/guardian",
-      "sortKey": ".d001.d002.d007.000",
+      "sortKey": ".d001.d002.d007.001",
       "chapter": 1,
       "banner": "/rollwithhope/images/Banners/Subclasses/classGuardianVengeance.webp",
       "backlinks": [
         "/rules/preparing-for-adventure/character-creation/step-1-class-and-subclass",
         "/rules/preparing-for-adventure/classes/ranger/ranger",
-        "/rules/preparing-for-adventure/classes/guardian/stalwart",
-        "/rules/preparing-for-adventure/classes/guardian/guardian"
+        "/rules/preparing-for-adventure/classes/guardian/guardian",
+        "/rules/preparing-for-adventure/classes/guardian/stalwart"
       ],
       "isVirtual": false
     },
@@ -1148,35 +1170,13 @@
       "vaultRelPath": "01︱📚︱Правила/01︱📗︱Подготовка к приключениям/03︱📗︱Классы/02︱Страж/Страж — Непоколебимый.md",
       "isIndex": false,
       "parentId": "rules/preparing-for-adventure/classes/guardian",
-      "sortKey": ".d001.d002.d007.001",
+      "sortKey": ".d001.d002.d007.002",
       "chapter": 1,
       "banner": "/rollwithhope/images/Banners/Subclasses/classGuardianStalwart.webp",
       "backlinks": [
         "/rules/preparing-for-adventure/character-creation/step-1-class-and-subclass",
-        "/rules/preparing-for-adventure/classes/guardian/vengeance",
-        "/rules/preparing-for-adventure/classes/guardian/guardian"
-      ],
-      "isVirtual": false
-    },
-    {
-      "id": "rules/preparing-for-adventure/classes/guardian/guardian",
-      "url": "/rules/preparing-for-adventure/classes/guardian/guardian",
-      "sectionId": "rules",
-      "title": "Страж",
-      "layout": "article",
-      "tags": [
-        "class"
-      ],
-      "original": "Guardian",
-      "vaultRelPath": "01︱📚︱Правила/01︱📗︱Подготовка к приключениям/03︱📗︱Классы/02︱Страж/Страж.md",
-      "isIndex": false,
-      "parentId": "rules/preparing-for-adventure/classes/guardian",
-      "sortKey": ".d001.d002.d007.002",
-      "chapter": 1,
-      "banner": "/rollwithhope/images/Banners/Class/classGuardian.webp",
-      "backlinks": [
-        "/rules/preparing-for-adventure/classes/guardian/stalwart",
-        "/rules/preparing-for-adventure/classes/sorcerer/primal-origin"
+        "/rules/preparing-for-adventure/classes/guardian/guardian",
+        "/rules/preparing-for-adventure/classes/guardian/vengeance"
       ],
       "isVirtual": false
     },
@@ -1198,6 +1198,28 @@
       "isVirtual": true
     },
     {
+      "id": "rules/preparing-for-adventure/classes/sorcerer/sorcerer",
+      "url": "/rules/preparing-for-adventure/classes/sorcerer/sorcerer",
+      "sectionId": "rules",
+      "title": "Чародей",
+      "layout": "article",
+      "tags": [
+        "class"
+      ],
+      "original": "Sorcerer",
+      "vaultRelPath": "01︱📚︱Правила/01︱📗︱Подготовка к приключениям/03︱📗︱Классы/02︱Чародей/Чародей.md",
+      "isIndex": false,
+      "parentId": "rules/preparing-for-adventure/classes/sorcerer",
+      "sortKey": ".d001.d002.d008.000",
+      "chapter": 1,
+      "banner": "/rollwithhope/images/Banners/Class/classSorcerer.webp",
+      "backlinks": [
+        "/rules/preparing-for-adventure/classes/sorcerer/elemental-origin",
+        "/rules/preparing-for-adventure/domains/domains"
+      ],
+      "isVirtual": false
+    },
+    {
       "id": "rules/preparing-for-adventure/classes/sorcerer/primal-origin",
       "url": "/rules/preparing-for-adventure/classes/sorcerer/primal-origin",
       "sectionId": "rules",
@@ -1210,14 +1232,14 @@
       "vaultRelPath": "01︱📚︱Правила/01︱📗︱Подготовка к приключениям/03︱📗︱Классы/02︱Чародей/Чародей — Первородный исток.md",
       "isIndex": false,
       "parentId": "rules/preparing-for-adventure/classes/sorcerer",
-      "sortKey": ".d001.d002.d008.000",
+      "sortKey": ".d001.d002.d008.001",
       "chapter": 1,
       "banner": "/rollwithhope/images/Banners/Subclasses/classSorcererPrimalOrigin.webp",
       "backlinks": [
         "/rules/preparing-for-adventure/character-creation/step-1-class-and-subclass",
         "/rules/preparing-for-adventure/classes/guardian/guardian",
-        "/rules/preparing-for-adventure/classes/sorcerer/elemental-origin",
-        "/rules/preparing-for-adventure/classes/sorcerer/sorcerer"
+        "/rules/preparing-for-adventure/classes/sorcerer/sorcerer",
+        "/rules/preparing-for-adventure/classes/sorcerer/elemental-origin"
       ],
       "isVirtual": false
     },
@@ -1234,35 +1256,13 @@
       "vaultRelPath": "01︱📚︱Правила/01︱📗︱Подготовка к приключениям/03︱📗︱Классы/02︱Чародей/Чародей — Стихийный исток.md",
       "isIndex": false,
       "parentId": "rules/preparing-for-adventure/classes/sorcerer",
-      "sortKey": ".d001.d002.d008.001",
+      "sortKey": ".d001.d002.d008.002",
       "chapter": 1,
       "banner": "/rollwithhope/images/Banners/Subclasses/classSorcererElementalOrigin.webp",
       "backlinks": [
         "/rules/preparing-for-adventure/character-creation/step-1-class-and-subclass",
-        "/rules/preparing-for-adventure/classes/sorcerer/primal-origin",
-        "/rules/preparing-for-adventure/classes/sorcerer/sorcerer"
-      ],
-      "isVirtual": false
-    },
-    {
-      "id": "rules/preparing-for-adventure/classes/sorcerer/sorcerer",
-      "url": "/rules/preparing-for-adventure/classes/sorcerer/sorcerer",
-      "sectionId": "rules",
-      "title": "Чародей",
-      "layout": "article",
-      "tags": [
-        "class"
-      ],
-      "original": "Sorcerer",
-      "vaultRelPath": "01︱📚︱Правила/01︱📗︱Подготовка к приключениям/03︱📗︱Классы/02︱Чародей/Чародей.md",
-      "isIndex": false,
-      "parentId": "rules/preparing-for-adventure/classes/sorcerer",
-      "sortKey": ".d001.d002.d008.002",
-      "chapter": 1,
-      "banner": "/rollwithhope/images/Banners/Class/classSorcerer.webp",
-      "backlinks": [
-        "/rules/preparing-for-adventure/classes/sorcerer/elemental-origin",
-        "/rules/preparing-for-adventure/domains/domains"
+        "/rules/preparing-for-adventure/classes/sorcerer/sorcerer",
+        "/rules/preparing-for-adventure/classes/sorcerer/primal-origin"
       ],
       "isVirtual": false
     },
@@ -2329,7 +2329,7 @@
       "chapter": 2,
       "banner": "/rollwithhope/images/Banners/Core rules/rollWithFearAndHope.webp",
       "backlinks": [
-        "/rules/introduction/what-is-this",
+        "/rules/preface/what-is-this",
         "/rules/playing-an-adventure/duality-dice",
         "/rules/playing-an-adventure/evasion"
       ],

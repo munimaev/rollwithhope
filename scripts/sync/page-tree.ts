@@ -103,7 +103,7 @@ export function buildSectionPages(
 
     const sortedFiles = hasSortspec
       ? [...files].sort((a, b) => stripPrefix(a.name).localeCompare(stripPrefix(b.name), 'ru'))
-      : [...files].sort((a, b) => a.name.localeCompare(b.name, 'en'))
+      : [...files].sort((a, b) => a.name.replace(/\.md$/, '').localeCompare(b.name.replace(/\.md$/, ''), 'en'))
     const sortedDirs = hasSortspec
       ? [...dirs].sort((a, b) => stripPrefix(a.name).localeCompare(stripPrefix(b.name), 'ru'))
       : [...dirs].sort((a, b) => a.name.localeCompare(b.name, 'en'))

@@ -1,7 +1,7 @@
 <template>
 <div class="prose" data-chapter="3" data-section="rules">
 <p>Ниже — примеры сложности для каждого атрибута. Не обязательно сверяться с ними во время игры: изучите заранее, чтобы понимать примерный уровень сложности, и затем свободно решайте на ходу, когда игроки описывают действия персонажей.</p>
-<h2 id="проворность"><span class="marker" data-marker="chapter"></span>Проворность<a class="anchor" href="#проворность" aria-label="Ссылка на раздел"></a></h2>
+<h4 id="проворность"><span class="marker" data-marker="chapter"></span>Проворность<a class="anchor" href="#проворность" aria-label="Ссылка на раздел"></a></h4>
 <div class="table-wrap"><table>
 <thead>
 <tr>
@@ -104,7 +104,7 @@
 </tr>
 </tbody>
 </table></div>
-<h2 id="сила"><span class="marker" data-marker="chapter"></span>Сила<a class="anchor" href="#сила" aria-label="Ссылка на раздел"></a></h2>
+<h4 id="сила"><span class="marker" data-marker="chapter"></span>Сила<a class="anchor" href="#сила" aria-label="Ссылка на раздел"></a></h4>
 <div class="table-wrap"><table>
 <thead>
 <tr>
@@ -207,7 +207,7 @@
 </tr>
 </tbody>
 </table></div>
-<h2 id="искусность"><span class="marker" data-marker="chapter"></span>Искусность<a class="anchor" href="#искусность" aria-label="Ссылка на раздел"></a></h2>
+<h4 id="искусность"><span class="marker" data-marker="chapter"></span>Искусность<a class="anchor" href="#искусность" aria-label="Ссылка на раздел"></a></h4>
 <div class="table-wrap"><table>
 <thead>
 <tr>
@@ -310,7 +310,7 @@
 </tr>
 </tbody>
 </table></div>
-<h2 id="чутьё"><span class="marker" data-marker="chapter"></span>Чутьё<a class="anchor" href="#чутьё" aria-label="Ссылка на раздел"></a></h2>
+<h4 id="чутьё"><span class="marker" data-marker="chapter"></span>Чутьё<a class="anchor" href="#чутьё" aria-label="Ссылка на раздел"></a></h4>
 <div class="table-wrap"><table>
 <thead>
 <tr>
@@ -413,7 +413,7 @@
 </tr>
 </tbody>
 </table></div>
-<h2 id="влияние"><span class="marker" data-marker="chapter"></span>Влияние<a class="anchor" href="#влияние" aria-label="Ссылка на раздел"></a></h2>
+<h4 id="влияние"><span class="marker" data-marker="chapter"></span>Влияние<a class="anchor" href="#влияние" aria-label="Ссылка на раздел"></a></h4>
 <div class="table-wrap"><table>
 <thead>
 <tr>
@@ -516,7 +516,7 @@
 </tr>
 </tbody>
 </table></div>
-<h2 id="знание"><span class="marker" data-marker="chapter"></span>Знание<a class="anchor" href="#знание" aria-label="Ссылка на раздел"></a></h2>
+<h4 id="знание"><span class="marker" data-marker="chapter"></span>Знание<a class="anchor" href="#знание" aria-label="Ссылка на раздел"></a></h4>
 <div class="table-wrap"><table>
 <thead>
 <tr>

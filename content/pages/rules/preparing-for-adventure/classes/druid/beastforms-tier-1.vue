@@ -1,23 +1,6 @@
 <template>
 <div class="prose" data-chapter="1" data-section="rules">
-<div class="table-wrap"><table>
-<thead>
-<tr>
-<th><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Beastform/beastform-1-agile-scout-660.webp" src="/rollwithhope/images/Cards/Beastform/beastform-1-agile-scout-330.webp" width="330" height="462" loading="lazy" alt="beastform-1-agile-scout.webp" /></figure></th>
-<th><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Beastform/beastform-1-household-friend-660.webp" src="/rollwithhope/images/Cards/Beastform/beastform-1-household-friend-330.webp" width="330" height="462" loading="lazy" alt="beastform-1-household-friend.webp" /></figure></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Beastform/beastform-1-nimble-grazer-660.webp" src="/rollwithhope/images/Cards/Beastform/beastform-1-nimble-grazer-330.webp" width="330" height="462" loading="lazy" alt="beastform-1-nimble-grazer.webp" /></figure></td>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Beastform/beastform-1-pack-predator-660.webp" src="/rollwithhope/images/Cards/Beastform/beastform-1-pack-predator-330.webp" width="330" height="462" loading="lazy" alt="beastform-1-pack-predator.webp" /></figure></td>
-</tr>
-<tr>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Beastform/beastform-1-aquatic-scout-660.webp" src="/rollwithhope/images/Cards/Beastform/beastform-1-aquatic-scout-330.webp" width="330" height="462" loading="lazy" alt="beastform-1-aquatic-scout.webp" /></figure></td>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Beastform/beastform-1-stalking-arachnid-660.webp" src="/rollwithhope/images/Cards/Beastform/beastform-1-stalking-arachnid-330.webp" width="330" height="462" loading="lazy" alt="beastform-1-stalking-arachnid.webp" /></figure></td>
-</tr>
-</tbody>
-</table></div>
+<div class="card-row"><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Beastform/beastform-1-agile-scout-660.webp" src="/rollwithhope/images/Cards/Beastform/beastform-1-agile-scout-330.webp" width="330" height="462" loading="lazy" alt="beastform-1-agile-scout.webp" /></figure><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Beastform/beastform-1-household-friend-660.webp" src="/rollwithhope/images/Cards/Beastform/beastform-1-household-friend-330.webp" width="330" height="462" loading="lazy" alt="beastform-1-household-friend.webp" /></figure><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Beastform/beastform-1-nimble-grazer-660.webp" src="/rollwithhope/images/Cards/Beastform/beastform-1-nimble-grazer-330.webp" width="330" height="462" loading="lazy" alt="beastform-1-nimble-grazer.webp" /></figure><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Beastform/beastform-1-pack-predator-660.webp" src="/rollwithhope/images/Cards/Beastform/beastform-1-pack-predator-330.webp" width="330" height="462" loading="lazy" alt="beastform-1-pack-predator.webp" /></figure><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Beastform/beastform-1-aquatic-scout-660.webp" src="/rollwithhope/images/Cards/Beastform/beastform-1-aquatic-scout-330.webp" width="330" height="462" loading="lazy" alt="beastform-1-aquatic-scout.webp" /></figure><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Beastform/beastform-1-stalking-arachnid-660.webp" src="/rollwithhope/images/Cards/Beastform/beastform-1-stalking-arachnid-330.webp" width="330" height="462" loading="lazy" alt="beastform-1-stalking-arachnid.webp" /></figure></div>
 <hr>
 <h4 id="проворный-разведчик-agile-scout"><span class="marker" data-marker="chapter"></span>Проворный разведчик - Agile Scout<a class="anchor" href="#проворный-разведчик-agile-scout" aria-label="Ссылка на раздел"></a></h4>
 <p>🐾 <strong>︱ Примеры животных:</strong> лиса, мышь, ласка и др.</p>

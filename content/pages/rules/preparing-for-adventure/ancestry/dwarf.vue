@@ -1,12 +1,11 @@
 <template>
 <div class="prose" data-chapter="1" data-section="rules">
-<h2 id="описание"><span class="marker" data-marker="chapter"></span>Описание<a class="anchor" href="#описание" aria-label="Ссылка на раздел"></a></h2>
 <p>Вы легко узнаете дварфа по низкому росту, квадратному телосложению, крепкой мускулатуре и густой растительности на лице.  В среднем их рост составляет от 4 до 5 с половиной футов, при этом они обычно отличаются широким телосложением по сравнению со своим ростом. Их кожа и ногти содержат высокий уровень кератина, что делает их тела естественно выносливыми. Благодаря этому дварфы могут вживлять в кожу драгоценные камни и украшать себя татуировками или пирсингом. Их волосы растут особенно густо — обычно на голове, но некоторые дварфы покрыты волосами и по всему телу. Дварфы обоих полов могут отращивать бороды, которые они часто заплетают в замысловатые косы. Обычно дварфы доживают до 250 лет, сохраняя мышечную массу даже в пожилом возрасте.</p>
-<h4 id="свойства-происхождения"><span class="marker" data-marker="minor"></span>Свойства происхождения<a class="anchor" href="#свойства-происхождения" aria-label="Ссылка на раздел"></a></h4>
+<h4 id="свойства-происхождения"><span class="marker" data-marker="chapter"></span>Свойства происхождения<a class="anchor" href="#свойства-происхождения" aria-label="Ссылка на раздел"></a></h4>
 <p><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Ancestry/card-dwarf-660.webp" src="/rollwithhope/images/Cards/Ancestry/card-dwarf-330.webp" width="330" height="462" loading="lazy" alt="card-dwarf.webp" /></figure></p>
-<h6 id="толстокожий-thick-skin">Толстокожий - Thick Skin<a class="anchor" href="#толстокожий-thick-skin" aria-label="Ссылка на раздел"></a></h6>
+<h6 id="толстокожий-thick-skin"><span class="marker" data-marker="minor"></span>Толстокожий - Thick Skin<a class="anchor" href="#толстокожий-thick-skin" aria-label="Ссылка на раздел"></a></h6>
 <p>При получении лёгкого урона вы можете <strong>получить 2 Стресса</strong> вместо 1 Раны.</p>
-<h6 id="повышенная-стойкость-increased-fortitude">Повышенная стойкость - Increased Fortitude<a class="anchor" href="#повышенная-стойкость-increased-fortitude" aria-label="Ссылка на раздел"></a></h6>
+<h6 id="повышенная-стойкость-increased-fortitude"><span class="marker" data-marker="minor"></span>Повышенная стойкость - Increased Fortitude<a class="anchor" href="#повышенная-стойкость-increased-fortitude" aria-label="Ссылка на раздел"></a></h6>
 <p><strong>Потратьте 3 Надежды</strong>, чтобы снизить входящий физический урон вдвое.</p>
 <hr>
 </div>

@@ -4,6 +4,8 @@ import remarkGfm from 'remark-gfm'
 import remarkRehype from 'remark-rehype'
 import rehypeStringify from 'rehype-stringify'
 import { remarkCallouts } from './callouts.js'
+import { remarkCardTable } from './card-table.js'
+import { remarkSubclassCards } from './subclass-cards.js'
 import { remarkHeadings } from './headings.js'
 import { remarkDropPrevNext } from './drop-prevnext.js'
 import { remarkDisallowRawHtml } from './disallow-html.js'
@@ -23,6 +25,8 @@ export async function renderMarkdown(markdown: string, ctx: RenderContext): Prom
   const processor = unified()
     .use(remarkParse)
     .use(remarkGfm)
+    .use(remarkCardTable, matches)
+    .use(remarkSubclassCards, matches, ctx)
     .use(remarkCallouts)
     .use(remarkDropPrevNext)
     .use(remarkHeadings)

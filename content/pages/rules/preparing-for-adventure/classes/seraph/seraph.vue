@@ -27,7 +27,7 @@
 </blockquote>
 <hr>
 <h4 id="свойство-надежды-серафима"><span class="marker" data-marker="chapter"></span>Свойство надежды серафима<a class="anchor" href="#свойство-надежды-серафима" aria-label="Ссылка на раздел"></a></h4>
-<h5 id="поддержание-жизни"><span class="marker" data-marker="minor"></span>Поддержание жизни<a class="anchor" href="#поддержание-жизни" aria-label="Ссылка на раздел"></a></h5>
+<h6 id="поддержание-жизни"><span class="marker" data-marker="minor"></span>Поддержание жизни<a class="anchor" href="#поддержание-жизни" aria-label="Ссылка на раздел"></a></h6>
 <p><strong>Потратьте 3 Надежды</strong>, чтобы вылечить Рану союзнику в пределах средней дистанции.</p>
 <hr>
 <h4 id="свойство-класса"><span class="marker" data-marker="chapter"></span>Свойство класса<a class="anchor" href="#свойство-класса" aria-label="Ссылка на раздел"></a></h4>

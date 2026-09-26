@@ -27,7 +27,7 @@
 </blockquote>
 <hr>
 <h4 id="свойство-надежды-плута"><span class="marker" data-marker="chapter"></span>Свойство надежды плута<a class="anchor" href="#свойство-надежды-плута" aria-label="Ссылка на раздел"></a></h4>
-<h5 id="изворотливость-плута"><span class="marker" data-marker="minor"></span>Изворотливость плута<a class="anchor" href="#изворотливость-плута" aria-label="Ссылка на раздел"></a></h5>
+<h6 id="изворотливость-плута"><span class="marker" data-marker="minor"></span>Изворотливость плута<a class="anchor" href="#изворотливость-плута" aria-label="Ссылка на раздел"></a></h6>
 <p><strong>Потратьте 3 Надежды</strong>, чтобы получить +2 к Уклонению до конца следующего отдыха. Этот эффект заканчивается, если по вам попадают атакой.</p>
 <hr>
 <h4 id="свойства-класса"><span class="marker" data-marker="chapter"></span>Свойства класса<a class="anchor" href="#свойства-класса" aria-label="Ссылка на раздел"></a></h4>

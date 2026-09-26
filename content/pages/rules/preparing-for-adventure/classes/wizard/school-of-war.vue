@@ -9,20 +9,7 @@
 </blockquote>
 <hr>
 <h4 id="карты-подкласса"><span class="marker" data-marker="chapter"></span>Карты подкласса<a class="anchor" href="#карты-подкласса" aria-label="Ссылка на раздел"></a></h4>
-<div class="table-wrap"><table>
-<thead>
-<tr>
-<th><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Classes/Wizard/card-school-of-war-1-foundation-660.webp" src="/rollwithhope/images/Cards/Classes/Wizard/card-school-of-war-1-foundation-330.webp" width="330" height="462" loading="lazy" alt="card-school-of-war-1-foundation.webp" /></figure></th>
-<th><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Classes/Wizard/card-school-of-war-2-specialization-660.webp" src="/rollwithhope/images/Cards/Classes/Wizard/card-school-of-war-2-specialization-330.webp" width="330" height="462" loading="lazy" alt="card-school-of-war-2-specialization.webp" /></figure></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Classes/Wizard/card-school-of-war-3-mastery-660.webp" src="/rollwithhope/images/Cards/Classes/Wizard/card-school-of-war-3-mastery-330.webp" width="330" height="462" loading="lazy" alt="card-school-of-war-3-mastery.webp" /></figure></td>
-<td></td>
-</tr>
-</tbody>
-</table></div>
+<div class="card-row"><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Classes/Wizard/card-school-of-war-1-foundation-660.webp" src="/rollwithhope/images/Cards/Classes/Wizard/card-school-of-war-1-foundation-330.webp" width="330" height="462" loading="lazy" alt="card-school-of-war-1-foundation.webp" /></figure><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Classes/Wizard/card-school-of-war-2-specialization-660.webp" src="/rollwithhope/images/Cards/Classes/Wizard/card-school-of-war-2-specialization-330.webp" width="330" height="462" loading="lazy" alt="card-school-of-war-2-specialization.webp" /></figure><figure><img data-lightbox data-full="/rollwithhope/images/Cards/Classes/Wizard/card-school-of-war-3-mastery-660.webp" src="/rollwithhope/images/Cards/Classes/Wizard/card-school-of-war-3-mastery-330.webp" width="330" height="462" loading="lazy" alt="card-school-of-war-3-mastery.webp" /></figure></div>
 <hr>
 <h4 id="свойства-подкласса-основа"><span class="marker" data-marker="chapter"></span>Свойства подкласса — Основа<a class="anchor" href="#свойства-подкласса-основа" aria-label="Ссылка на раздел"></a></h4>
 <h6 id="боевой-маг"><span class="marker" data-marker="minor"></span>Боевой маг<a class="anchor" href="#боевой-маг" aria-label="Ссылка на раздел"></a></h6>

@@ -19,8 +19,7 @@ const eyebrow = computed(() => {
   const crumbs = breadcrumbs.value
   // breadcrumbs[0] — корень раздела, breadcrumbs[1] — папка главы; сама страница может быть этой папкой
   const chapterCrumb = crumbs.length > 1 ? crumbs[1] : crumbs[0]
-  const chapterTitle = chapterCrumb?.title ?? page.value.title
-  return page.value.chapter > 0 ? `Глава ${page.value.chapter} · ${chapterTitle}` : chapterTitle
+  return chapterCrumb?.title ?? page.value.title
 })
 const prevNext = computed(() => (page.value ? getPrevNext(page.value) : { prev: null, next: null }))
 const backlinks = computed(() => (page.value ? getBacklinkPages(page.value) : []))
@@ -56,21 +55,10 @@ onBeforeUnmount(() => {
 
 <template>
   <article v-if="page" :data-chapter="page.chapter" :data-section="page.sectionId">
-    <nav class="crumbs" aria-label="Хлебные крошки">
-      <a v-if="breadcrumbs.length > 1 && breadcrumbs[breadcrumbs.length - 2].url" :href="breadcrumbs[breadcrumbs.length - 2].url!" class="crumbs-back">Назад</a>
-      <ol>
-        <li v-for="(b, i) in breadcrumbs" :key="b.id" :aria-current="i === breadcrumbs.length - 1 ? 'page' : undefined">
-          <a v-if="b.url" :href="b.url">{{ b.title }}</a>
-          <span v-else>{{ b.title }}</span>
-        </li>
-      </ol>
-    </nav>
-
     <header class="hero" :data-has-banner="!!page.banner">
       <figure v-if="page.banner" class="banner">
         <img :src="page.banner" width="2172" height="724" loading="lazy" alt="" />
       </figure>
-      <div v-if="page.banner" class="banner-vignette" aria-hidden="true"></div>
       <div v-else class="hero-frame" aria-hidden="true"></div>
       <p class="eyebrow">
         <span class="eyebrow-seal" aria-hidden="true"></span>

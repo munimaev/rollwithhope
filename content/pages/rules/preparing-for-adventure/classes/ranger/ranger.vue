@@ -27,7 +27,7 @@
 </blockquote>
 <hr>
 <h4 id="свойство-надежды-следопыта"><span class="marker" data-marker="chapter"></span>Свойство надежды следопыта<a class="anchor" href="#свойство-надежды-следопыта" aria-label="Ссылка на раздел"></a></h4>
-<h5 id="сдержать-натиск"><span class="marker" data-marker="minor"></span>Сдержать натиск<a class="anchor" href="#сдержать-натиск" aria-label="Ссылка на раздел"></a></h5>
+<h6 id="сдержать-натиск"><span class="marker" data-marker="minor"></span>Сдержать натиск<a class="anchor" href="#сдержать-натиск" aria-label="Ссылка на раздел"></a></h6>
 <p><strong>Потратьте 3 Надежды</strong> при успешной атаке оружием, чтобы применить тот же бросок против двух дополнительных противников в пределах дистанции атаки.</p>
 <hr>
 <h4 id="свойства-класса"><span class="marker" data-marker="chapter"></span>Свойства класса<a class="anchor" href="#свойства-класса" aria-label="Ссылка на раздел"></a></h4>

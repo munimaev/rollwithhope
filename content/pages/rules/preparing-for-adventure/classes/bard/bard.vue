@@ -27,7 +27,7 @@
 </blockquote>
 <hr>
 <h4 id="свойство-надежды-барда"><span class="marker" data-marker="chapter"></span>Свойство надежды барда<a class="anchor" href="#свойство-надежды-барда" aria-label="Ссылка на раздел"></a></h4>
-<h5 id="устроить-сцену"><span class="marker" data-marker="minor"></span>Устроить сцену<a class="anchor" href="#устроить-сцену" aria-label="Ссылка на раздел"></a></h5>
+<h6 id="устроить-сцену"><span class="marker" data-marker="minor"></span>Устроить сцену<a class="anchor" href="#устроить-сцену" aria-label="Ссылка на раздел"></a></h6>
 <p><strong>Потратьте 3 Надежды</strong>, чтобы временно <em>Отвлечь</em> цель в пределах Средней дистанции, снижая её Сложность на 2.</p>
 <hr>
 <h4 id="свойство-класса"><span class="marker" data-marker="chapter"></span>Свойство класса<a class="anchor" href="#свойство-класса" aria-label="Ссылка на раздел"></a></h4>

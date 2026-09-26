@@ -1,6 +1,6 @@
 <template>
 <div class="prose" data-chapter="2" data-section="rules">
-<h5 id="дополнительное-оружие"><span class="marker" data-marker="minor"></span>Дополнительное оружие<a class="anchor" href="#дополнительное-оружие" aria-label="Ссылка на раздел"></a></h5>
+<h6 id="дополнительное-оружие"><span class="marker" data-marker="minor"></span>Дополнительное оружие<a class="anchor" href="#дополнительное-оружие" aria-label="Ссылка на раздел"></a></h6>
 <p><figure class="illustration" style="--dh-img-width:100%"><img src="/rollwithhope/images/Banners/Core rules/weaponSecondaryTier2.webp" width="1600" height="533" loading="lazy" alt="weaponSecondaryTier2.webp" /></figure></p>
 <div class="table-wrap"><table>
 <thead>

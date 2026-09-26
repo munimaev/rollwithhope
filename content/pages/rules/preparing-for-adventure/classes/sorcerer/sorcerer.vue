@@ -27,7 +27,7 @@
 </blockquote>
 <hr>
 <h4 id="свойство-надежды-чародея"><span class="marker" data-marker="chapter"></span>Свойство надежды чародея<a class="anchor" href="#свойство-надежды-чародея" aria-label="Ссылка на раздел"></a></h4>
-<h5 id="нестабильная-магия"><span class="marker" data-marker="minor"></span>Нестабильная магия<a class="anchor" href="#нестабильная-магия" aria-label="Ссылка на раздел"></a></h5>
+<h6 id="нестабильная-магия"><span class="marker" data-marker="minor"></span>Нестабильная магия<a class="anchor" href="#нестабильная-магия" aria-label="Ссылка на раздел"></a></h6>
 <p><strong>Потратьте 3 Надежды</strong>, чтобы перебросить любое количество своих костей урона при атаке, причиняющей магический урон.</p>
 <hr>
 <h4 id="свойства-класса"><span class="marker" data-marker="chapter"></span>Свойства класса<a class="anchor" href="#свойства-класса" aria-label="Ссылка на раздел"></a></h4>

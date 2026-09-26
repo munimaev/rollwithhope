@@ -6,7 +6,7 @@ import { headingSlug } from './headings.js'
 const TOKEN_OPEN = 'WT'
 const TOKEN_CLOSE = ''
 
-interface WikiMatch {
+export interface WikiMatch {
   token: string
   kind: 'embed' | 'link' | 'anchor'
   target: string
@@ -96,22 +96,35 @@ export async function resolveWikiTokens(
   return out
 }
 
-function resolveLink(m: WikiMatch, ctx: WikiResolveContext): string {
+/** Резолвит цель вики-ссылки в URL — используется и обычной вики-ссылкой в тексте
+ * (resolveLink), и компонентами, которым нужен голый href без обёртки в <a>/<span>
+ * (например SubclassCard — вся карточка одна ссылка, вложенной быть не должно). */
+export function resolveLinkTarget(
+  m: Pick<WikiMatch, 'target' | 'alias'>,
+  ctx: WikiResolveContext,
+): { url: string | null; label: string } {
   const note = ctx.vaultIndex.resolve(m.target)
-  const label = escapeHtml(m.alias ?? m.target.split('/').pop() ?? m.target)
+  const label = m.alias ?? m.target.split('/').pop() ?? m.target
   if (!note) {
     ctx.warnings.push(`Ссылка на несуществующую заметку: [[${m.target}]] (в ${ctx.currentUrl})`)
-    return `<span class="wikilink wikilink--dead">${label}</span>`
+    return { url: null, label }
   }
   const url = ctx.urlMap.get(note.vaultRelPath)
   if (!url || !note.isPublic) {
     ctx.warnings.push(`Ссылка на неопубликованную заметку: [[${m.target}]] (в ${ctx.currentUrl})`)
-    return `<span class="wikilink wikilink--dead">${label}</span>`
+    return { url: null, label }
   }
   const set = ctx.backlinks.get(url) ?? new Set<string>()
   set.add(ctx.currentUrl)
   ctx.backlinks.set(url, set)
-  return `<a class="wikilink" href="${url}">${label}</a>`
+  return { url, label }
+}
+
+function resolveLink(m: WikiMatch, ctx: WikiResolveContext): string {
+  const { url, label } = resolveLinkTarget(m, ctx)
+  const escapedLabel = escapeHtml(label)
+  if (!url) return `<span class="wikilink wikilink--dead">${escapedLabel}</span>`
+  return `<a class="wikilink" href="${url}">${escapedLabel}</a>`
 }
 
 export const IMAGE_EXT = /\.(webp|png|jpe?g|svg|gif)$/i

@@ -27,7 +27,7 @@
 </blockquote>
 <hr>
 <h4 id="свойство-надежды-стража"><span class="marker" data-marker="chapter"></span>Свойство надежды стража<a class="anchor" href="#свойство-надежды-стража" aria-label="Ссылка на раздел"></a></h4>
-<h5 id="щит-авангарда"><span class="marker" data-marker="minor"></span>Щит авангарда<a class="anchor" href="#щит-авангарда" aria-label="Ссылка на раздел"></a></h5>
+<h6 id="щит-авангарда"><span class="marker" data-marker="minor"></span>Щит авангарда<a class="anchor" href="#щит-авангарда" aria-label="Ссылка на раздел"></a></h6>
 <p><strong>Потратьте 3 Надежды</strong>, чтобы восстановить 2 ячейки Брони.</p>
 <hr>
 <h4 id="свойства-класса"><span class="marker" data-marker="chapter"></span>Свойства класса<a class="anchor" href="#свойства-класса" aria-label="Ссылка на раздел"></a></h4>

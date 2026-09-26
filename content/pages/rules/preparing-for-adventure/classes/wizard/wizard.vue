@@ -26,7 +26,7 @@
 </blockquote>
 <hr>
 <h4 id="свойство-надежды-волшебника"><span class="marker" data-marker="chapter"></span>Свойство надежды волшебника<a class="anchor" href="#свойство-надежды-волшебника" aria-label="Ссылка на раздел"></a></h4>
-<h5 id="не-в-этот-раз"><span class="marker" data-marker="minor"></span>Не в этот раз<a class="anchor" href="#не-в-этот-раз" aria-label="Ссылка на раздел"></a></h5>
+<h6 id="не-в-этот-раз"><span class="marker" data-marker="minor"></span>Не в этот раз<a class="anchor" href="#не-в-этот-раз" aria-label="Ссылка на раздел"></a></h6>
 <p><strong>Потратьте 3 Надежды</strong>, чтобы заставить противника в пределах дальней дистанции перебросить бросок атаки или урона.</p>
 <hr>
 <h4 id="свойства-класса"><span class="marker" data-marker="chapter"></span>Свойства класса<a class="anchor" href="#свойства-класса" aria-label="Ссылка на раздел"></a></h4>
